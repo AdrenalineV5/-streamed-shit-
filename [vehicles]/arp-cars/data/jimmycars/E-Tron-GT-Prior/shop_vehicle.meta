@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+	<Item>
+		<lockHash>CU_VEH_etrongt22prior</lockHash>
+		<modelNameHash>etrongt22prior</modelNameHash>
+		<cost value="100"/>
+		<textLabel>etrongt22prior</textLabel>
+		<textLabel></textLabel>
+	</Item>
+	</Vehicles>
+</ShopVehicleDataArray>
