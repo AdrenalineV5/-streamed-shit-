@@ -1,0 +1,7 @@
+QWERTYMODS
+
+Install
+
+	Grand Theft Auto V\mods\x64l.rpf\levels\gta5\_cityw\beverly_01\bh1_48.rpf\
+
+Goto Above location and replace files inside this folder.
