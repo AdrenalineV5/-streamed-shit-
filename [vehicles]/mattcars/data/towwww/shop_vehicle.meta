@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_fraptor_VEH</lockHash>
+			<modelNameHash>fraptor</modelNameHash>
+			<cost value="100"/>
+			<textLabel>fraptor</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>
