@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- ### launcher ### -->
+		
+		<Item>
+			<modelName>W_LR_TAGM65</modelName>
+			<txdName>W_LR_TAGM65</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="100"/>
+		</Item>
+		<Item>
+			<modelName>W_LR_THYDRA</modelName>
+			<txdName>W_LR_THYDRA</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="100"/>
+		</Item>
+		<Item>
+			<modelName>W_LR_AIM9T</modelName>
+			<txdName>W_LR_AIM9T</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="100"/>
+		</Item>
+
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

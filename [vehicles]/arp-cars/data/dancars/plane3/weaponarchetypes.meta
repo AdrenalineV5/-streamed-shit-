@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- ### launcher ### -->
+		
+		<Item>
+			<modelName>W_LR_UAV</modelName>
+			<txdName>W_LR_UAV</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+		<Item>
+			<modelName>W_LR_ADF_AIM9</modelName>
+			<txdName>W_LR_ADF_AIM9</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="200"/>
+		</Item>
+
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+	<Item>
+		<lockHash>CU_VEH_glsmaybachon30s</lockHash>
+		<modelNameHash>glsmaybachon30s</modelNameHash>
+		<cost value="100"/>
+		<textLabel>glsmaybachon30s</textLabel>
+		<textLabel></textLabel>
+	</Item>
+	</Vehicles>
+</ShopVehicleDataArray>
