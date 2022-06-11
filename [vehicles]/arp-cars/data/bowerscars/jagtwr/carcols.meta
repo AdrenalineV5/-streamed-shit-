@@ -11,28 +11,28 @@
       <statMods>
         <Item>
           <identifier />
-          <modifier value="15" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="20" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="35" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
-        </Item>
-        <Item>
-          <identifier />
           <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="125" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="150" />
           <audioApply value="1.000000" />
           <weight value="20" />
           <type>VMT_ENGINE</type>
