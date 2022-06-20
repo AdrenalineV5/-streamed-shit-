@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
       <Item>
-      <kitName>8654_rmodchiron300_modkit</kitName>
-      <id value="8654" />	 	  
+      <kitName>6154_rmodchiron300_modkit</kitName>
+      <id value="6154" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       </visibleMods>
