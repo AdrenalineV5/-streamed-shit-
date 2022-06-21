@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>3249_yzfr1_modkit</kitName>
-      <id value="3249" />	 	  
+      <kitName>2254_yzfr1_modkit</kitName>
+      <id value="2254" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
