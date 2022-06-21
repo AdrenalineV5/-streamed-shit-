@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>925_ugc488_modkit</kitName>
-      <id value="925" />	 	  
+      <kitName>1125_ugc488_modkit</kitName>
+      <id value="1125" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods />
       <linkMods />
@@ -185,7 +185,7 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
-          <modifier value="3892554122" />
+          <modifier value="38112554122" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
