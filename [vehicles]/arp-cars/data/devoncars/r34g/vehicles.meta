@@ -8,14 +8,14 @@
       <txdName>r34g</txdName>
       <handlingId>r34g</handlingId>
       <gameName>r34g</gameName>
-      <vehicleMakeName>Nissan</vehicleMakeName>
+      <vehicleMakeName>NISSAN</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>SULTANRS</audioNameHash>
+      <audioNameHash>sultanrs</audioNameHash>
       <layout>LAYOUT_STD_r34g</layout>
       <coverBoundOffsets>r34g_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
