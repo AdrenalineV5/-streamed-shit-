@@ -10,8 +10,8 @@
 
 
     <Item>
-      <kitName>1008_mansgt_modkit</kitName>
-      <id value="1008" />	 	  
+      <kitName>925_mansgt_modkit</kitName>
+      <id value="925" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       <statMods>
