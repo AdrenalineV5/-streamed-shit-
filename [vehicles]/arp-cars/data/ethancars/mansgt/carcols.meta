@@ -10,8 +10,8 @@
 
 
     <Item>
-      <kitName>1682_mansgt_modkit</kitName>
-      <id value="1682" />	 	  
+      <kitName>2284_mansgt_modkit</kitName>
+      <id value="2284" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       <statMods>
@@ -192,7 +192,7 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
-          <modifier value="38168254122" />
+          <modifier value="38228454122" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
