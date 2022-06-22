@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>906_ninjah2_modkit</kitName>
-      <id value="906" />	 	  
+      <kitName>2246_ninjah2_modkit</kitName>
+      <id value="2246" />	 	  
       <kitType>MKT_STANDARD</kitType>
       <visibleMods> 
         <Item>
