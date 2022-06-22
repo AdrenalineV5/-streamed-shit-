@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
    <Item>
-      <kitName>3398_SaleemC7_modkit</kitName>
-      <id value="3398" />	 	  
+      <kitName>2246_SaleemC7_modkit</kitName>
+      <id value="2246" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 	  	<Item>
