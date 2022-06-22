@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>925_leonaven_modkit</kitName>
-      <id value="925" />	 	  
+      <kitName>1654_leonaven_modkit</kitName>
+      <id value="1654" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
@@ -448,7 +448,7 @@
         </Item>
         <Item>
           <identifier>HORN_COP</identifier>
-          <modifier value="292541925469" />
+          <modifier value="21654411654469" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -469,7 +469,7 @@
         </Item>
         <Item>
           <identifier>HORN_MUSICAL_2</identifier>
-          <modifier value="20461629253" />
+          <modifier value="204616216543" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -504,21 +504,21 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
-          <modifier value="36285342925" />
+          <modifier value="362853421654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
-          <modifier value="39252554122" />
+          <modifier value="316542554122" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
-          <modifier value="41129252878" />
+          <modifier value="411216542878" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -539,14 +539,14 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
-          <modifier value="29826925084" />
+          <modifier value="298261654084" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
 		</Item>
 		<Item>
           <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
-          <modifier value="32032925992" />
+          <modifier value="320321654992" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -616,7 +616,7 @@
         </Item>
         <Item>
           <identifier>HIPSTER_HORN_2</identifier>
-          <modifier value="16030649258" />
+          <modifier value="160306416548" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -637,7 +637,7 @@
         </Item>
         <Item>
           <identifier>INDEP_HORN_1</identifier>
-          <modifier value="35721447925" />
+          <modifier value="357214471654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -658,7 +658,7 @@
         </Item>
         <Item>
           <identifier>INDEP_HORN_4</identifier>
-          <modifier value="33418114925" />
+          <modifier value="334181141654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -672,7 +672,7 @@
         </Item>
 		<Item>
           <identifier>LUXE_HORN_2</identifier>
-          <modifier value="29250378064" />
+          <modifier value="216540378064" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -748,7 +748,7 @@
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
 		<Item>
           <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
-          <modifier value="29655692587" />
+          <modifier value="296556165487" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -793,7 +793,7 @@
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
 		<Item>
           <identifier>XM15_HORN_02_PREVIEW</identifier>
-          <modifier value="9257484282" />
+          <modifier value="16547484282" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1254,7 +1254,7 @@
         </Item>
         <Item>
           <identifier>HORN_COP</identifier>
-          <modifier value="292541925469" />
+          <modifier value="21654411654469" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1275,7 +1275,7 @@
         </Item>
         <Item>
           <identifier>HORN_MUSICAL_2</identifier>
-          <modifier value="20461629253" />
+          <modifier value="204616216543" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1310,21 +1310,21 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
-          <modifier value="36285342925" />
+          <modifier value="362853421654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
-          <modifier value="39252554122" />
+          <modifier value="316542554122" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
-          <modifier value="41129252878" />
+          <modifier value="411216542878" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1345,14 +1345,14 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
-          <modifier value="29826925084" />
+          <modifier value="298261654084" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
 		</Item>
 		<Item>
           <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
-          <modifier value="32032925992" />
+          <modifier value="320321654992" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1422,7 +1422,7 @@
         </Item>
         <Item>
           <identifier>HIPSTER_HORN_2</identifier>
-          <modifier value="16030649258" />
+          <modifier value="160306416548" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1443,7 +1443,7 @@
         </Item>
         <Item>
           <identifier>INDEP_HORN_1</identifier>
-          <modifier value="35721447925" />
+          <modifier value="357214471654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1464,7 +1464,7 @@
         </Item>
         <Item>
           <identifier>INDEP_HORN_4</identifier>
-          <modifier value="33418114925" />
+          <modifier value="334181141654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1478,7 +1478,7 @@
         </Item>
 		<Item>
           <identifier>LUXE_HORN_2</identifier>
-          <modifier value="29250378064" />
+          <modifier value="216540378064" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1554,7 +1554,7 @@
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
 		<Item>
           <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
-          <modifier value="29655692587" />
+          <modifier value="296556165487" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1599,7 +1599,7 @@
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
 		<Item>
           <identifier>XM15_HORN_02_PREVIEW</identifier>
-          <modifier value="9257484282" />
+          <modifier value="16547484282" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1624,7 +1624,7 @@
       <liveryNames />
     </Item>
     <Item>
-      <kitName>925_huntley_modkit</kitName>
+      <kitName>1654_huntley_modkit</kitName>
       <id value="94" />	 	  
       <kitType>MKT_SPORT</kitType>
       <visibleMods>  
@@ -1900,7 +1900,7 @@
         </Item>
         <Item>
           <identifier>HORN_COP</identifier>
-          <modifier value="292541925469" />
+          <modifier value="21654411654469" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1921,7 +1921,7 @@
         </Item>
         <Item>
           <identifier>HORN_MUSICAL_2</identifier>
-          <modifier value="20461629253" />
+          <modifier value="204616216543" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1956,21 +1956,21 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
-          <modifier value="36285342925" />
+          <modifier value="362853421654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
-          <modifier value="39252554122" />
+          <modifier value="316542554122" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
-          <modifier value="41129252878" />
+          <modifier value="411216542878" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1991,14 +1991,14 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
-          <modifier value="29826925084" />
+          <modifier value="298261654084" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
 		</Item>
 		<Item>
           <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
-          <modifier value="32032925992" />
+          <modifier value="320321654992" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2068,7 +2068,7 @@
         </Item>
         <Item>
           <identifier>HIPSTER_HORN_2</identifier>
-          <modifier value="16030649258" />
+          <modifier value="160306416548" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2089,7 +2089,7 @@
         </Item>
         <Item>
           <identifier>INDEP_HORN_1</identifier>
-          <modifier value="35721447925" />
+          <modifier value="357214471654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2110,7 +2110,7 @@
         </Item>
         <Item>
           <identifier>INDEP_HORN_4</identifier>
-          <modifier value="33418114925" />
+          <modifier value="334181141654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2124,7 +2124,7 @@
         </Item>
 		<Item>
           <identifier>LUXE_HORN_2</identifier>
-          <modifier value="29250378064" />
+          <modifier value="216540378064" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2200,7 +2200,7 @@
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
 		<Item>
           <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
-          <modifier value="29655692587" />
+          <modifier value="296556165487" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2245,7 +2245,7 @@
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
 		<Item>
           <identifier>XM15_HORN_02_PREVIEW</identifier>
-          <modifier value="9257484282" />
+          <modifier value="16547484282" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2469,7 +2469,7 @@
         </Item>
         <Item>
           <identifier>HORN_COP</identifier>
-          <modifier value="292541925469" />
+          <modifier value="21654411654469" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2490,7 +2490,7 @@
         </Item>
         <Item>
           <identifier>HORN_MUSICAL_2</identifier>
-          <modifier value="20461629253" />
+          <modifier value="204616216543" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2525,21 +2525,21 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
-          <modifier value="36285342925" />
+          <modifier value="362853421654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
-          <modifier value="39252554122" />
+          <modifier value="316542554122" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
-          <modifier value="41129252878" />
+          <modifier value="411216542878" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2560,14 +2560,14 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
-          <modifier value="29826925084" />
+          <modifier value="298261654084" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
 		</Item>
 		<Item>
           <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
-          <modifier value="32032925992" />
+          <modifier value="320321654992" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2637,7 +2637,7 @@
         </Item>
         <Item>
           <identifier>HIPSTER_HORN_2</identifier>
-          <modifier value="16030649258" />
+          <modifier value="160306416548" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2658,7 +2658,7 @@
         </Item>
         <Item>
           <identifier>INDEP_HORN_1</identifier>
-          <modifier value="35721447925" />
+          <modifier value="357214471654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2679,7 +2679,7 @@
         </Item>
         <Item>
           <identifier>INDEP_HORN_4</identifier>
-          <modifier value="33418114925" />
+          <modifier value="334181141654" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2693,7 +2693,7 @@
         </Item>
 		<Item>
           <identifier>LUXE_HORN_2</identifier>
-          <modifier value="29250378064" />
+          <modifier value="216540378064" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2769,7 +2769,7 @@
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
 		<Item>
           <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
-          <modifier value="29655692587" />
+          <modifier value="296556165487" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2814,7 +2814,7 @@
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
 		<Item>
           <identifier>XM15_HORN_02_PREVIEW</identifier>
-          <modifier value="9257484282" />
+          <modifier value="16547484282" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -2895,7 +2895,7 @@
         <falloffMax value="4.000000" />
         <falloffExponent value="16.000000" />
         <innerConeAngle value="45.000000" />
-        <outerConeAngle value="925.000000" />
+        <outerConeAngle value="1654.000000" />
         <emmissiveBoost value="false" />
         <color value="0xFFFF0000" />
       </tailLight>
@@ -2910,7 +2910,7 @@
         <distBetweenCoronas_far value="97" />
         <xRotation value="0.000000" />
         <yRotation value="0.000000" />
-        <zRotation value="5.9250000" />
+        <zRotation value="5.16540000" />
         <zBias value="0.057887" />
         <pullCoronaIn value="false" />
       </tailLightCorona>
@@ -3027,7 +3027,7 @@
         <falloffMax value="4.000000" />
         <falloffExponent value="16.000000" />
         <innerConeAngle value="45.000000" />
-        <outerConeAngle value="925.000000" />
+        <outerConeAngle value="1654.000000" />
         <emmissiveBoost value="false" />
         <color value="0xFFFF0000" />
       </tailLight>
@@ -3092,7 +3092,7 @@
         <falloffMax value="4.000000" />
         <falloffExponent value="32.000000" />
         <innerConeAngle value="45.000000" />
-        <outerConeAngle value="925.000000" />
+        <outerConeAngle value="1654.000000" />
         <emmissiveBoost value="false" />
         <color value="0xFFFFFFFF" />
       </reversingLight>
@@ -3159,7 +3159,7 @@
         <falloffMax value="4.000000" />
         <falloffExponent value="16.000000" />
         <innerConeAngle value="45.000000" />
-        <outerConeAngle value="925.000000" />
+        <outerConeAngle value="1654.000000" />
         <emmissiveBoost value="false" />
         <color value="0xFFFF0000" />
       </tailLight>
@@ -3212,7 +3212,7 @@
         <color value="0xFF61A5FF" />
         <numCoronas value="2" />
         <distBetweenCoronas value="27" />
-        <distBetweenCoronas_far value="925" />
+        <distBetweenCoronas_far value="1654" />
         <xRotation value="0.000000" />
         <yRotation value="0.175929" />
         <zRotation value="0.527788" />
