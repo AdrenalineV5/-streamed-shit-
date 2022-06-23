@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>2137_nkgauntlet4cop_modkit</kitName>
-      <id value="2137" />	 	  
+      <kitName>2874_nkgauntlet4cop_modkit</kitName>
+      <id value="2874" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
