@@ -3,8 +3,8 @@
 
   <Kits>
     <Item>
-      <kitName>6195_devonm2_modkit</kitName>
-      <id value="6195" />	 	  
+      <kitName>0_default_modkit</kitName>
+      <id value="0" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 		<Item>
@@ -484,7 +484,7 @@
         </Item>
 		<Item>
           <identifier>LUXE_HORN_3</identifier>
-          <modifier value="3956195248" />
+          <modifier value="3950248" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
