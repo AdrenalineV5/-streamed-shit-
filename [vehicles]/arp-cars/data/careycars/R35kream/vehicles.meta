@@ -15,8 +15,8 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>xa21</audioNameHash>
-      <layout>LAYOUT_LOW_RESTRICTED</layout>
+      <audioNameHash>btype2</audioNameHash>
+      <layout>LAYOUT_STD_EXITFIXUP</layout>
       <coverBoundOffsets>ELEGY_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
@@ -84,8 +84,8 @@
       <flags>FLAG_HAS_LIVERY FLAG_SPORTS FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
-      <dashboardType>VDT_BANSHEE</dashboardType>
-      <vehicleClass>VC_SPORT</vehicleClass>
+      <dashboardType>VDT_RACE</dashboardType>
+      <vehicleClass>VC_SUPER</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers />
       <additionalTrailers />
@@ -116,8 +116,8 @@
   </InitDatas>
   <!------------------------------------------------------------------------------------------------------------------->
   <txdRelationships>
-	    <Item>
-      <parent>vehicles_elegy_interior</parent>
+	<Item>
+      <parent>vehicles_race_generic</parent>
       <child>r35kream</child>
     </Item>
   </txdRelationships>
