@@ -5,15 +5,15 @@
     <Item type="CHandlingData">
       <handlingName>gsxr</handlingName>
       <fMass value="250.000000" />
-      <fInitialDragCoeff value="1.500000" />
+      <fInitialDragCoeff value="1.300000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.100000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
-      <fInitialDriveForce value="0.260000" />
+      <fInitialDriveForce value="0.262000" />
       <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="4.500000" />
+      <fClutchChangeRateScaleUpShift value="4.700000" />
       <fClutchChangeRateScaleDownShift value="2.500000" />
       <fInitialDriveMaxFlatVel value="160.000000" />
       <fBrakeForce value="0.900000" />
