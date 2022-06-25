@@ -4,7 +4,7 @@
   <HandlingData>
 	 <Item type="CHandlingData">
       <handlingName>cougarfam</handlingName>
-      <fMass value="6500.000000" />
+      <fMass value="5000.000000" />
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="75.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
