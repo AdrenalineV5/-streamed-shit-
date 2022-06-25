@@ -2,7 +2,7 @@
 <CHandlingDataMgr>
   <HandlingData>
   <Item type="CHandlingData">
-      <handlingName>ccxspideredition2</handlingName>
+      <handlingName>ccxspideredition</handlingName>
       <fInitialDragCoeff value="5.000000"/>
       <fPercentSubmerged value="70.000000"/>
       <vecCentreOfMassOffset x="0.000000" y="-0.271000" z="0.010000"/>
