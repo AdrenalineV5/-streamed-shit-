@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>  
   <Kits>
     <Item>
-      <kitName>2215_stratumctwo_modkit</kitName>
-      <id value="2215"/>
+      <kitName>1372_stratumctwo_modkit</kitName>
+      <id value="1372"/>
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
@@ -614,7 +614,7 @@
         </Item>
         <Item>
           <identifier>DLC_AW_Airhorn_02_Preview</identifier>
-          <modifier value="12215608241"/>
+          <modifier value="11372608241"/>
           <audioApply value="1.00000000"/>
           <weight value="0"/>
           <type>VMT_HORN</type>
@@ -628,7 +628,7 @@
         </Item>
         <Item>
           <identifier>DLC_AW_Airhorn_03_Preview</identifier>
-          <modifier value="27922154638"/>
+          <modifier value="27913724638"/>
           <audioApply value="1.00000000"/>
           <weight value="0"/>
           <type>VMT_HORN</type>
