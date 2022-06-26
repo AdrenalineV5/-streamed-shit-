@@ -87,7 +87,7 @@
       <frequency value="3" />
       <swankness>SWANKNESS_4</swankness>
       <maxNum value="1" />
-      <flags>FLAG_EXTRAS_SUNROOF FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_DROP_SUSPENSION_WHEN_STOPPED FLAG_EXTRAS_STRONG </flags>
+      <flags>FLAG_EXTRAS_SUNROOF FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_EXTRAS_STRONG </flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
 	  <dashboardType>VDT_FEROCI</dashboardType>
