@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>997_qcurus_modkit</kitName>
-			<id value="997" />
+			<kitName>2742_qcurus_modkit</kitName>
+			<id value="2742" />
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<!-- CallSign 0 Left -->
