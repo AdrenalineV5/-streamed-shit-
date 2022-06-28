@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>
   <Kits>
     <Item>
-      <kitName>2215_cbr500r_modkit</kitName>
-      <id value="2215" />
+      <kitName>3815_cbr500r_modkit</kitName>
+      <id value="3815" />
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
 		<Item>
