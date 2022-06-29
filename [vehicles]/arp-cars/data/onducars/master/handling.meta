@@ -49,8 +49,8 @@
       <fSeatOffsetDistY value="0" />
       <fSeatOffsetDistZ value="0" />
       <nMonetaryValue value="22000" />
-      <strModelFlags>444001</strModelFlags>
-      <strHandlingFlags>820100</strHandlingFlags>
+      <strModelFlags>1</strModelFlags>
+      <strHandlingFlags>1</strHandlingFlags>
       <strDamageFlags>0</strDamageFlags>
       <AIHandling>TRUCK</AIHandling>
       <SubHandlingData>
