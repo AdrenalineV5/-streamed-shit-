@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>
   <Kits>
     <Item>
-      <kitName>2987_vehicles_modkit</kitName>
+      <kitName>2987_golfp_modkit</kitName>
       <id value="2987"/>
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
