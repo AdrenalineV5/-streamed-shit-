@@ -2,7 +2,7 @@
 <CHandlingDataMgr>
   <HandlingData>
 	<Item type="CHandlingData">
-      <handlingName>mansurus</handlingName>
+      <handlingName>mansurus2</handlingName>
       <fMass value="1600.000000" />
       <fInitialDragCoeff value="6.300000" />
       <fPercentSubmerged value="85.000000" />

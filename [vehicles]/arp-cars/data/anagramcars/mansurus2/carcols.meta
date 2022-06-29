@@ -4,7 +4,7 @@
   </Kits>
   <Lights>
 	<Item>
-      <id value="136" />
+      <id value="0_default_modkit" />
       <indicator>
         <intensity value="0.375000" />
         <falloffMax value="2.500000" />
@@ -139,7 +139,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>mansurus</name>
+      <name>mansurus2</name>
     </Item>
   </Lights>
 </CVehicleModelInfoVarGlobal>

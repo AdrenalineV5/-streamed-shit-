@@ -4,17 +4,17 @@
   <residentAnims />
   <InitDatas>
 	<Item>
-      <modelName>mansurus</modelName>
-      <txdName>mansurus</txdName>
-      <handlingId>mansurus</handlingId>
-      <gameName>mansurus</gameName>
+      <modelName>mansurus2</modelName>
+      <txdName>mansurus2</txdName>
+      <handlingId>mansurus2</handlingId>
+      <gameName>mansurus2</gameName>
       <vehicleMakeName>Lamborghini</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
-      <ptfxAssetName>veh_mansurus</ptfxAssetName>
+      <ptfxAssetName>veh_mansurus2</ptfxAssetName>
       <audioNameHash>MARSHALL</audioNameHash>
       <layout>LAYOUT_STD_HIGHWINDOW</layout>
       <coverBoundOffsets>GRESLEY_COVER_OFFSET_INFO</coverBoundOffsets>
@@ -118,10 +118,10 @@
       <buoyancySphereSizeScale value="1.000000" />
       <pOverrideRagdollThreshold type="NULL" />
       <firstPersonDrivebyData>
-        <Item>VAN_mansurus_FRONT_LEFT</Item>
-        <Item>VAN_mansurus_FRONT_RIGHT</Item>
-        <Item>VAN_mansurus_REAR_LEFT</Item>
-        <Item>VAN_mansurus_REAR_RIGHT</Item>
+        <Item>VAN_mansurus2_FRONT_LEFT</Item>
+        <Item>VAN_mansurus2_FRONT_RIGHT</Item>
+        <Item>VAN_mansurus2_REAR_LEFT</Item>
+        <Item>VAN_mansurus2_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
   </InitDatas>
@@ -132,11 +132,11 @@
     </Item>
     <Item>
       <parent>vehicles_fmj_interior</parent>
-      <child>mansurus</child>
+      <child>mansurus2</child>
     </Item>
 	<Item>
       <parent>vehicles_race_generic</parent>
-      <child>mansurus</child>
+      <child>mansurus2</child>
     </Item>   
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>
