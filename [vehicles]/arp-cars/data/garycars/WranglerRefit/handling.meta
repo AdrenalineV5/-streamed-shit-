@@ -4,7 +4,7 @@
      <Item type="CHandlingData">
       <handlingName>WranglerRefit</handlingName>
       <fMass value="1880.000000" />
-      <fInitialDragCoeff value="3.220000" />
+      <fInitialDragCoeff value="4.220000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.0000000" z="-0.100000" />
       <vecInertiaMultiplier x="1.000000" y="1.800000" z="1.800000" />
@@ -27,7 +27,7 @@
       <fCamberStiffnesss value="0.000000" />
       <fTractionBiasFront value="0.480000" />
       <fTractionLossMult value="0.100000" />
-      <fSuspensionForce value="3.600000" />
+      <fSuspensionForce value="6.600000" />
       <fSuspensionCompDamp value="1.100000" />
       <fSuspensionReboundDamp value="1.800000" />
       <fSuspensionUpperLimit value="0.150000" />
@@ -42,7 +42,7 @@
       <fWeaponDamageMult value="1.000000" />
       <fDeformationDamageMult value="0.800000" />
       <fEngineDamageMult value="1.500000" />
-      <fPetrolTankVolume value="65.000000" />
+      <fPetrolTankVolume value="85.000000" />
       <fOilVolume value="5.000000" />
       <fSeatOffsetDistX value="0.000000" />
       <fSeatOffsetDistY value="0.000000" />
