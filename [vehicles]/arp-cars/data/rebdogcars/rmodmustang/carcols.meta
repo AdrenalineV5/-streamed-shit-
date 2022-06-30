@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
    <Item>
-      <kitName>2483_rmodmustang_modkit</kitName>
-      <id value="2483" />	 	  
+      <kitName>2311_rmodmustang_modkit</kitName>
+      <id value="2311" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 		<Item>
