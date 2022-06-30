@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>tamx</audioNameHash>
+      <audioNameHash>btype</audioNameHash>
       <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>TAMPA2_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -124,7 +124,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>tamx</audioNameHash>
+      <audioNameHash>btype</audioNameHash>
       <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>TAMPA2_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
