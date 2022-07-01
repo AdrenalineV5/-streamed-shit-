@@ -2,21 +2,20 @@
 
 <CVehicleModelInfoVariation>
   <variationData>
-	<Item>
-      <modelName>grandgt18</modelName>
+    <Item>
+      <modelName>mongcar</modelName>
       <colors>
         <Item>
           <indices content="char_array">
-            147
-            89
-            120
-            156
-			0
-			39
-			39
+            49 
+            00 
+            156 
+            00
+						103
+            38
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -25,10 +24,10 @@
             <Item value="false" />
             <Item value="false" />
           </liveries>
-        </Item> 
+        </Item>
       </colors>
       <kits>
-        <Item>8105_grandgt18_modkit</Item>
+        <Item>4519_mongcar_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -39,8 +38,9 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="8105" />
+      <lightSettings value="4519" />
       <sirenSettings value="0" />
     </Item>
+
   </variationData>
 </CVehicleModelInfoVariation>
