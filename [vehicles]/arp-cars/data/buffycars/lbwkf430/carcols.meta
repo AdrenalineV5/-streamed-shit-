@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>5043_lbwkf430_modkit</kitName>
-      <id value="5043" />	 	  
+      <kitName>2371_lbwkf430_modkit</kitName>
+      <id value="2371" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods />
       <linkMods />
