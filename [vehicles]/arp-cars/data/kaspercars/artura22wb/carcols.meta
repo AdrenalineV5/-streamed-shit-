@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>8632_artura22wb_modkit</kitName>
-      <id value="8632" />
+      <kitName>3854_artura22wb_modkit</kitName>
+      <id value="3854" />
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods />
       <linkMods />
