@@ -5,7 +5,7 @@
       <handlingName>sickwhip</handlingName> 
       <fMass value="1500" />
       <fDownforceModifier value="5.0" />
-      <fInitialDragCoeff value="2.0" />
+      <fInitialDragCoeff value="7.0" />
       <fPercentSubmerged value="85" />
       <vecCentreOfMassOffset x="0" y="0" z="0" />
       <vecInertiaMultiplier x="1" y="1.2" z="1.3" />

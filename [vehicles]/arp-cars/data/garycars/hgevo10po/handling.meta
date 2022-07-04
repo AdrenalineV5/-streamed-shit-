@@ -4,7 +4,7 @@
     <Item type="CHandlingData">
       <handlingName>hgevo10po</handlingName>
       <fMass value="2650.000000" />
-      <fInitialDragCoeff value="1.000000" />
+      <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0" y="-0.10000" z="0" />
       <vecInertiaMultiplier x="1.200000" y="1.300000" z="1.800000" />
