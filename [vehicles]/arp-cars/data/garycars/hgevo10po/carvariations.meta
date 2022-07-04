@@ -1,276 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <CVehicleModelInfoVariation>
-	<variationData>
+  <variationData>
     <Item>
       <modelName>hgevo10po</modelName>
       <colors>
         <Item>
           <indices content="char_array">
-            156
-            156
-            156
-            156
-            156
-            156
+            0 
+            0 
+            0 
+            156 
           </indices>
           <liveries>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            2
-            0
-            134
-            156
-            0
-            0
-          </indices>
-          <liveries>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            75
-            0
-            157
-            156
-            0
-            0
-          </indices>
-          <liveries>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            7
-            0
-            134
-            0
-            0
-            0
-          </indices>
-          <liveries>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            34
-            0
-            45
-            0
-            0
-            0
-          </indices>
-          <liveries>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            0
-            0
-            2
-            0
-            0
-            0
-          </indices>
-          <liveries>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
           </liveries>
         </Item>
       </colors>
       <kits>
-        <Item>4236_hgevo10po_modkit</Item>
-      </kits>
-      <windowsWithExposedEdges/>
+        <Item>2768_hgevo10po_modkit</Item>
+	      </kits>
+      <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities>
           <Item>
-            <Name>Police guv plate</Name>
-            <Value value="100"/>
+            <Name>Standard White</Name>
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="10" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="15" />
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="999"/>
-      <sirenSettings value="1"/>
-    </Item>
-	</variationData>
+      <lightSettings value="999" />        
+	<sirenSettings value="2" />
+    </Item>       
+
+  </variationData>
 </CVehicleModelInfoVariation>
