@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>2003_bnsgtr99_modkit</kitName>
-      <id value="2003" />
+      <kitName>2418_bnsgtr99_modkit</kitName>
+      <id value="2418" />
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods />
       <linkMods />
