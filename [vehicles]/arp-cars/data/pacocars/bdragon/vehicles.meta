@@ -4313,10 +4313,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>deluxo6str</modelName>
-      <txdName>deluxo6str</txdName>
-      <handlingId>DELUXO6STR</handlingId>
-      <gameName>DELUXO6STR</gameName>
+      <modelName>deluxo6str2</modelName>
+      <txdName>deluxo6str2</txdName>
+      <handlingId>deluxo6str2</handlingId>
+      <gameName>deluxo6str2</gameName>
       <vehicleMakeName>IMPONTE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -19182,7 +19182,7 @@
     </Item>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>deluxo6str</child>
+      <child>deluxo6str2</child>
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>

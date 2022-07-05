@@ -67860,13 +67860,13 @@
     <!-- Heist Cars Vehicles End -->
     <!--WiseGuy Modkits-->
     <Item>
-      <kitName>1893_deluxo6str_modkit</kitName>
+      <kitName>1893_deluxo6str2_modkit</kitName>
       <id value="1893" />
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <!--Liveries-->
         <Item>
-          <modelName>deluxo6str_livery1</modelName>
+          <modelName>deluxo6str2_livery1</modelName>
           <modShopLabel>DELUX_LIV1</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -67881,7 +67881,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery2</modelName>
+          <modelName>deluxo6str2_livery2</modelName>
           <modShopLabel>DELUX_LIV2</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -67896,7 +67896,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery3</modelName>
+          <modelName>deluxo6str2_livery3</modelName>
           <modShopLabel>DELUX_LIV3</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -67911,7 +67911,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery4</modelName>
+          <modelName>deluxo6str2_livery4</modelName>
           <modShopLabel>DELUX_LIV4</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -67926,7 +67926,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery5</modelName>
+          <modelName>deluxo6str2_livery5</modelName>
           <modShopLabel>DELUX_LIV5</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -67941,7 +67941,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery6</modelName>
+          <modelName>deluxo6str2_livery6</modelName>
           <modShopLabel>DELUX_LIV6</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -67956,7 +67956,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery7</modelName>
+          <modelName>deluxo6str2_livery7</modelName>
           <modShopLabel>DELUX_LIV7</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -67971,7 +67971,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery8</modelName>
+          <modelName>deluxo6str2_livery8</modelName>
           <modShopLabel>DELUX_LIV8</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -67986,7 +67986,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery9</modelName>
+          <modelName>deluxo6str2_livery9</modelName>
           <modShopLabel>DELUX_LIV9</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68001,7 +68001,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery10</modelName>
+          <modelName>deluxo6str2_livery10</modelName>
           <modShopLabel>DELUX_LIV10</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68016,7 +68016,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery11</modelName>
+          <modelName>deluxo6str2_livery11</modelName>
           <modShopLabel>DELUX_LIV11</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68031,7 +68031,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery12</modelName>
+          <modelName>deluxo6str2_livery12</modelName>
           <modShopLabel>DELUX_LIV12</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68046,7 +68046,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery13</modelName>
+          <modelName>deluxo6str2_livery13</modelName>
           <modShopLabel>DELUX_LIV13</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68061,7 +68061,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery14</modelName>
+          <modelName>deluxo6str2_livery14</modelName>
           <modShopLabel>DELUX_LIV14</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68076,7 +68076,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery15</modelName>
+          <modelName>deluxo6str2_livery15</modelName>
           <modShopLabel>DELUX_LIV15</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68091,7 +68091,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery16</modelName>
+          <modelName>deluxo6str2_livery16</modelName>
           <modShopLabel>DELUX_LIV16</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68106,7 +68106,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>deluxo6str_livery17</modelName>
+          <modelName>deluxo6str2_livery17</modelName>
           <modShopLabel>DELUX_LIV17</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68122,7 +68122,7 @@
         </Item>
         <!--Front Splitter-->
         <Item>
-          <modelName>deluxo6str_splitter_a</modelName>
+          <modelName>deluxo6str2_splitter_a</modelName>
           <modShopLabel>DELUX_01</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68138,7 +68138,7 @@
         </Item>
         <!--Side Skirt-->
         <Item>
-          <modelName>deluxo6str_skirt_a</modelName>
+          <modelName>deluxo6str2_skirt_a</modelName>
           <modShopLabel>DELUX_02</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68154,7 +68154,7 @@
         </Item>
         <!--Diffuser-->
         <Item>
-          <modelName>deluxo6str_diffuser_a</modelName>
+          <modelName>deluxo6str2_diffuser_a</modelName>
           <modShopLabel>DELUX_03</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68170,7 +68170,7 @@
         </Item>
         <!--Window Vents-->
         <Item>
-          <modelName>deluxo6str_vent</modelName>
+          <modelName>deluxo6str2_vent</modelName>
           <modShopLabel>DELUX_04</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68186,7 +68186,7 @@
         </Item>
         <!--Louvers Spoiler-->
         <Item>
-          <modelName>deluxo6str_louvres</modelName>
+          <modelName>deluxo6str2_louvres</modelName>
           <modShopLabel>DELUX_05</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -68202,7 +68202,7 @@
         </Item>
         <!--Option to remove widebody-->
         <Item>
-          <modelName>deluxo6str_null_a</modelName>
+          <modelName>deluxo6str2_null_a</modelName>
           <modShopLabel>DELUX_06</modShopLabel>
           <linkedModels />
           <turnOffBones>
