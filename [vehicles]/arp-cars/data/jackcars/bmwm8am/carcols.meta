@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
    <Item>
-      <kitName>982_bmwm8am_modkit</kitName>
-      <id value="982" />	 	  
+      <kitName>2948_bmwm8am_modkit</kitName>
+      <id value="2948" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 	  	<Item>
@@ -229,7 +229,7 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
-          <modifier value="2982690084" />
+          <modifier value="22948690084" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
