@@ -7,7 +7,7 @@
       <modelName>gtz34</modelName>
       <txdName>gtz34</txdName>
       <handlingId>gtz34</handlingId>
-      <gameName>gtz34</gameName>
+      <gameName>GTZ34</gameName>
       <vehicleMakeName>ZLAYWORKS</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>weap_xs_vehicle_weapons</ptfxAssetName>
       <audioNameHash>RB26DETT</audioNameHash>
-      <layout>LAYOUT_LOW</layout>
+      <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>INTRUDER_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
