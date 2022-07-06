@@ -17083,7 +17083,7 @@
       <visibleMods>
         <Item>
           <modelName>pandem_livery1</modelName>
-          <modShopLabel>GOLFP_LIV1</modShopLabel>
+          <modShopLabel>golffix1_LIV1</modShopLabel>
           <linkedModels />
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
@@ -17098,7 +17098,7 @@
         </Item>
         <Item>
           <modelName>pandem_livery2</modelName>
-          <modShopLabel>GOLFP_LIV2</modShopLabel>
+          <modShopLabel>golffix1_LIV2</modShopLabel>
           <linkedModels />
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
@@ -17113,7 +17113,7 @@
         </Item>
         <Item>
           <modelName>pandem_livery3</modelName>
-          <modShopLabel>GOLFP_LIV3</modShopLabel>
+          <modShopLabel>golffix1_LIV3</modShopLabel>
           <linkedModels />
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
@@ -17128,7 +17128,7 @@
         </Item>
         <Item>
           <modelName>pandem_livery4</modelName>
-          <modShopLabel>GOLFP_LIV4</modShopLabel>
+          <modShopLabel>golffix1_LIV4</modShopLabel>
           <linkedModels />
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
@@ -17143,7 +17143,7 @@
         </Item>
         <Item>
           <modelName>pandem_livery5</modelName>
-          <modShopLabel>GOLFP_LIV5</modShopLabel>
+          <modShopLabel>golffix1_LIV5</modShopLabel>
           <linkedModels />
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
@@ -17157,8 +17157,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>golfp_bumf_1</modelName>
-          <modShopLabel>GOLFP_BUMF1</modShopLabel>
+          <modelName>golffix1_bumf_1</modelName>
+          <modShopLabel>golffix1_BUMF1</modShopLabel>
           <linkedModels />
           <turnOffBones />
           <type>VMT_BUMPER_F</type>
@@ -17172,8 +17172,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>golfp_wing_1</modelName>
-          <modShopLabel>GOLFP_WING1</modShopLabel>
+          <modelName>golffix1_wing_1</modelName>
+          <modShopLabel>golffix1_WING1</modShopLabel>
           <linkedModels />
           <turnOffBones>
           </turnOffBones>
@@ -17188,8 +17188,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>golfp_wing_2</modelName>
-          <modShopLabel>GOLFP_WING2</modShopLabel>
+          <modelName>golffix1_wing_2</modelName>
+          <modShopLabel>golffix1_WING2</modShopLabel>
           <linkedModels />
           <turnOffBones>
           </turnOffBones>
@@ -17204,8 +17204,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>golfp_wing_3</modelName>
-          <modShopLabel>GOLFP_WING3</modShopLabel>
+          <modelName>golffix1_wing_3</modelName>
+          <modShopLabel>golffix1_WING3</modShopLabel>
           <linkedModels />
           <turnOffBones>
           </turnOffBones>
@@ -115886,7 +115886,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>senna</name>
+      <name>senna877</name>
     </Item>
     <!-- Tuner Shop Lights End -->
     <!-- Fast Lane Lights -->

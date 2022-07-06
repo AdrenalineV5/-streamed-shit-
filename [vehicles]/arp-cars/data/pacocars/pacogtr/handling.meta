@@ -219,7 +219,7 @@
     [x/ T] Sultan RS (sultanrs)
     [x/ F] Toyota Supra Mk.IV (a80)
     [x/ T] Vapid Peyote Gasser (peyote2)
-    [x] Volkswagen Pandem Golf R (golfp)
+    [x] Volkswagen Pandem Golf R (golffix1)
     [x] Volvo 242 (v242)
     [x/ T] Vulcar Nebula Turbo (nebula)
     [x/ F] Yamaha R1 (r1)
@@ -3778,7 +3778,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>SENNA</handlingName>
+      <handlingName>senna877</handlingName>
       <fMass value="1200.000000" />
       <fInitialDragCoeff value="2.000000" />
       <fDownforceModifier value="0.900000" />
@@ -9563,7 +9563,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>GOLFP</handlingName>
+      <handlingName>golffix1</handlingName>
       <fMass value="1200.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="85.000000" />

@@ -4424,10 +4424,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>senna</modelName>
-      <txdName>senna</txdName>
-      <handlingId>SENNA</handlingId>
-      <gameName>SENNA</gameName>
+      <modelName>senna877</modelName>
+      <txdName>senna877</txdName>
+      <handlingId>senna877</handlingId>
+      <gameName>senna877</gameName>
       <vehicleMakeName>YCA</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -5316,10 +5316,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>golfp</modelName>
-      <txdName>golfp</txdName>
-      <handlingId>GOLFP</handlingId>
-      <gameName>GOLFP</gameName>
+      <modelName>golffix1</modelName>
+      <txdName>golffix1</txdName>
+      <handlingId>golffix1</handlingId>
+      <gameName>golffix1</gameName>
       <vehicleMakeName>VW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -19186,7 +19186,7 @@
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>senna</child>
+      <child>senna877</child>
     </Item>
     <Item>
       <parent>vehicles_schaf_w_interior</parent>
@@ -19230,11 +19230,11 @@
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>golfp</child>
+      <child>golffix1</child>
     </Item>
     <Item>
       <parent>vehicles_race_interior</parent>
-      <child>golfp</child>
+      <child>golffix1</child>
     </Item>
     <Item>
       <parent>vehicles_poltax_interior</parent>
