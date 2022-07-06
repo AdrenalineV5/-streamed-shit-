@@ -8,7 +8,7 @@
     - fTractionLossMult > 0.8 if it is not classed as off-road or rally
     - fRollCentreHeightFront/Rear lower than Vanilla < 2.0
 
-    **S Class:** (r35 - Bench Time:8.10)
+    **S Class:** (r3568 - Bench Time:8.10)
     - fInitialDragCoeff > 3.0
     - fInitialDriveForce: 0.275 < 0.32
     - fInitialDriveMaxFlatVel: 180
@@ -199,9 +199,9 @@
     [-] Nissan 300ZW (300zw) -upd
     [x/ T] Nissan 300ZX Z32 (z32)
     [x] Nissan 370Z (370z)
-    [x] Nissan GTR R35 (lwgtr)
-    [x/ F] Nissan GTR R35 (r35)
-    [x/ T] Nissan GTR R35 (gtr)
+    [x] Nissan GTR r3568 (lwgtr)
+    [x/ F] Nissan GTR r3568 (r3568)
+    [x/ T] Nissan GTR r3568 (gtr)
     [x/ F] Nissan Silvia S15 (s15rb)
     [x/ T] Nissan Skyline R34 GTR (fnf4r34)
     [x P] Pegassi Infernus Classic (infernus2)
@@ -8570,7 +8570,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>r35</handlingName>
+      <handlingName>r3568</handlingName>
       <fMass value="1515.000000" />
       <fInitialDragCoeff value="3.0000000" />
       <fPercentSubmerged value="85.000000" />

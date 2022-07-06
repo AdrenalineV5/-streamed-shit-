@@ -7351,7 +7351,7 @@
       <sirenSettings value="0" />
     </Item>
     <Item>
-      <modelName>r35</modelName>
+      <modelName>r3568</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -7391,7 +7391,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>1999_r35_modkit</Item>
+        <Item>1999_r3568_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>

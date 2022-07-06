@@ -7871,10 +7871,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>r35</modelName>
-      <txdName>r35</txdName>
-      <handlingId>r35</handlingId>
-      <gameName>r35</gameName>
+      <modelName>r3568</modelName>
+      <txdName>r3568</txdName>
+      <handlingId>r3568</handlingId>
+      <gameName>r3568</gameName>
       <vehicleMakeName>nissan</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -19310,7 +19310,7 @@
     </Item>
     <Item>
       <parent>vehicles_supergt_interior</parent>
-      <child>r35</child>
+      <child>r3568</child>
     </Item>
     <Item>
       <parent>vehicles_btype_interior</parent>
