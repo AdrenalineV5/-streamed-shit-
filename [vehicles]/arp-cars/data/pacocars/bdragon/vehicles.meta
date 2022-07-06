@@ -4424,10 +4424,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>senna</modelName>
-      <txdName>senna</txdName>
-      <handlingId>SENNA</handlingId>
-      <gameName>SENNA</gameName>
+      <modelName>senna27</modelName>
+      <txdName>senna27</txdName>
+      <handlingId>senna27</handlingId>
+      <gameName>senna27</gameName>
       <vehicleMakeName>YCA</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -19186,7 +19186,7 @@
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>senna</child>
+      <child>senna27</child>
     </Item>
     <Item>
       <parent>vehicles_schaf_w_interior</parent>
