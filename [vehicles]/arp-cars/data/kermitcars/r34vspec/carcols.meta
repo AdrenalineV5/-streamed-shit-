@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
 		<Item>
-      <kitName>845_r34vspec_modkit</kitName>
-      <id value="845"/>
+      <kitName>2381_r34vspec_modkit</kitName>
+      <id value="2381"/>
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
 		<Item>
