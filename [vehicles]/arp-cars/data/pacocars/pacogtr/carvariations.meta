@@ -7055,7 +7055,7 @@
       <sirenSettings value="0" />
     </Item>
     <Item>
-      <modelName>m3e46</modelName>
+      <modelName>m3e7827</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -7077,7 +7077,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>19851985_m3e46_modkit</Item>
+        <Item>19851985_m3e7827_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -12249,7 +12249,7 @@
       <sirenSettings value="0" />
     </Item>
     <Item>
-      <modelName>e46</modelName>
+      <modelName>e7827</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -12397,7 +12397,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>9411_e46_modkit</Item>
+        <Item>9411_e7827_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>

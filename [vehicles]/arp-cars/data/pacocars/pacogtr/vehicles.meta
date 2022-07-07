@@ -6991,10 +6991,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>m3e46</modelName>
-      <txdName>m3e46</txdName>
-      <handlingId>m3e46</handlingId>
-      <gameName>m3e46</gameName>
+      <modelName>m3e7827</modelName>
+      <txdName>m3e7827</txdName>
+      <handlingId>m3e7827</handlingId>
+      <gameName>m3e7827</gameName>
       <vehicleMakeName>BMW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -12875,10 +12875,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>e46</modelName>
-      <txdName>e46</txdName>
-      <handlingId>E46</handlingId>
-      <gameName>m3 e46</gameName>
+      <modelName>e7827</modelName>
+      <txdName>e7827</txdName>
+      <handlingId>e7827</handlingId>
+      <gameName>m3 e7827</gameName>
       <vehicleMakeName>BMW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -19278,7 +19278,7 @@
     </Item>
     <Item>
       <parent>vehicles_banshee_interior</parent>
-      <child>m3e46</child>
+      <child>m3e7827</child>
     </Item>
     <Item>
       <parent>vehicles_schaf_interior</parent>
@@ -19475,7 +19475,7 @@
     </Item>
     <Item>
       <parent>vehicles_btype_interior</parent>
-      <child>e46</child>
+      <child>e7827</child>
     </Item>
     <Item>
       <parent>vehicles_elegy_interior</parent>

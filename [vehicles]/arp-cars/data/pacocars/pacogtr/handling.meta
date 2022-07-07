@@ -166,8 +166,8 @@
     [x/ F] BMW E60 M5 (m5e60)
     [x/ F] BMW i8 (acs8)
     [x/ T] BMW M3 E36 RB (e36prb)
-    [x] BMW M3 E46 (e46)
-    [x/ T] BMW M3 E46 GTR (m3e46)
+    [x] BMW M3 e7827 (e7827)
+    [x/ T] BMW M3 e7827 GTR (m3e7827)
     [x/ T] BMW M4 LW (m4)
     [x/ F] Chevrolet Camaro ZL1 (exor)
     [x/ F] Chevrolet Corvette C7 (c7)
@@ -6513,7 +6513,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>E46</handlingName>
+      <handlingName>e7827</handlingName>
       <fMass value="1450.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="85.000000" />
@@ -6574,7 +6574,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>m3e46</handlingName>
+      <handlingName>m3e7827</handlingName>
       <fMass value="1450.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="85.000000" />

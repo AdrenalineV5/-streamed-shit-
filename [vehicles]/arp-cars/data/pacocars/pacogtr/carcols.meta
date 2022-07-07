@@ -28846,12 +28846,12 @@
       <liveryNames />
     </Item>
     <Item>
-      <kitName>19851985_m3e46_modkit</kitName>
+      <kitName>19851985_m3e7827_modkit</kitName>
       <id value="19851985" />
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
-          <modelName>m3e46_bumr_1</modelName>
+          <modelName>m3e7827_bumr_1</modelName>
           <modShopLabel>SENT_bumr_1</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -28866,7 +28866,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>m3e46_wing_1</modelName>
+          <modelName>m3e7827_wing_1</modelName>
           <modShopLabel>sent_wing_1</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -28881,7 +28881,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>m3e46_wing_2</modelName>
+          <modelName>m3e7827_wing_2</modelName>
           <modShopLabel>sent_wing_2</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -28896,7 +28896,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>m3e46_wing_3</modelName>
+          <modelName>m3e7827_wing_3</modelName>
           <modShopLabel>sent_wing_3</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -28911,7 +28911,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>m3e46_wing_4</modelName>
+          <modelName>m3e7827_wing_4</modelName>
           <modShopLabel>sent_wing_4</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -28926,7 +28926,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>m3e46_hood_1</modelName>
+          <modelName>m3e7827_hood_1</modelName>
           <modShopLabel>sent_HOOD_1</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -28943,7 +28943,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>m3e46_hood_2</modelName>
+          <modelName>m3e7827_hood_2</modelName>
           <modShopLabel>sent_HOOD_2</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -28960,7 +28960,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>m3e46_racemod</modelName>
+          <modelName>m3e7827_racemod</modelName>
           <modShopLabel>sent_CAGE</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -28977,7 +28977,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>m3e46_splitter_1</modelName>
+          <modelName>m3e7827_splitter_1</modelName>
           <modShopLabel>sent_SPLIT</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -28992,7 +28992,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>m3e46_splitter_2</modelName>
+          <modelName>m3e7827_splitter_2</modelName>
           <modShopLabel>sent_SPLIT</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -29007,7 +29007,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>m3e46_skirt_1</modelName>
+          <modelName>m3e7827_skirt_1</modelName>
           <modShopLabel>sent_SKIRT_1</modShopLabel>
           <linkedModels />
           <turnOffBones />
@@ -63939,12 +63939,12 @@
       <liveryNames />
     </Item>
     <Item>
-      <kitName>9411_e46_modkit</kitName>
+      <kitName>9411_e7827_modkit</kitName>
       <id value="9411" />
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
-          <modelName>e46_bumperf_a</modelName>
+          <modelName>e7827_bumperf_a</modelName>
           <modShopLabel>bumperF</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -63961,7 +63961,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_bumperf_b</modelName>
+          <modelName>e7827_bumperf_b</modelName>
           <modShopLabel>bumperF</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -63978,7 +63978,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_bumperR_a</modelName>
+          <modelName>e7827_bumperR_a</modelName>
           <modShopLabel>bumperR</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -63995,7 +63995,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_wing_a</modelName>
+          <modelName>e7827_wing_a</modelName>
           <modShopLabel>wing</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -64012,7 +64012,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_wing_b</modelName>
+          <modelName>e7827_wing_b</modelName>
           <modShopLabel>wing</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -64029,7 +64029,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_wing_c</modelName>
+          <modelName>e7827_wing_c</modelName>
           <modShopLabel>wing</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -64046,7 +64046,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_wing_d</modelName>
+          <modelName>e7827_wing_d</modelName>
           <modShopLabel>wing</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -64063,7 +64063,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_hood_a</modelName>
+          <modelName>e7827_hood_a</modelName>
           <modShopLabel>hood</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -64080,7 +64080,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_hood_b</modelName>
+          <modelName>e7827_hood_b</modelName>
           <modShopLabel>hood</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -64097,7 +64097,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_hood_c</modelName>
+          <modelName>e7827_hood_c</modelName>
           <modShopLabel>hood</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -64114,7 +64114,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_hood_d</modelName>
+          <modelName>e7827_hood_d</modelName>
           <modShopLabel>hood</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -64131,7 +64131,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_exh</modelName>
+          <modelName>e7827_exh</modelName>
           <modShopLabel>EXH</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -64148,7 +64148,7 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>e46_roof</modelName>
+          <modelName>e7827_roof</modelName>
           <modShopLabel>roof</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -114250,7 +114250,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>m3e46</name>
+      <name>m3e7827</name>
     </Item>
     <Item>
       <id value="897" />
