@@ -594,8 +594,10 @@
           </liveries>
         </Item>
       </colors>
-      <kits/>
-      <windowsWithExposedEdges/>
+     <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities>
           <Item>
