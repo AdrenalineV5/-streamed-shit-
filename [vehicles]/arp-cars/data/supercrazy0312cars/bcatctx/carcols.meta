@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>2384_bcatctx_modkit</kitName>
-      <id value="2384" />	 	  
+      <kitName>2856_bcatctx_modkit</kitName>
+      <id value="2856" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 	  <Item>
