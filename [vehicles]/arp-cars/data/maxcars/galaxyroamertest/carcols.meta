@@ -2,7 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Sirens>
 		<Item>
-		  <id value="3261"/>
+                <kitName>6195_galaxyroamer_modkit</kitName>
+		  <id value="6195"/>
 		  <name>galaxyroamer_light</name>
 			<timeMultiplier value="1.00000000"/>
 			<lightFalloffMax value="2.90000000"/>
