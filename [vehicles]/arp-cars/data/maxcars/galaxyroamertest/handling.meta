@@ -21,7 +21,7 @@
       <fHandBrakeForce value="0.500000" />
       <fSteeringLock value="35.000000" />
       <fTractionCurveMax value="1.550000" />
-      <fTractionCurveMin value="1.350000" />
+      <fTractionCurveMin value="1.450000" />
       <fTractionCurveLateral value="18.500000" />
       <fTractionSpringDeltaMax value="0.030000" />
       <fLowSpeedTractionLossMult value="0.000000" />
@@ -37,8 +37,8 @@
       <fSuspensionBiasFront value="0.530000" />
       <fAntiRollBarForce value="0.000000" />
       <fAntiRollBarBiasFront value="0.000000" />
-      <fRollCentreHeightFront value="0.600000" />
-      <fRollCentreHeightRear value="0.600000" />
+      <fRollCentreHeightFront value="1.170000" />
+      <fRollCentreHeightRear value="1.170000" />
       <fCollisionDamageMult value="1.000000" />
       <fWeaponDamageMult value="1.000000" />
       <fDeformationDamageMult value="0.800000" />
