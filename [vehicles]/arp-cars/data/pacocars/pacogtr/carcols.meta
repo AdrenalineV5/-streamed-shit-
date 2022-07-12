@@ -2,7 +2,11 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
   
-        <Item>
+       <Item>
+      <kitName>1999_Pacogtr_modkit</kitName>
+      <id value="1999" />	 	  
+      <kitType>MKT_SPECIAL</kitType>
+       <visibleMods>
            <modelName>Pacogtr_bumf</modelName>
           <modShopLabel>Pacogtr_bumf</modShopLabel>
           <linkedModels />
