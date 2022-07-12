@@ -4,19 +4,19 @@
   <HandlingData>
 	<Item type="CHandlingData">
       <handlingName>yeetvulcan</handlingName>
-      <fMass value="2350.000000" />
-      <fInitialDragCoeff value="7.240000" />
+      <fMass value="1650.000000" />
+      <fInitialDragCoeff value="6.850000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.020000" z="0.000000" />
       <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
-      <fInitialDriveForce value="0.26000" />
+      <fInitialDriveForce value="0.260000" />
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="4.500000" />
       <fClutchChangeRateScaleDownShift value="2.500000" />
-      <fInitialDriveMaxFlatVel value="160.100000" />
-      <fBrakeForce value="2.100000" />
+      <fInitialDriveMaxFlatVel value="185.100000" />
+      <fBrakeForce value="1.500000" />
       <fBrakeBiasFront value="0.450000" />
       <fHandBrakeForce value="2.000000" />
       <fSteeringLock value="40.000000" />
