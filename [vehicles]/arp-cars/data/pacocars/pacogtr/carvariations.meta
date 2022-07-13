@@ -58,7 +58,7 @@
       <sirenSettings value="0" />
     </Item>
     <Item>
-      <modelName>gtr</modelName>
+      <modelName>Pacogtr</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -134,7 +134,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>688_gtr_modkit</Item>
+        <Item>1999_Pacogtr_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -144,7 +144,7 @@
       <sirenSettings value="0" />
     </Item>
     <Item>
-      <modelName>tempesta2</modelName>
+      <modelName>Pacogtr</modelName>
       <colors>
         <Item>
           <indices content="char_array">
