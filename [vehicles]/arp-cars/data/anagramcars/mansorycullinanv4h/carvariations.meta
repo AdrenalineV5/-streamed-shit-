@@ -25,7 +25,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>100777777777777777777777777777774_mansorycullinanv4h_modkit</Item>
+        <Item>3854_mansorycullinanv4h_modkit</Item>
 	      </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -48,8 +48,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="100777777777777777777777777777774" />        
-	      <sirenSettings value="100777777777777777777777777777774" />
+      <lightSettings value="4" />        
+	      <sirenSettings value="0" />
     </Item>       
 
   </variationData>
