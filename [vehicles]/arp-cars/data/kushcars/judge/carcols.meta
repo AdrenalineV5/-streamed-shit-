@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
 		<Item>
-      <kitName>2381_judge_modkit</kitName>
-      <id value="2381" />	 	  
+      <kitName>2746_judge_modkit</kitName>
+      <id value="2746" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 	  	  		<Item>
