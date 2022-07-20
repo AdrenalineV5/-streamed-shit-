@@ -11,8 +11,8 @@
 
   <Kits>
     <Item>
-      <kitName>2164_maxcliors_modkit</kitName>
-      <id value="2164" />	 	  
+      <kitName>1964_maxcliors_modkit</kitName>
+      <id value="1964" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 		<Item>
