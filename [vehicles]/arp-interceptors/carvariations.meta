@@ -593,8 +593,8 @@
           <Value value="100" />
         </Item>
       </plateProbabilities>
-      <lightSettings value="150" />
-      <sirenSettings value="150" />
+      <lightSettings value="1" />
+      <sirenSettings value="441" />
     </Item>
     <Item>
       <modelName>polas350</modelName>
