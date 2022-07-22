@@ -470,7 +470,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>2901_npolvette_modkit</Item>
+        <Item>4072_npolvette_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -479,7 +479,7 @@
           <Value value="100" />
         </Item>
       </plateProbabilities>
-      <lightSettings value="437" />
+      <lightSettings value="1" />
       <sirenSettings value="441" />
     </Item>
     <Item>
@@ -536,8 +536,8 @@
           <Value value="100" />
         </Item>
       </plateProbabilities>
-      <lightSettings value="438" />
-      <sirenSettings value="441" />
+      <lightSettings value="150" />
+      <sirenSettings value="150" />
     </Item>
     <Item>
       <modelName>npolstang</modelName>
@@ -593,8 +593,8 @@
           <Value value="100" />
         </Item>
       </plateProbabilities>
-      <lightSettings value="439" />
-      <sirenSettings value="441" />
+      <lightSettings value="150" />
+      <sirenSettings value="150" />
     </Item>
     <Item>
       <modelName>polas350</modelName>
