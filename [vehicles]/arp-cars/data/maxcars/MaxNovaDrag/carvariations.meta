@@ -25,7 +25,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>937_cn69_modkit</Item>
+        <Item>2373_cn69_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -40,7 +40,7 @@
       <sirenSettings value="0" />
     </Item>
     <Item>
-      <modelName>cd69</modelName>
+      <modelName>cn69</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -62,7 +62,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>987_cn69_modkit</Item>
+        <Item2373_cn69_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -77,7 +77,7 @@
       <sirenSettings value="0" />
     </Item>
     <Item>
-      <modelName>cm69</modelName>
+      <modelName>cn69</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -99,7 +99,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>989_cn69_modkit</Item>
+        <Item>2373_cn69_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
