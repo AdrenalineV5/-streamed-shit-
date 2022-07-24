@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+w<?xml version="1.0" encoding="UTF-8"?>
 
 <CVehicleModelInfoVariation>
   <variationData>
@@ -61,7 +61,7 @@
         </Item>
       </colors>
       <kits>
-		<Item>701_modkit</Item>
+		<Item>982_701_modkit</Item>
 	  </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
