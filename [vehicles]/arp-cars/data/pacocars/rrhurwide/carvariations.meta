@@ -3,7 +3,7 @@
 <CVehicleModelInfoVariation>
   <variationData>
 	<Item>
-      <modelName>rmodrrhurwide</modelName>
+      <modelName>rrhurwide</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -25,7 +25,7 @@
         </Item> 
       </colors>
       <kits>
-        <Item>1631_rmodrrhurwide_modkit</Item>
+        <Item>1631_rrhurwide_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>

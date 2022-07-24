@@ -4,7 +4,7 @@
 
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>rmodrrhurwide</handlingName>
+      <handlingName>rrhurwide</handlingName>
       <fMass value="1450.000000" />
      <fInitialDragCoeff value="6.500000" />
       <fPercentSubmerged value="85.000000" />

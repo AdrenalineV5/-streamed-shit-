@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
    <Item>
-      <kitName>1631_rmodrrhurwide_modkit</kitName>
+      <kitName>1631_rrhurwide_modkit</kitName>
       <id value="1631" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
@@ -625,7 +625,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>rmodrrhurwide</name>
+      <name>rrhurwide</name>
     </Item>
     </Lights>
 </CVehicleModelInfoVarGlobal>
