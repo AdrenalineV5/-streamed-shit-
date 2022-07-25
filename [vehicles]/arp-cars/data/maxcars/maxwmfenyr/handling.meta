@@ -5,7 +5,7 @@
     <Item type="CHandlingData">
       <handlingName>maxwmfenyr</handlingName>
     <fMass value="1600.000000"/>
-    <fInitialDragCoeff value="5.500000"/>
+    <fInitialDragCoeff value="5.800000"/>
     <fPercentSubmerged value="85.000000"/>
     <vecCentreOfMassOffset x="0.000000" y="-0.333000" z="0.288000"/>
     <vecInertiaMultiplier x="1.300000" y="1.500000" z="1.500000"/>
@@ -20,13 +20,13 @@
     <fBrakeBiasFront value="0.445000"/>
     <fHandBrakeForce value="2.000000"/>
     <fSteeringLock value="36.000000"/>
-    <fTractionCurveMax value="2.690000"/>
-    <fTractionCurveMin value="2.690000"/>
+    <fTractionCurveMax value="2.630000"/>
+    <fTractionCurveMin value="2.630000"/>
     <fTractionCurveLateral value="22.500000"/>
     <fTractionSpringDeltaMax value="0.150000"/>
     <fLowSpeedTractionLossMult value="0.700000"/>
     <fCamberStiffnesss value="0.000000"/>
-    <fTractionBiasFront value="0.470000"/>
+    <fTractionBiasFront value="0.468000"/>
     <fTractionLossMult value="1.000000"/>
     <fSuspensionForce value="2.650000"/>
     <fSuspensionCompDamp value="1.500000"/>
