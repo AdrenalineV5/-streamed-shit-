@@ -7,8 +7,8 @@
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
         <Item>
-          <modelName>golfp_bumf_1</modelName>
-          <modShopLabel>GOLFP_BUMF1</modShopLabel>
+          <modelName>maxgolfp_bumf_1</modelName>
+          <modShopLabel>maxGOLFP_BUMF_1</modShopLabel>
           <linkedModels />
           <turnOffBones />
           <type>VMT_BUMPER_F</type>
@@ -22,24 +22,8 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>golfp_wing_1</modelName>
-          <modShopLabel>GOLFP_WING1</modShopLabel>
-          <linkedModels/>
-          <turnOffBones>
-          </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>boot</bone>
-          <collisionBone>boot</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-        </Item>
-				<Item>
-          <modelName>golfp_wing_2</modelName>
-          <modShopLabel>GOLFP_WING2</modShopLabel>
+          <modelName>maxgolfp_wing_1</modelName>
+          <modShopLabel>maxGOLFP_WING_1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
           </turnOffBones>
@@ -54,8 +38,24 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>golfp_wing_3</modelName>
-          <modShopLabel>GOLFP_WING3</modShopLabel>
+          <modelName>maxgolfp_wing_2</modelName>
+          <modShopLabel>maxGOLFP_WING_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+        <Item>
+          <modelName>maxgolfp_wing_3</modelName>
+          <modShopLabel>maxgolfp_wing_3</modShopLabel>
           <linkedModels/>
           <turnOffBones>
           </turnOffBones>
