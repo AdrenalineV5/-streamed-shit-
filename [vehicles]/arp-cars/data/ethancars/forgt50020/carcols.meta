@@ -4,8 +4,8 @@
   </Kits>
     <Lights>
       <Item>
-      <kitName>931_forgt50020_modkit</kitName>
-      <id value="931"/>
+      <kitName>0_default_modkit</kitName>
+      <id value="0"/>
       <indicator>
         <intensity value="5.8000000"/>
         <falloffMax value="2.50000000"/>
