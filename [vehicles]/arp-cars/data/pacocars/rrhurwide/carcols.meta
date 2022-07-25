@@ -7,8 +7,8 @@
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 	  <Item>
-          <modelName>rrhurwide_wing_1</modelName>
-          <modShopLabel>rrhurwide_wing_1</modShopLabel>
+          <modelName>rrhurwide_misc_1</modelName>
+          <modShopLabel>rrhurwide_misc_1</modShopLabel>
           <linkedModels />
 		  <turnOffBones>
 		  <Item>misc_e</Item>
