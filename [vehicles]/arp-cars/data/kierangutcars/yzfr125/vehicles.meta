@@ -8,14 +8,14 @@
       <txdName>yzfr125</txdName>
       <handlingId>yzfr125</handlingId>
       <gameName>yzfr125</gameName>
-      <vehicleMakeName>Suzuki</vehicleMakeName>
+      <vehicleMakeName>Kawasaki</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>enduro</audioNameHash>
+      <audioNameHash>bati</audioNameHash>
       <layout>LAYOUT_BIKE_SPORT</layout>
       <coverBoundOffsets>BIKE_COVER_OFFSET_INFO</coverBoundOffsets>
 	  <POVTuningInfo>DOUBLE_POV_TUNING</POVTuningInfo>
@@ -116,7 +116,7 @@
   <txdRelationships>
     <Item>
       <parent>vehshare_worn</parent>
-      <child>yzfr125</child>
+      <child>20r1</child>
     </Item>
   </txdRelationships>
 

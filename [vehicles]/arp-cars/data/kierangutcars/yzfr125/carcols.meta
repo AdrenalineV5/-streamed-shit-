@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>2216_r125_kit</kitName>
+      <kitName>2216_yzfr125_kit</kitName>
       <id value="2216" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
