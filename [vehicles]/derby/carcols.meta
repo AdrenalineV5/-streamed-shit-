@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
     <Kits>
       <Item>
-        <kitName>2591_sbus3_modkit</kitName>
-        <id value="2591" />
+        <kitName>2394_sbus3_modkit</kitName>
+        <id value="2394" />
         <kitType>MKT_SPECIAL</kitType>
         <visibleMods>
          <Item>
