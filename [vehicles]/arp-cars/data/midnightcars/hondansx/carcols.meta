@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>
   <Kits>
 	<Item>
-      <kitName>916_hondansx_modkit</kitName>
-      <id value="916" />	 	  
+      <kitName>2384_hondansx_modkit</kitName>
+      <id value="2384" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
