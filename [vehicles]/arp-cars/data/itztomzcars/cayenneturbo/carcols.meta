@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>5043_monkeyaddon_modkit</kitName>
-      <id value="5043" />	 	  
+      <kitName>2385_cayenneturbo_modkit</kitName>
+      <id value="2385" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods />
       <linkMods />
