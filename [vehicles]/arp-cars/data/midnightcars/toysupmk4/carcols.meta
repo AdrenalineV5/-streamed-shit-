@@ -2,14 +2,14 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
 	<Item>
-      <kitName>2841_toysup_modkit</kitName>
+      <kitName>2841_toysupmk4_modkit</kitName>
       <id value="2841" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
-          <modelName>toysup_livery1</modelName>
-          <modShopLabel>toysup_livery1</modShopLabel>
-          <linkedModels>		  <Item>toysup_windshield_ug</Item>		  </linkedModels>
+          <modelName>toysupmk4_livery1</modelName>
+          <modShopLabel>toysupmk4_livery1</modShopLabel>
+          <linkedModels>		  <Item>toysupmk4_windshield_ug</Item>		  </linkedModels>
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
           <bone>chassis</bone>
@@ -22,8 +22,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery2</modelName>
-          <modShopLabel>toysup_livery2</modShopLabel>
+          <modelName>toysupmk4_livery2</modelName>
+          <modShopLabel>toysupmk4_livery2</modShopLabel>
           <linkedModels>
 		  </linkedModels>
           <turnOffBones />
@@ -38,8 +38,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery3</modelName>
-          <modShopLabel>toysup_livery3</modShopLabel>
+          <modelName>toysupmk4_livery3</modelName>
+          <modShopLabel>toysupmk4_livery3</modShopLabel>
           <linkedModels>
 		  </linkedModels>
           <turnOffBones />
@@ -54,8 +54,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery4</modelName>
-          <modShopLabel>toysup_livery4</modShopLabel>
+          <modelName>toysupmk4_livery4</modelName>
+          <modShopLabel>toysupmk4_livery4</modShopLabel>
           <linkedModels>
 		  </linkedModels>
           <turnOffBones />
@@ -70,8 +70,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery5</modelName>
-          <modShopLabel>toysup_livery5</modShopLabel>
+          <modelName>toysupmk4_livery5</modelName>
+          <modShopLabel>toysupmk4_livery5</modShopLabel>
           <linkedModels>
 		  </linkedModels>
           <turnOffBones />
@@ -86,9 +86,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery6</modelName>
-          <modShopLabel>toysup_livery6</modShopLabel>
-          <linkedModels>		  <Item>toysup_windshield6</Item>		  <Item>toysup_bootglass6</Item>		  <Item>toysup_windowlf6</Item>		  <Item>toysup_windowlr6</Item>		  <Item>toysup_windowrf6</Item>		  <Item>toysup_windowrr6</Item>		  </linkedModels>
+          <modelName>toysupmk4_livery6</modelName>
+          <modShopLabel>toysupmk4_livery6</modShopLabel>
+          <linkedModels>		  <Item>toysupmk4_windshield6</Item>		  <Item>toysupmk4_bootglass6</Item>		  <Item>toysupmk4_windowlf6</Item>		  <Item>toysupmk4_windowlr6</Item>		  <Item>toysupmk4_windowrf6</Item>		  <Item>toysupmk4_windowrr6</Item>		  </linkedModels>
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
           <bone>chassis</bone>
@@ -101,9 +101,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery7</modelName>
-          <modShopLabel>toysup_livery7</modShopLabel>
-          <linkedModels>		  <Item>toysup_windshield7</Item>		  <Item>toysup_bootglass7</Item>		  <Item>toysup_windowlf7</Item>		  <Item>toysup_windowlr7</Item>		  <Item>toysup_windowrf7</Item>		  <Item>toysup_windowrr7</Item>		  </linkedModels>
+          <modelName>toysupmk4_livery7</modelName>
+          <modShopLabel>toysupmk4_livery7</modShopLabel>
+          <linkedModels>		  <Item>toysupmk4_windshield7</Item>		  <Item>toysupmk4_bootglass7</Item>		  <Item>toysupmk4_windowlf7</Item>		  <Item>toysupmk4_windowlr7</Item>		  <Item>toysupmk4_windowrf7</Item>		  <Item>toysupmk4_windowrr7</Item>		  </linkedModels>
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
           <bone>chassis</bone>
@@ -116,9 +116,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery8</modelName>
-          <modShopLabel>toysup_livery8</modShopLabel>
-          <linkedModels>		  <Item>toysup_windshield8</Item>		  <Item>toysup_bootglass8</Item>		  <Item>toysup_windowlf8</Item>		  <Item>toysup_windowlr8</Item>		  <Item>toysup_windowrf8</Item>		  <Item>toysup_windowrr8</Item>		  </linkedModels>
+          <modelName>toysupmk4_livery8</modelName>
+          <modShopLabel>toysupmk4_livery8</modShopLabel>
+          <linkedModels>		  <Item>toysupmk4_windshield8</Item>		  <Item>toysupmk4_bootglass8</Item>		  <Item>toysupmk4_windowlf8</Item>		  <Item>toysupmk4_windowlr8</Item>		  <Item>toysupmk4_windowrf8</Item>		  <Item>toysupmk4_windowrr8</Item>		  </linkedModels>
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
           <bone>chassis</bone>
@@ -131,9 +131,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery9</modelName>
-          <modShopLabel>toysup_livery9</modShopLabel>
-          <linkedModels>		  <Item>toysup_windshield9</Item>		  <Item>toysup_bootglass9</Item>		  <Item>toysup_windowlf9</Item>		  <Item>toysup_windowlr9</Item>		  <Item>toysup_windowrf9</Item>		  <Item>toysup_windowrr9</Item>		  </linkedModels>
+          <modelName>toysupmk4_livery9</modelName>
+          <modShopLabel>toysupmk4_livery9</modShopLabel>
+          <linkedModels>		  <Item>toysupmk4_windshield9</Item>		  <Item>toysupmk4_bootglass9</Item>		  <Item>toysupmk4_windowlf9</Item>		  <Item>toysupmk4_windowlr9</Item>		  <Item>toysupmk4_windowrf9</Item>		  <Item>toysupmk4_windowrr9</Item>		  </linkedModels>
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
           <bone>chassis</bone>
@@ -146,9 +146,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery10</modelName>
-          <modShopLabel>toysup_livery10</modShopLabel>
-          <linkedModels>		  <Item>toysup_windshield10</Item>		  <Item>toysup_bootglass10</Item>		  <Item>toysup_windowlf10</Item>		  <Item>toysup_windowlr10</Item>		  <Item>toysup_windowrf10</Item>		  <Item>toysup_windowrr10</Item>		  </linkedModels>
+          <modelName>toysupmk4_livery10</modelName>
+          <modShopLabel>toysupmk4_livery10</modShopLabel>
+          <linkedModels>		  <Item>toysupmk4_windshield10</Item>		  <Item>toysupmk4_bootglass10</Item>		  <Item>toysupmk4_windowlf10</Item>		  <Item>toysupmk4_windowlr10</Item>		  <Item>toysupmk4_windowrf10</Item>		  <Item>toysupmk4_windowrr10</Item>		  </linkedModels>
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
           <bone>chassis</bone>
@@ -161,9 +161,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery11</modelName>
-          <modShopLabel>toysup_livery11</modShopLabel>
-          <linkedModels>		  <Item>toysup_windowlf11</Item>		  <Item>toysup_bootglass11</Item>		  <Item>toysup_windowlr11</Item>		  <Item>toysup_windowrf11</Item>		  <Item>toysup_windowrr11</Item>		  <Item>toysup_windshield11</Item>		  </linkedModels>
+          <modelName>toysupmk4_livery11</modelName>
+          <modShopLabel>toysupmk4_livery11</modShopLabel>
+          <linkedModels>		  <Item>toysupmk4_windowlf11</Item>		  <Item>toysupmk4_bootglass11</Item>		  <Item>toysupmk4_windowlr11</Item>		  <Item>toysupmk4_windowrf11</Item>		  <Item>toysupmk4_windowrr11</Item>		  <Item>toysupmk4_windshield11</Item>		  </linkedModels>
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
           <bone>chassis</bone>
@@ -176,10 +176,10 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery12</modelName>
-          <modShopLabel>toysup_livery12</modShopLabel>
+          <modelName>toysupmk4_livery12</modelName>
+          <modShopLabel>toysupmk4_livery12</modShopLabel>
           <linkedModels>
-		  <Item>toysup_windshield12</Item>
+		  <Item>toysupmk4_windshield12</Item>
 		  </linkedModels>
           <turnOffBones />
           <type>VMT_LIVERY_MOD</type>
@@ -193,24 +193,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery13</modelName>
-          <modShopLabel>toysup_livery13</modShopLabel>
-          <linkedModels>
-		  </linkedModels>
-          <turnOffBones />
-          <type>VMT_LIVERY_MOD</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-        <Item>
-          <modelName>toysup_livery14</modelName>
-          <modShopLabel>toysup_livery14</modShopLabel>
+          <modelName>toysupmk4_livery13</modelName>
+          <modShopLabel>toysupmk4_livery13</modShopLabel>
           <linkedModels>
 		  </linkedModels>
           <turnOffBones />
@@ -225,8 +209,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery15</modelName>
-          <modShopLabel>toysup_livery15</modShopLabel>
+          <modelName>toysupmk4_livery14</modelName>
+          <modShopLabel>toysupmk4_livery14</modShopLabel>
           <linkedModels>
 		  </linkedModels>
           <turnOffBones />
@@ -241,8 +225,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery16</modelName>
-          <modShopLabel>toysup_livery16</modShopLabel>
+          <modelName>toysupmk4_livery15</modelName>
+          <modShopLabel>toysupmk4_livery15</modShopLabel>
           <linkedModels>
 		  </linkedModels>
           <turnOffBones />
@@ -257,8 +241,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_livery17</modelName>
-          <modShopLabel>toysup_livery17</modShopLabel>
+          <modelName>toysupmk4_livery16</modelName>
+          <modShopLabel>toysupmk4_livery16</modShopLabel>
           <linkedModels>
 		  </linkedModels>
           <turnOffBones />
@@ -273,604 +257,620 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_wg1</modelName>
-          <modShopLabel>toysup_wg1</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg2</modelName>
-          <modShopLabel>toysup_wg2</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg3</modelName>
-          <modShopLabel>toysup_wg3</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg4</modelName>
-          <modShopLabel>toysup_wg4</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg5</modelName>
-          <modShopLabel>toysup_wg5</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg6</modelName>
-          <modShopLabel>toysup_wg6</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg7</modelName>
-          <modShopLabel>toysup_wg7</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg8</modelName>
-          <modShopLabel>toysup_wg8</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg9</modelName>
-          <modShopLabel>toysup_wg9</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg10</modelName>
-          <modShopLabel>toysup_wg10</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg11</modelName>
-          <modShopLabel>toysup_wg11</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg12</modelName>
-          <modShopLabel>toysup_wg12</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg13</modelName>
-          <modShopLabel>toysup_wg13</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg14</modelName>
-          <modShopLabel>toysup_wg14</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_wg15</modelName>
-          <modShopLabel>toysup_wg15</modShopLabel>
-          <turnOffBones>
-            <Item>misc_c</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_remove</modelName>
-          <modShopLabel>toysup_remove</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof1</modelName>
-          <modShopLabel>toysup_roof1</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof2</modelName>
-          <modShopLabel>toysup_roof2</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof3</modelName>
-          <modShopLabel>toysup_roof3</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof4</modelName>
-          <modShopLabel>toysup_roof4</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof5</modelName>
-          <modShopLabel>toysup_roo51</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof6</modelName>
-          <modShopLabel>toysup_roof6</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof7</modelName>
-          <modShopLabel>toysup_roof7</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof8</modelName>
-          <modShopLabel>toysup_roof8</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof9</modelName>
-          <modShopLabel>toysup_roof9</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof10</modelName>
-          <modShopLabel>toysup_roof10</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_roof11</modelName>
-          <modShopLabel>toysup_roof11</modShopLabel>
-          <turnOffBones>
-            <Item>extra_1</Item>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>mod_col_2</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <weaponSlotSecondary value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-          <disableDrivebySeat value="0"/>
-          <disableDrivebySeatSecondary value="0"/>
-        </Item>
-        <Item>
-          <modelName>toysup_mir1l</modelName>
-          <modShopLabel>toysup_mir1l</modShopLabel>
+          <modelName>toysupmk4_livery17</modelName>
+          <modShopLabel>toysupmk4_livery17</modShopLabel>
           <linkedModels>
-		     <Item>toysup_mir1r</Item>
+		  </linkedModels>
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg1</modelName>
+          <modShopLabel>toysupmk4_wg1</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg2</modelName>
+          <modShopLabel>toysupmk4_wg2</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg3</modelName>
+          <modShopLabel>toysupmk4_wg3</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg4</modelName>
+          <modShopLabel>toysupmk4_wg4</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg5</modelName>
+          <modShopLabel>toysupmk4_wg5</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg6</modelName>
+          <modShopLabel>toysupmk4_wg6</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg7</modelName>
+          <modShopLabel>toysupmk4_wg7</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg8</modelName>
+          <modShopLabel>toysupmk4_wg8</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg9</modelName>
+          <modShopLabel>toysupmk4_wg9</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg10</modelName>
+          <modShopLabel>toysupmk4_wg10</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg11</modelName>
+          <modShopLabel>toysupmk4_wg11</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg12</modelName>
+          <modShopLabel>toysupmk4_wg12</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg13</modelName>
+          <modShopLabel>toysupmk4_wg13</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg14</modelName>
+          <modShopLabel>toysupmk4_wg14</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_wg15</modelName>
+          <modShopLabel>toysupmk4_wg15</modShopLabel>
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_remove</modelName>
+          <modShopLabel>toysupmk4_remove</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof1</modelName>
+          <modShopLabel>toysupmk4_roof1</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof2</modelName>
+          <modShopLabel>toysupmk4_roof2</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof3</modelName>
+          <modShopLabel>toysupmk4_roof3</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof4</modelName>
+          <modShopLabel>toysupmk4_roof4</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof5</modelName>
+          <modShopLabel>toysupmk4_roo51</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof6</modelName>
+          <modShopLabel>toysupmk4_roof6</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof7</modelName>
+          <modShopLabel>toysupmk4_roof7</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof8</modelName>
+          <modShopLabel>toysupmk4_roof8</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof9</modelName>
+          <modShopLabel>toysupmk4_roof9</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof10</modelName>
+          <modShopLabel>toysupmk4_roof10</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_roof11</modelName>
+          <modShopLabel>toysupmk4_roof11</modShopLabel>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+        <Item>
+          <modelName>toysupmk4_mir1l</modelName>
+          <modShopLabel>toysupmk4_mir1l</modShopLabel>
+          <linkedModels>
+		     <Item>toysupmk4_mir1r</Item>
  		  </linkedModels>
           <turnOffBones>
             <Item>misc_l</Item>
@@ -893,10 +893,10 @@
           <disableDrivebySeatSecondary value="0"/>
         </Item>
         <Item>
-          <modelName>toysup_mir2l</modelName>
-          <modShopLabel>toysup_mir2l</modShopLabel>
+          <modelName>toysupmk4_mir2l</modelName>
+          <modShopLabel>toysupmk4_mir2l</modShopLabel>
           <linkedModels>
-		     <Item>toysup_mir2r</Item>
+		     <Item>toysupmk4_mir2r</Item>
  		  </linkedModels>
           <turnOffBones>
             <Item>misc_l</Item>
@@ -919,10 +919,10 @@
           <disableDrivebySeatSecondary value="0"/>
         </Item>
         <Item>
-          <modelName>toysup_mir3l</modelName>
-          <modShopLabel>toysup_mir3l</modShopLabel>
+          <modelName>toysupmk4_mir3l</modelName>
+          <modShopLabel>toysupmk4_mir3l</modShopLabel>
           <linkedModels>
-		     <Item>toysup_mir3r</Item>
+		     <Item>toysupmk4_mir3r</Item>
  		  </linkedModels>
           <turnOffBones>
             <Item>misc_l</Item>
@@ -945,10 +945,10 @@
           <disableDrivebySeatSecondary value="0"/>
         </Item>
         <Item>
-          <modelName>toysup_mir4l</modelName>
-          <modShopLabel>toysup_mir4l</modShopLabel>
+          <modelName>toysupmk4_mir4l</modelName>
+          <modShopLabel>toysupmk4_mir4l</modShopLabel>
           <linkedModels>
-		     <Item>toysup_mir4r</Item>
+		     <Item>toysupmk4_mir4r</Item>
  		  </linkedModels>
           <turnOffBones>
             <Item>misc_l</Item>
@@ -971,10 +971,10 @@
           <disableDrivebySeatSecondary value="0"/>
         </Item>
         <Item>
-          <modelName>toysup_mir5l</modelName>
-          <modShopLabel>toysup_mir5l</modShopLabel>
+          <modelName>toysupmk4_mir5l</modelName>
+          <modShopLabel>toysupmk4_mir5l</modShopLabel>
           <linkedModels>
-		     <Item>toysup_mir5r</Item>
+		     <Item>toysupmk4_mir5r</Item>
  		  </linkedModels>
           <turnOffBones>
             <Item>misc_l</Item>
@@ -997,10 +997,10 @@
           <disableDrivebySeatSecondary value="0"/>
         </Item>
         <Item>
-          <modelName>toysup_mir6l</modelName>
-          <modShopLabel>toysup_mir6l</modShopLabel>
+          <modelName>toysupmk4_mir6l</modelName>
+          <modShopLabel>toysupmk4_mir6l</modShopLabel>
           <linkedModels>
-		     <Item>toysup_mir6r</Item>
+		     <Item>toysupmk4_mir6r</Item>
  		  </linkedModels>
           <turnOffBones>
             <Item>misc_l</Item>
@@ -1023,10 +1023,10 @@
           <disableDrivebySeatSecondary value="0"/>
         </Item>
         <Item>
-          <modelName>toysup_mir7l</modelName>
-          <modShopLabel>toysup_mir7l</modShopLabel>
+          <modelName>toysupmk4_mir7l</modelName>
+          <modShopLabel>toysupmk4_mir7l</modShopLabel>
           <linkedModels>
-		     <Item>toysup_mir7r</Item>
+		     <Item>toysupmk4_mir7r</Item>
  		  </linkedModels>
           <turnOffBones>
             <Item>misc_l</Item>
@@ -1049,10 +1049,10 @@
           <disableDrivebySeatSecondary value="0"/>
         </Item>
         <Item>
-          <modelName>toysup_mir8l</modelName>
-          <modShopLabel>toysup_mir8l</modShopLabel>
+          <modelName>toysupmk4_mir8l</modelName>
+          <modShopLabel>toysupmk4_mir8l</modShopLabel>
           <linkedModels>
-		     <Item>toysup_mir8r</Item>
+		     <Item>toysupmk4_mir8r</Item>
  		  </linkedModels>
           <turnOffBones>
             <Item>misc_l</Item>
@@ -1075,10 +1075,10 @@
           <disableDrivebySeatSecondary value="0"/>
         </Item>
         <Item>
-          <modelName>toysup_mir9l</modelName>
-          <modShopLabel>toysup_mir9l</modShopLabel>
+          <modelName>toysupmk4_mir9l</modelName>
+          <modShopLabel>toysupmk4_mir9l</modShopLabel>
           <linkedModels>
-		     <Item>toysup_mir9r</Item>
+		     <Item>toysupmk4_mir9r</Item>
  		  </linkedModels>
           <turnOffBones>
             <Item>misc_l</Item>
@@ -1101,8 +1101,8 @@
           <disableDrivebySeatSecondary value="0"/>
         </Item>
          <Item>
-          <modelName>toysup_steering1</modelName>
-          <modShopLabel>toysup_steering1</modShopLabel>
+          <modelName>toysupmk4_steering1</modelName>
+          <modShopLabel>toysupmk4_steering1</modShopLabel>
           <turnOffBones>
              <Item>steeringwheel</Item>
          </turnOffBones>
@@ -1117,8 +1117,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_steering2</modelName>
-          <modShopLabel>toysup_steering2</modShopLabel>
+          <modelName>toysupmk4_steering2</modelName>
+          <modShopLabel>toysupmk4_steering2</modShopLabel>
           <turnOffBones>
              <Item>steeringwheel</Item>
          </turnOffBones>
@@ -1133,8 +1133,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_steering3</modelName>
-          <modShopLabel>toysup_steering3</modShopLabel>
+          <modelName>toysupmk4_steering3</modelName>
+          <modShopLabel>toysupmk4_steering3</modShopLabel>
           <turnOffBones>
              <Item>steeringwheel</Item>
          </turnOffBones>
@@ -1149,8 +1149,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_steering4</modelName>
-          <modShopLabel>toysup_steering4</modShopLabel>
+          <modelName>toysupmk4_steering4</modelName>
+          <modShopLabel>toysupmk4_steering4</modShopLabel>
           <turnOffBones>
              <Item>steeringwheel</Item>
          </turnOffBones>
@@ -1165,8 +1165,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_steering5</modelName>
-          <modShopLabel>toysup_steering5</modShopLabel>
+          <modelName>toysupmk4_steering5</modelName>
+          <modShopLabel>toysupmk4_steering5</modShopLabel>
           <turnOffBones>
              <Item>steeringwheel</Item>
          </turnOffBones>
@@ -1181,8 +1181,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_steering6</modelName>
-          <modShopLabel>toysup_steering6</modShopLabel>
+          <modelName>toysupmk4_steering6</modelName>
+          <modShopLabel>toysupmk4_steering6</modShopLabel>
           <turnOffBones>
              <Item>steeringwheel</Item>
          </turnOffBones>
@@ -1197,8 +1197,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_steering7</modelName>
-          <modShopLabel>toysup_steering7</modShopLabel>
+          <modelName>toysupmk4_steering7</modelName>
+          <modShopLabel>toysupmk4_steering7</modShopLabel>
           <turnOffBones>
              <Item>steeringwheel</Item>
          </turnOffBones>
@@ -1213,8 +1213,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_remove</modelName>
-          <modShopLabel>toysup_remove</modShopLabel>
+          <modelName>toysupmk4_remove</modelName>
+          <modShopLabel>toysupmk4_remove</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1229,8 +1229,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl1</modelName>
-          <modShopLabel>toysup_spl1</modShopLabel>
+          <modelName>toysupmk4_spl1</modelName>
+          <modShopLabel>toysupmk4_spl1</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1245,8 +1245,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl2</modelName>
-          <modShopLabel>toysup_spl2</modShopLabel>
+          <modelName>toysupmk4_spl2</modelName>
+          <modShopLabel>toysupmk4_spl2</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1261,8 +1261,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl3</modelName>
-          <modShopLabel>toysup_spl3</modShopLabel>
+          <modelName>toysupmk4_spl3</modelName>
+          <modShopLabel>toysupmk4_spl3</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1277,8 +1277,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl4</modelName>
-          <modShopLabel>toysup_spl4</modShopLabel>
+          <modelName>toysupmk4_spl4</modelName>
+          <modShopLabel>toysupmk4_spl4</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1293,8 +1293,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl5</modelName>
-          <modShopLabel>toysup_spl5</modShopLabel>
+          <modelName>toysupmk4_spl5</modelName>
+          <modShopLabel>toysupmk4_spl5</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1309,8 +1309,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl6</modelName>
-          <modShopLabel>toysup_spl6</modShopLabel>
+          <modelName>toysupmk4_spl6</modelName>
+          <modShopLabel>toysupmk4_spl6</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1325,8 +1325,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl7</modelName>
-          <modShopLabel>toysup_spl7</modShopLabel>
+          <modelName>toysupmk4_spl7</modelName>
+          <modShopLabel>toysupmk4_spl7</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1341,8 +1341,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl8</modelName>
-          <modShopLabel>toysup_spl8</modShopLabel>
+          <modelName>toysupmk4_spl8</modelName>
+          <modShopLabel>toysupmk4_spl8</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1357,8 +1357,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl9</modelName>
-          <modShopLabel>toysup_spl9</modShopLabel>
+          <modelName>toysupmk4_spl9</modelName>
+          <modShopLabel>toysupmk4_spl9</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1373,8 +1373,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl10</modelName>
-          <modShopLabel>toysup_spl10</modShopLabel>
+          <modelName>toysupmk4_spl10</modelName>
+          <modShopLabel>toysupmk4_spl10</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1389,8 +1389,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl11</modelName>
-          <modShopLabel>toysup_spl11</modShopLabel>
+          <modelName>toysupmk4_spl11</modelName>
+          <modShopLabel>toysupmk4_spl11</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1405,8 +1405,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl12</modelName>
-          <modShopLabel>toysup_spl12</modShopLabel>
+          <modelName>toysupmk4_spl12</modelName>
+          <modShopLabel>toysupmk4_spl12</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1421,8 +1421,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl13</modelName>
-          <modShopLabel>toysup_spl13</modShopLabel>
+          <modelName>toysupmk4_spl13</modelName>
+          <modShopLabel>toysupmk4_spl13</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1437,8 +1437,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl14</modelName>
-          <modShopLabel>toysup_spl14</modShopLabel>
+          <modelName>toysupmk4_spl14</modelName>
+          <modShopLabel>toysupmk4_spl14</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1453,8 +1453,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl15</modelName>
-          <modShopLabel>toysup_spl15</modShopLabel>
+          <modelName>toysupmk4_spl15</modelName>
+          <modShopLabel>toysupmk4_spl15</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1469,8 +1469,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl16</modelName>
-          <modShopLabel>toysup_spl16</modShopLabel>
+          <modelName>toysupmk4_spl16</modelName>
+          <modShopLabel>toysupmk4_spl16</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1485,8 +1485,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl17</modelName>
-          <modShopLabel>toysup_spl17</modShopLabel>
+          <modelName>toysupmk4_spl17</modelName>
+          <modShopLabel>toysupmk4_spl17</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1501,8 +1501,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl18</modelName>
-          <modShopLabel>toysup_spl18</modShopLabel>
+          <modelName>toysupmk4_spl18</modelName>
+          <modShopLabel>toysupmk4_spl18</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1517,8 +1517,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl19</modelName>
-          <modShopLabel>toysup_spl19</modShopLabel>
+          <modelName>toysupmk4_spl19</modelName>
+          <modShopLabel>toysupmk4_spl19</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1533,8 +1533,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl20</modelName>
-          <modShopLabel>toysup_spl20</modShopLabel>
+          <modelName>toysupmk4_spl20</modelName>
+          <modShopLabel>toysupmk4_spl20</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1549,8 +1549,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl21</modelName>
-          <modShopLabel>toysup_spl21</modShopLabel>
+          <modelName>toysupmk4_spl21</modelName>
+          <modShopLabel>toysupmk4_spl21</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1565,8 +1565,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl22</modelName>
-          <modShopLabel>toysup_spl22</modShopLabel>
+          <modelName>toysupmk4_spl22</modelName>
+          <modShopLabel>toysupmk4_spl22</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1581,8 +1581,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl23</modelName>
-          <modShopLabel>toysup_spl23</modShopLabel>
+          <modelName>toysupmk4_spl23</modelName>
+          <modShopLabel>toysupmk4_spl23</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1597,8 +1597,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl24</modelName>
-          <modShopLabel>toysup_spl24</modShopLabel>
+          <modelName>toysupmk4_spl24</modelName>
+          <modShopLabel>toysupmk4_spl24</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1613,8 +1613,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl25</modelName>
-          <modShopLabel>toysup_spl25</modShopLabel>
+          <modelName>toysupmk4_spl25</modelName>
+          <modShopLabel>toysupmk4_spl25</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1629,8 +1629,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl26</modelName>
-          <modShopLabel>toysup_spl26</modShopLabel>
+          <modelName>toysupmk4_spl26</modelName>
+          <modShopLabel>toysupmk4_spl26</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1645,8 +1645,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl27</modelName>
-          <modShopLabel>toysup_spl27</modShopLabel>
+          <modelName>toysupmk4_spl27</modelName>
+          <modShopLabel>toysupmk4_spl27</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1661,8 +1661,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl28</modelName>
-          <modShopLabel>toysup_spl28</modShopLabel>
+          <modelName>toysupmk4_spl28</modelName>
+          <modShopLabel>toysupmk4_spl28</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1677,8 +1677,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl29</modelName>
-          <modShopLabel>toysup_spl29</modShopLabel>
+          <modelName>toysupmk4_spl29</modelName>
+          <modShopLabel>toysupmk4_spl29</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1693,8 +1693,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl30</modelName>
-          <modShopLabel>toysup_spl30</modShopLabel>
+          <modelName>toysupmk4_spl30</modelName>
+          <modShopLabel>toysupmk4_spl30</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1709,8 +1709,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl31</modelName>
-          <modShopLabel>toysup_spl31</modShopLabel>
+          <modelName>toysupmk4_spl31</modelName>
+          <modShopLabel>toysupmk4_spl31</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1725,8 +1725,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl32</modelName>
-          <modShopLabel>toysup_spl32</modShopLabel>
+          <modelName>toysupmk4_spl32</modelName>
+          <modShopLabel>toysupmk4_spl32</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1741,8 +1741,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl33</modelName>
-          <modShopLabel>toysup_spl33</modShopLabel>
+          <modelName>toysupmk4_spl33</modelName>
+          <modShopLabel>toysupmk4_spl33</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1757,8 +1757,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl34</modelName>
-          <modShopLabel>toysup_spl34</modShopLabel>
+          <modelName>toysupmk4_spl34</modelName>
+          <modShopLabel>toysupmk4_spl34</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1773,8 +1773,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl35</modelName>
-          <modShopLabel>toysup_spl35</modShopLabel>
+          <modelName>toysupmk4_spl35</modelName>
+          <modShopLabel>toysupmk4_spl35</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1789,8 +1789,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl36</modelName>
-          <modShopLabel>toysup_spl36</modShopLabel>
+          <modelName>toysupmk4_spl36</modelName>
+          <modShopLabel>toysupmk4_spl36</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1805,8 +1805,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl37</modelName>
-          <modShopLabel>toysup_spl37</modShopLabel>
+          <modelName>toysupmk4_spl37</modelName>
+          <modShopLabel>toysupmk4_spl37</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1821,8 +1821,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl38</modelName>
-          <modShopLabel>toysup_spl38</modShopLabel>
+          <modelName>toysupmk4_spl38</modelName>
+          <modShopLabel>toysupmk4_spl38</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1837,8 +1837,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl39</modelName>
-          <modShopLabel>toysup_spl39</modShopLabel>
+          <modelName>toysupmk4_spl39</modelName>
+          <modShopLabel>toysupmk4_spl39</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1853,8 +1853,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl40</modelName>
-          <modShopLabel>toysup_spl40</modShopLabel>
+          <modelName>toysupmk4_spl40</modelName>
+          <modShopLabel>toysupmk4_spl40</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1869,8 +1869,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl41</modelName>
-          <modShopLabel>toysup_spl41</modShopLabel>
+          <modelName>toysupmk4_spl41</modelName>
+          <modShopLabel>toysupmk4_spl41</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
           </turnOffBones>
@@ -1885,8 +1885,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_spl42</modelName>
-          <modShopLabel>toysup_spl42</modShopLabel>
+          <modelName>toysupmk4_spl42</modelName>
+          <modShopLabel>toysupmk4_spl42</modShopLabel>
           <turnOffBones>
             <Item>misc_j</Item>
             <Item>misc_q</Item>
@@ -1902,8 +1902,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_seats1</modelName>
-          <modShopLabel>toysup_seats1</modShopLabel>
+          <modelName>toysupmk4_seats1</modelName>
+          <modShopLabel>toysupmk4_seats1</modShopLabel>
           <turnOffBones>
              <Item>misc_b</Item>
          </turnOffBones>
@@ -1918,8 +1918,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_seats2</modelName>
-          <modShopLabel>toysup_seats2</modShopLabel>
+          <modelName>toysupmk4_seats2</modelName>
+          <modShopLabel>toysupmk4_seats2</modShopLabel>
           <turnOffBones>
              <Item>misc_b</Item>
          </turnOffBones>
@@ -1934,8 +1934,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_seats3</modelName>
-          <modShopLabel>toysup_seats3</modShopLabel>
+          <modelName>toysupmk4_seats3</modelName>
+          <modShopLabel>toysupmk4_seats3</modShopLabel>
           <turnOffBones>
              <Item>misc_b</Item>
          </turnOffBones>
@@ -1950,8 +1950,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_seats4</modelName>
-          <modShopLabel>toysup_seats4</modShopLabel>
+          <modelName>toysupmk4_seats4</modelName>
+          <modShopLabel>toysupmk4_seats4</modShopLabel>
           <turnOffBones>
              <Item>misc_b</Item>
          </turnOffBones>
@@ -1966,8 +1966,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_seats5</modelName>
-          <modShopLabel>toysup_seats5</modShopLabel>
+          <modelName>toysupmk4_seats5</modelName>
+          <modShopLabel>toysupmk4_seats5</modShopLabel>
           <turnOffBones>
              <Item>misc_b</Item>
          </turnOffBones>
@@ -1982,8 +1982,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_seats6</modelName>
-          <modShopLabel>toysup_seats6</modShopLabel>
+          <modelName>toysupmk4_seats6</modelName>
+          <modShopLabel>toysupmk4_seats6</modShopLabel>
           <turnOffBones>
              <Item>misc_b</Item>
          </turnOffBones>
@@ -1998,8 +1998,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_seats7</modelName>
-          <modShopLabel>toysup_seats7</modShopLabel>
+          <modelName>toysupmk4_seats7</modelName>
+          <modShopLabel>toysupmk4_seats7</modShopLabel>
           <turnOffBones>
              <Item>misc_b</Item>
          </turnOffBones>
@@ -2014,8 +2014,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_seats8</modelName>
-          <modShopLabel>toysup_seats8</modShopLabel>
+          <modelName>toysupmk4_seats8</modelName>
+          <modShopLabel>toysupmk4_seats8</modShopLabel>
           <turnOffBones>
              <Item>misc_b</Item>
          </turnOffBones>
@@ -2030,8 +2030,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh1</modelName>
-          <modShopLabel>toysup_exh1</modShopLabel>
+          <modelName>toysupmk4_exh1</modelName>
+          <modShopLabel>toysupmk4_exh1</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2047,8 +2047,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh2</modelName>
-          <modShopLabel>toysup_exh2</modShopLabel>
+          <modelName>toysupmk4_exh2</modelName>
+          <modShopLabel>toysupmk4_exh2</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2064,8 +2064,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh3</modelName>
-          <modShopLabel>toysup_exh3</modShopLabel>
+          <modelName>toysupmk4_exh3</modelName>
+          <modShopLabel>toysupmk4_exh3</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2081,8 +2081,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh4</modelName>
-          <modShopLabel>toysup_exh4</modShopLabel>
+          <modelName>toysupmk4_exh4</modelName>
+          <modShopLabel>toysupmk4_exh4</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2098,8 +2098,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh5</modelName>
-          <modShopLabel>toysup_exh5</modShopLabel>
+          <modelName>toysupmk4_exh5</modelName>
+          <modShopLabel>toysupmk4_exh5</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2115,8 +2115,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh6</modelName>
-          <modShopLabel>toysup_exh6</modShopLabel>
+          <modelName>toysupmk4_exh6</modelName>
+          <modShopLabel>toysupmk4_exh6</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2132,8 +2132,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh7</modelName>
-          <modShopLabel>toysup_exh7</modShopLabel>
+          <modelName>toysupmk4_exh7</modelName>
+          <modShopLabel>toysupmk4_exh7</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2149,8 +2149,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh8</modelName>
-          <modShopLabel>toysup_exh8</modShopLabel>
+          <modelName>toysupmk4_exh8</modelName>
+          <modShopLabel>toysupmk4_exh8</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2166,8 +2166,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh9</modelName>
-          <modShopLabel>toysup_exh9</modShopLabel>
+          <modelName>toysupmk4_exh9</modelName>
+          <modShopLabel>toysupmk4_exh9</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2183,8 +2183,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh10</modelName>
-          <modShopLabel>toysup_exh10</modShopLabel>
+          <modelName>toysupmk4_exh10</modelName>
+          <modShopLabel>toysupmk4_exh10</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2200,8 +2200,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh11</modelName>
-          <modShopLabel>toysup_exh11</modShopLabel>
+          <modelName>toysupmk4_exh11</modelName>
+          <modShopLabel>toysupmk4_exh11</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2217,8 +2217,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh12</modelName>
-          <modShopLabel>toysup_exh12</modShopLabel>
+          <modelName>toysupmk4_exh12</modelName>
+          <modShopLabel>toysupmk4_exh12</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2234,8 +2234,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh13</modelName>
-          <modShopLabel>toysup_exh13</modShopLabel>
+          <modelName>toysupmk4_exh13</modelName>
+          <modShopLabel>toysupmk4_exh13</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2251,8 +2251,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh14</modelName>
-          <modShopLabel>toysup_exh14</modShopLabel>
+          <modelName>toysupmk4_exh14</modelName>
+          <modShopLabel>toysupmk4_exh14</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2269,8 +2269,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh15</modelName>
-          <modShopLabel>toysup_exh15</modShopLabel>
+          <modelName>toysupmk4_exh15</modelName>
+          <modShopLabel>toysupmk4_exh15</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2287,8 +2287,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh16</modelName>
-          <modShopLabel>toysup_exh16</modShopLabel>
+          <modelName>toysupmk4_exh16</modelName>
+          <modShopLabel>toysupmk4_exh16</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2305,8 +2305,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_exh17</modelName>
-          <modShopLabel>toysup_exh17</modShopLabel>
+          <modelName>toysupmk4_exh17</modelName>
+          <modShopLabel>toysupmk4_exh17</modShopLabel>
           <turnOffBones>
             <Item>exhaust</Item>
             <Item>misc_f</Item>
@@ -2323,8 +2323,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_remove</modelName>
-          <modShopLabel>toysup_remove</modShopLabel>
+          <modelName>toysupmk4_remove</modelName>
+          <modShopLabel>toysupmk4_remove</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2339,8 +2339,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood1</modelName>
-          <modShopLabel>toysup_hood1</modShopLabel>
+          <modelName>toysupmk4_hood1</modelName>
+          <modShopLabel>toysupmk4_hood1</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2355,8 +2355,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood2</modelName>
-          <modShopLabel>toysup_hood2</modShopLabel>
+          <modelName>toysupmk4_hood2</modelName>
+          <modShopLabel>toysupmk4_hood2</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2371,8 +2371,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood3</modelName>
-          <modShopLabel>toysup_hood3</modShopLabel>
+          <modelName>toysupmk4_hood3</modelName>
+          <modShopLabel>toysupmk4_hood3</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2387,8 +2387,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood4</modelName>
-          <modShopLabel>toysup_hood4</modShopLabel>
+          <modelName>toysupmk4_hood4</modelName>
+          <modShopLabel>toysupmk4_hood4</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2403,8 +2403,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood5</modelName>
-          <modShopLabel>toysup_hood5</modShopLabel>
+          <modelName>toysupmk4_hood5</modelName>
+          <modShopLabel>toysupmk4_hood5</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2419,8 +2419,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood6</modelName>
-          <modShopLabel>toysup_hood6</modShopLabel>
+          <modelName>toysupmk4_hood6</modelName>
+          <modShopLabel>toysupmk4_hood6</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2435,8 +2435,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood7</modelName>
-          <modShopLabel>toysup_hood7</modShopLabel>
+          <modelName>toysupmk4_hood7</modelName>
+          <modShopLabel>toysupmk4_hood7</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2451,8 +2451,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood8</modelName>
-          <modShopLabel>toysup_hood8</modShopLabel>
+          <modelName>toysupmk4_hood8</modelName>
+          <modShopLabel>toysupmk4_hood8</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2467,8 +2467,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood9</modelName>
-          <modShopLabel>toysup_hood9</modShopLabel>
+          <modelName>toysupmk4_hood9</modelName>
+          <modShopLabel>toysupmk4_hood9</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2483,8 +2483,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood10</modelName>
-          <modShopLabel>toysup_hood10</modShopLabel>
+          <modelName>toysupmk4_hood10</modelName>
+          <modShopLabel>toysupmk4_hood10</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2499,8 +2499,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood11</modelName>
-          <modShopLabel>toysup_hood11</modShopLabel>
+          <modelName>toysupmk4_hood11</modelName>
+          <modShopLabel>toysupmk4_hood11</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2515,8 +2515,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood12</modelName>
-          <modShopLabel>toysup_hood12</modShopLabel>
+          <modelName>toysupmk4_hood12</modelName>
+          <modShopLabel>toysupmk4_hood12</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2531,8 +2531,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hood13</modelName>
-          <modShopLabel>toysup_hood13</modShopLabel>
+          <modelName>toysupmk4_hood13</modelName>
+          <modShopLabel>toysupmk4_hood13</modShopLabel>
           <turnOffBones>
             <Item>bonnet</Item>
           </turnOffBones>
@@ -2547,8 +2547,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_cage2</modelName>
-          <modShopLabel>toysup_cage2</modShopLabel>
+          <modelName>toysupmk4_cage2</modelName>
+          <modShopLabel>toysupmk4_cage2</modShopLabel>
           <turnOffBones>
           </turnOffBones>
           <type>VMT_CHASSIS</type>
@@ -2562,8 +2562,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_cage3</modelName>
-          <modShopLabel>toysup_cage3</modShopLabel>
+          <modelName>toysupmk4_cage3</modelName>
+          <modShopLabel>toysupmk4_cage3</modShopLabel>
           <turnOffBones>
           </turnOffBones>
           <type>VMT_CHASSIS</type>
@@ -2577,8 +2577,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_cage4</modelName>
-          <modShopLabel>toysup_cage4</modShopLabel>
+          <modelName>toysupmk4_cage4</modelName>
+          <modShopLabel>toysupmk4_cage4</modShopLabel>
           <turnOffBones>
           </turnOffBones>
           <type>VMT_CHASSIS</type>
@@ -2592,8 +2592,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_cage5</modelName>
-          <modShopLabel>toysup_cage5</modShopLabel>
+          <modelName>toysupmk4_cage5</modelName>
+          <modShopLabel>toysupmk4_cage5</modShopLabel>
           <turnOffBones>
           </turnOffBones>
           <type>VMT_CHASSIS</type>
@@ -2607,8 +2607,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_cage1</modelName>
-          <modShopLabel>toysup_cage1</modShopLabel>
+          <modelName>toysupmk4_cage1</modelName>
+          <modShopLabel>toysupmk4_cage1</modShopLabel>
           <turnOffBones>
           </turnOffBones>
           <type>VMT_CHASSIS</type>
@@ -2622,8 +2622,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_cage6</modelName>
-          <modShopLabel>toysup_cage6</modShopLabel>
+          <modelName>toysupmk4_cage6</modelName>
+          <modShopLabel>toysupmk4_cage6</modShopLabel>
           <turnOffBones>
           </turnOffBones>
           <type>VMT_CHASSIS</type>
@@ -2637,17 +2637,17 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_int1</modelName>
-          <modShopLabel>toysup_int1</modShopLabel>
+          <modelName>toysupmk4_int1</modelName>
+          <modShopLabel>toysupmk4_int1</modShopLabel>
          <linkedModels>
-				<Item>toysup_doorcardlsuede</Item>
-				<Item>toysup_doorcardrsuede</Item>
-				<Item>toysup_window_lf</Item>
-				<Item>toysup_window_rf</Item>
-				<Item>toysup_windscreen_r</Item>
-				<Item>toysup_windscreen</Item>
-				<Item>toysup_window_lr</Item>
-				<Item>toysup_window_rr</Item>
+				<Item>toysupmk4_doorcardlsuede</Item>
+				<Item>toysupmk4_doorcardrsuede</Item>
+				<Item>toysupmk4_window_lf</Item>
+				<Item>toysupmk4_window_rf</Item>
+				<Item>toysupmk4_windscreen_r</Item>
+				<Item>toysupmk4_windscreen</Item>
+				<Item>toysupmk4_window_lr</Item>
+				<Item>toysupmk4_window_rr</Item>
 		  </linkedModels>
           <turnOffBones>
 				<Item>misc_k</Item>
@@ -2671,17 +2671,17 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_int2</modelName>
-          <modShopLabel>toysup_int2</modShopLabel>
+          <modelName>toysupmk4_int2</modelName>
+          <modShopLabel>toysupmk4_int2</modShopLabel>
          <linkedModels>
-				<Item>toysup_doorcardlsuede</Item>
-				<Item>toysup_doorcardrsuede</Item>
-				<Item>toysup_window_lf</Item>
-				<Item>toysup_window_rf</Item>
-				<Item>toysup_windscreen_r</Item>
-				<Item>toysup_windscreen</Item>
-				<Item>toysup_window_lr</Item>
-				<Item>toysup_window_rr</Item>
+				<Item>toysupmk4_doorcardlsuede</Item>
+				<Item>toysupmk4_doorcardrsuede</Item>
+				<Item>toysupmk4_window_lf</Item>
+				<Item>toysupmk4_window_rf</Item>
+				<Item>toysupmk4_windscreen_r</Item>
+				<Item>toysupmk4_windscreen</Item>
+				<Item>toysupmk4_window_lr</Item>
+				<Item>toysupmk4_window_rr</Item>
 		  </linkedModels>
           <turnOffBones>
 				<Item>misc_k</Item>
@@ -2705,16 +2705,16 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_int3</modelName>
-          <modShopLabel>toysup_int3</modShopLabel>
+          <modelName>toysupmk4_int3</modelName>
+          <modShopLabel>toysupmk4_int3</modShopLabel>
          <linkedModels>
-				<Item>toysup_doorcardlcarb</Item>
-				<Item>toysup_doorcardrcarb</Item>
-				<Item>toysup_window_lf</Item>
-				<Item>toysup_window_rf</Item>
-				<Item>toysup_windscreen</Item>
-				<Item>toysup_window_lr</Item>
-				<Item>toysup_window_rr</Item>
+				<Item>toysupmk4_doorcardlcarb</Item>
+				<Item>toysupmk4_doorcardrcarb</Item>
+				<Item>toysupmk4_window_lf</Item>
+				<Item>toysupmk4_window_rf</Item>
+				<Item>toysupmk4_windscreen</Item>
+				<Item>toysupmk4_window_lr</Item>
+				<Item>toysupmk4_window_rr</Item>
 		  </linkedModels>
           <turnOffBones>
 				<Item>misc_k</Item>
@@ -2737,18 +2737,18 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_int4</modelName>
-          <modShopLabel>toysup_int4</modShopLabel>
+          <modelName>toysupmk4_int4</modelName>
+          <modShopLabel>toysupmk4_int4</modShopLabel>
          <linkedModels>
-				<Item>toysup_doorcardlbride</Item>
-				<Item>toysup_doorcardrbride</Item>
-				<Item>toysup_int4p2</Item>
-				<Item>toysup_window_lf</Item>
-				<Item>toysup_window_rf</Item>
-				<Item>toysup_windscreen_r</Item>
-				<Item>toysup_windscreen</Item>
-				<Item>toysup_window_lr</Item>
-				<Item>toysup_window_rr</Item>
+				<Item>toysupmk4_doorcardlbride</Item>
+				<Item>toysupmk4_doorcardrbride</Item>
+				<Item>toysupmk4_int4p2</Item>
+				<Item>toysupmk4_window_lf</Item>
+				<Item>toysupmk4_window_rf</Item>
+				<Item>toysupmk4_windscreen_r</Item>
+				<Item>toysupmk4_windscreen</Item>
+				<Item>toysupmk4_window_lr</Item>
+				<Item>toysupmk4_window_rr</Item>
 		  </linkedModels>
           <turnOffBones>
 				<Item>misc_k</Item>
@@ -2772,18 +2772,18 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_int5</modelName>
-          <modShopLabel>toysup_int5</modShopLabel>
+          <modelName>toysupmk4_int5</modelName>
+          <modShopLabel>toysupmk4_int5</modShopLabel>
          <linkedModels>
-				<Item>toysup_doorcardlsuede</Item>
-				<Item>toysup_doorcardrsuede</Item>
-				<Item>toysup_int5p2</Item>
-				<Item>toysup_window_lf</Item>
-				<Item>toysup_window_rf</Item>
-				<Item>toysup_windscreen_r</Item>
-				<Item>toysup_windscreen</Item>
-				<Item>toysup_window_lr</Item>
-				<Item>toysup_window_rr</Item>
+				<Item>toysupmk4_doorcardlsuede</Item>
+				<Item>toysupmk4_doorcardrsuede</Item>
+				<Item>toysupmk4_int5p2</Item>
+				<Item>toysupmk4_window_lf</Item>
+				<Item>toysupmk4_window_rf</Item>
+				<Item>toysupmk4_windscreen_r</Item>
+				<Item>toysupmk4_windscreen</Item>
+				<Item>toysupmk4_window_lr</Item>
+				<Item>toysupmk4_window_rr</Item>
 		  </linkedModels>
           <turnOffBones>
 				<Item>misc_k</Item>
@@ -2807,10 +2807,10 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_windows1</modelName>
-          <modShopLabel>toysup_windows1</modShopLabel>
+          <modelName>toysupmk4_windows1</modelName>
+          <modShopLabel>toysupmk4_windows1</modShopLabel>
           <linkedModels>
-				<Item>toysup_windows1a</Item>
+				<Item>toysupmk4_windows1a</Item>
 		  </linkedModels>
           <type>VMT_PLTVANITY</type>
           <bone>chassis</bone>
@@ -2823,10 +2823,10 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_windows2</modelName>
-          <modShopLabel>toysup_windows2</modShopLabel>
+          <modelName>toysupmk4_windows2</modelName>
+          <modShopLabel>toysupmk4_windows2</modShopLabel>
           <linkedModels>
-				<Item>toysup_windows2a</Item>
+				<Item>toysupmk4_windows2a</Item>
 		  </linkedModels>
            <type>VMT_PLTVANITY</type>
           <bone>chassis</bone>
@@ -2839,8 +2839,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_body1</modelName>
-          <modShopLabel>toysup_body1</modShopLabel>
+          <modelName>toysupmk4_body1</modelName>
+          <modShopLabel>toysupmk4_body1</modShopLabel>
           <turnOffBones>
             <Item>misc_g</Item>
           </turnOffBones>
@@ -2855,8 +2855,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_body2</modelName>
-          <modShopLabel>toysup_body2</modShopLabel>
+          <modelName>toysupmk4_body2</modelName>
+          <modShopLabel>toysupmk4_body2</modShopLabel>
           <turnOffBones>
             <Item>misc_g</Item>
           </turnOffBones>
@@ -2871,8 +2871,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_body3</modelName>
-          <modShopLabel>toysup_body3</modShopLabel>
+          <modelName>toysupmk4_body3</modelName>
+          <modShopLabel>toysupmk4_body3</modShopLabel>
           <turnOffBones>
             <Item>misc_g</Item>
           </turnOffBones>
@@ -2887,8 +2887,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_body4</modelName>
-          <modShopLabel>toysup_body4</modShopLabel>
+          <modelName>toysupmk4_body4</modelName>
+          <modShopLabel>toysupmk4_body4</modShopLabel>
           <turnOffBones>
             <Item>misc_g</Item>
           </turnOffBones>
@@ -2903,8 +2903,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_body5</modelName>
-          <modShopLabel>toysup_body5</modShopLabel>
+          <modelName>toysupmk4_body5</modelName>
+          <modShopLabel>toysupmk4_body5</modShopLabel>
           <turnOffBones>
             <Item>misc_g</Item>
           </turnOffBones>
@@ -2919,8 +2919,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_body6</modelName>
-          <modShopLabel>toysup_body6</modShopLabel>
+          <modelName>toysupmk4_body6</modelName>
+          <modShopLabel>toysupmk4_body6</modShopLabel>
           <turnOffBones>
             <Item>misc_g</Item>
           </turnOffBones>
@@ -2935,8 +2935,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_fenderR1</modelName>
-          <modShopLabel>toysup_fenderR1</modShopLabel>
+          <modelName>toysupmk4_fenderR1</modelName>
+          <modShopLabel>toysupmk4_fenderR1</modShopLabel>
            <type>VMT_WING_R</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -2948,8 +2948,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_fenderR2</modelName>
-          <modShopLabel>toysup_fenderR2</modShopLabel>
+          <modelName>toysupmk4_fenderR2</modelName>
+          <modShopLabel>toysupmk4_fenderR2</modShopLabel>
           <type>VMT_WING_R</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -2961,8 +2961,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_fenderR3</modelName>
-          <modShopLabel>toysup_fenderR3</modShopLabel>
+          <modelName>toysupmk4_fenderR3</modelName>
+          <modShopLabel>toysupmk4_fenderR3</modShopLabel>
           <type>VMT_WING_R</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -2974,8 +2974,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_fenderR4</modelName>
-          <modShopLabel>toysup_fenderR4</modShopLabel>
+          <modelName>toysupmk4_fenderR4</modelName>
+          <modShopLabel>toysupmk4_fenderR4</modShopLabel>
           <type>VMT_WING_R</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -2987,8 +2987,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_fenderR5</modelName>
-          <modShopLabel>toysup_fenderR5</modShopLabel>
+          <modelName>toysupmk4_fenderR5</modelName>
+          <modShopLabel>toysupmk4_fenderR5</modShopLabel>
           <type>VMT_WING_R</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3000,8 +3000,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_fenderR6</modelName>
-          <modShopLabel>toysup_fenderR6</modShopLabel>
+          <modelName>toysupmk4_fenderR6</modelName>
+          <modShopLabel>toysupmk4_fenderR6</modShopLabel>
           <type>VMT_WING_R</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3013,8 +3013,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_fenderR7</modelName>
-          <modShopLabel>toysup_fenderR7</modShopLabel>
+          <modelName>toysupmk4_fenderR7</modelName>
+          <modShopLabel>toysupmk4_fenderR7</modShopLabel>
            <type>VMT_WING_R</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3026,9 +3026,9 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_fenderRvs1</modelName>
-          <modShopLabel>toysup_fenderRvs1</modShopLabel>
-          <linkedModels>		     <Item>toysup_bumfvs1</Item>		     <Item>toysup_fenderfvs1</Item>		     <Item>toysup_hoodvsf1</Item>		     <Item>toysup_trunkvf1</Item>		     <Item>toysup_wgvs1</Item>		     <Item>toysup_wideframe</Item>		     <Item>toysup_doorvfl</Item>		     <Item>toysup_doorvfr</Item>	</linkedModels>
+          <modelName>toysupmk4_fenderRvs1</modelName>
+          <modShopLabel>toysupmk4_fenderRvs1</modShopLabel>
+          <linkedModels>		     <Item>toysupmk4_bumfvs1</Item>		     <Item>toysupmk4_fenderfvs1</Item>		     <Item>toysupmk4_hoodvsf1</Item>		     <Item>toysupmk4_trunkvf1</Item>		     <Item>toysupmk4_wgvs1</Item>		     <Item>toysupmk4_wideframe</Item>		     <Item>toysupmk4_doorvfl</Item>		     <Item>toysupmk4_doorvfr</Item>	</linkedModels>
           <turnOffBones>             <Item>misc_h</Item>             <Item>misc_j</Item>             <Item>bonnet</Item>             <Item>misc_x</Item>             <Item>brakelight_m</Item>             <Item>windscreen_r</Item>             <Item>indicator_rf</Item>             <Item>indicator_lf</Item>             <Item>bumper_f</Item>             <Item>bumper_r</Item>             <Item>misc_c</Item>             <Item>misc_g</Item>             <Item>misc_r</Item>             <Item>misc_q</Item>             <Item>misc_s</Item>             <Item>misc_t</Item>             <Item>misc_u</Item> </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>chassis</bone>
@@ -3041,9 +3041,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_fenderRvs2</modelName>
-          <modShopLabel>toysup_fenderRvs2</modShopLabel>
-          <linkedModels>		     <Item>toysup_bumfvs2</Item>		     <Item>toysup_fenderfvs2</Item>		     <Item>toysup_hoodvsf2</Item>		     <Item>toysup_trunkvf2</Item>		     <Item>toysup_wgvs2</Item>		     <Item>toysup_wideframe</Item>	</linkedModels>
+          <modelName>toysupmk4_fenderRvs2</modelName>
+          <modShopLabel>toysupmk4_fenderRvs2</modShopLabel>
+          <linkedModels>		     <Item>toysupmk4_bumfvs2</Item>		     <Item>toysupmk4_fenderfvs2</Item>		     <Item>toysupmk4_hoodvsf2</Item>		     <Item>toysupmk4_trunkvf2</Item>		     <Item>toysupmk4_wgvs2</Item>		     <Item>toysupmk4_wideframe</Item>	</linkedModels>
           <turnOffBones>             <Item>misc_h</Item>             <Item>misc_j</Item>             <Item>bonnet</Item>             <Item>misc_x</Item>             <Item>brakelight_m</Item>             <Item>windscreen_r</Item>             <Item>indicator_rf</Item>             <Item>indicator_lf</Item>             <Item>bumper_f</Item>             <Item>bumper_r</Item>             <Item>misc_c</Item>             <Item>misc_g</Item>             <Item>misc_r</Item>             <Item>misc_q</Item>             <Item>misc_s</Item> </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>chassis</bone>
@@ -3056,9 +3056,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_fenderRaf</modelName>
-          <modShopLabel>toysup_fenderRaf</modShopLabel>
-          <linkedModels>		     <Item>toysup_bumfaf</Item>		     <Item>toysup_doorabfl</Item>		     <Item>toysup_doorabfr</Item>		     <Item>toysup_fenderfaf</Item>		     <Item>toysup_wideframe</Item> 		  </linkedModels>
+          <modelName>toysupmk4_fenderRaf</modelName>
+          <modShopLabel>toysupmk4_fenderRaf</modShopLabel>
+          <linkedModels>		     <Item>toysupmk4_bumfaf</Item>		     <Item>toysupmk4_doorabfl</Item>		     <Item>toysupmk4_doorabfr</Item>		     <Item>toysupmk4_fenderfaf</Item>		     <Item>toysupmk4_wideframe</Item> 		  </linkedModels>
           <turnOffBones>            <Item>misc_j</Item>             <Item>indicator_rf</Item>             <Item>indicator_lf</Item>             <Item>bumper_f</Item>             <Item>bumper_r</Item>             <Item>misc_c</Item>             <Item>misc_g</Item>             <Item>misc_r</Item>             <Item>misc_q</Item>             <Item>misc_s</Item>             <Item>misc_t</Item>             <Item>misc_u</Item>         </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>chassis</bone>
@@ -3071,9 +3071,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_fenderRcs</modelName>
-          <modShopLabel>toysup_fenderRcs</modShopLabel>
-          <linkedModels>		     <Item>toysup_bumfcs</Item>		     <Item>toysup_fenderfcs</Item>		     <Item>toysup_wgcs</Item> 		  </linkedModels>
+          <modelName>toysupmk4_fenderRcs</modelName>
+          <modShopLabel>toysupmk4_fenderRcs</modShopLabel>
+          <linkedModels>		     <Item>toysupmk4_bumfcs</Item>		     <Item>toysupmk4_fenderfcs</Item>		     <Item>toysupmk4_wgcs</Item> 		  </linkedModels>
           <turnOffBones>             <Item>indicator_rf</Item>             <Item>indicator_lf</Item>             <Item>bumper_f</Item>             <Item>bumper_r</Item>             <Item>misc_c</Item>             <Item>misc_g</Item>             <Item>misc_r</Item>          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>chassis</bone>
@@ -3086,9 +3086,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_fenderRvar</modelName>
-          <modShopLabel>toysup_fenderRvar</modShopLabel>
-          <linkedModels> <Item>toysup_doorvarr</Item> <Item>toysup_doorvarl</Item> </linkedModels>
+          <modelName>toysupmk4_fenderRvar</modelName>
+          <modShopLabel>toysupmk4_fenderRvar</modShopLabel>
+          <linkedModels> <Item>toysupmk4_doorvarr</Item> <Item>toysupmk4_doorvarl</Item> </linkedModels>
           <turnOffBones> <Item>bumper_f</Item> <Item>bumper_r</Item> <Item>misc_c</Item> <Item>misc_g</Item> <Item>misc_r</Item> <Item>misc_s</Item> <Item>misc_o</Item> </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>chassis</bone>
@@ -3101,8 +3101,8 @@
           <allowBonnetSlide value="true" />
         </Item> 
         <Item>
-          <modelName>toysup_fenderRrb</modelName>
-          <modShopLabel>toysup_fenderRrb</modShopLabel>
+          <modelName>toysupmk4_fenderRrb</modelName>
+          <modShopLabel>toysupmk4_fenderRrb</modShopLabel>
           <linkedModels>
 		  </linkedModels>
           <turnOffBones> <Item>bumper_f</Item> <Item>bumper_r</Item> <Item>misc_g</Item> <Item>misc_o</Item> </turnOffBones>
@@ -3117,8 +3117,8 @@
           <allowBonnetSlide value="true" />
         </Item> 
         <Item>
-          <modelName>toysup_hlight1</modelName>
-          <modShopLabel>toysup_hlight1</modShopLabel>
+          <modelName>toysupmk4_hlight1</modelName>
+          <modShopLabel>toysupmk4_hlight1</modShopLabel>
           <turnOffBones>
              <Item>misc_h</Item>
           </turnOffBones>
@@ -3133,8 +3133,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_hlight2</modelName>
-          <modShopLabel>toysup_hlight2</modShopLabel>
+          <modelName>toysupmk4_hlight2</modelName>
+          <modShopLabel>toysupmk4_hlight2</modShopLabel>
           <turnOffBones>
              <Item>misc_h</Item>
           </turnOffBones>
@@ -3149,8 +3149,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_hlight3</modelName>
-          <modShopLabel>toysup_hlight3</modShopLabel>
+          <modelName>toysupmk4_hlight3</modelName>
+          <modShopLabel>toysupmk4_hlight3</modShopLabel>
           <turnOffBones>
              <Item>misc_h</Item>
           </turnOffBones>
@@ -3165,8 +3165,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_hlight4</modelName>
-          <modShopLabel>toysup_hlight4</modShopLabel>
+          <modelName>toysupmk4_hlight4</modelName>
+          <modShopLabel>toysupmk4_hlight4</modShopLabel>
           <turnOffBones>
              <Item>misc_h</Item>
           </turnOffBones>
@@ -3181,8 +3181,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_hlight5</modelName>
-          <modShopLabel>toysup_hlight5</modShopLabel>
+          <modelName>toysupmk4_hlight5</modelName>
+          <modShopLabel>toysupmk4_hlight5</modShopLabel>
           <turnOffBones>
              <Item>misc_h</Item>
           </turnOffBones>
@@ -3197,8 +3197,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hlight6</modelName>
-          <modShopLabel>toysup_hlight6</modShopLabel>
+          <modelName>toysupmk4_hlight6</modelName>
+          <modShopLabel>toysupmk4_hlight6</modShopLabel>
           <turnOffBones>
              <Item>misc_h</Item>
           </turnOffBones>
@@ -3213,8 +3213,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_hlight7</modelName>
-          <modShopLabel>toysup_hlight7</modShopLabel>
+          <modelName>toysupmk4_hlight7</modelName>
+          <modShopLabel>toysupmk4_hlight7</modShopLabel>
           <turnOffBones>
              <Item>misc_h</Item>
           </turnOffBones>
@@ -3229,8 +3229,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_taillgt1</modelName>
-          <modShopLabel>toysup_taillgt1</modShopLabel>
+          <modelName>toysupmk4_taillgt1</modelName>
+          <modShopLabel>toysupmk4_taillgt1</modShopLabel>
           <turnOffBones>
              <Item>misc_i</Item>
           </turnOffBones>
@@ -3245,8 +3245,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_taillgt2</modelName>
-          <modShopLabel>toysup_taillgt2</modShopLabel>
+          <modelName>toysupmk4_taillgt2</modelName>
+          <modShopLabel>toysupmk4_taillgt2</modShopLabel>
           <turnOffBones>
              <Item>misc_i</Item>
          </turnOffBones>
@@ -3261,8 +3261,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_taillgt3</modelName>
-          <modShopLabel>toysup_taillgt3</modShopLabel>
+          <modelName>toysupmk4_taillgt3</modelName>
+          <modShopLabel>toysupmk4_taillgt3</modShopLabel>
           <turnOffBones>
              <Item>misc_i</Item>
           </turnOffBones>
@@ -3277,8 +3277,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_taillgt4</modelName>
-          <modShopLabel>toysup_taillgt4</modShopLabel>
+          <modelName>toysupmk4_taillgt4</modelName>
+          <modShopLabel>toysupmk4_taillgt4</modShopLabel>
           <turnOffBones>
              <Item>misc_i</Item>
           </turnOffBones>
@@ -3293,8 +3293,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_taillgt5</modelName>
-          <modShopLabel>toysup_taillgt5</modShopLabel>
+          <modelName>toysupmk4_taillgt5</modelName>
+          <modShopLabel>toysupmk4_taillgt5</modShopLabel>
           <turnOffBones>
              <Item>misc_i</Item>
           </turnOffBones>
@@ -3309,8 +3309,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_eyelid1</modelName>
-          <modShopLabel>toysup_eyelid1</modShopLabel>
+          <modelName>toysupmk4_eyelid1</modelName>
+          <modShopLabel>toysupmk4_eyelid1</modShopLabel>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3322,8 +3322,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_eyelid2</modelName>
-          <modShopLabel>toysup_eyelid2</modShopLabel>
+          <modelName>toysupmk4_eyelid2</modelName>
+          <modShopLabel>toysupmk4_eyelid2</modShopLabel>
            <type>VMT_GRILL</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3335,8 +3335,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_eyelid3</modelName>
-          <modShopLabel>toysup_eyelid3</modShopLabel>
+          <modelName>toysupmk4_eyelid3</modelName>
+          <modShopLabel>toysupmk4_eyelid3</modShopLabel>
            <type>VMT_GRILL</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3348,8 +3348,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_eyelid4</modelName>
-          <modShopLabel>toysup_eyelid4</modShopLabel>
+          <modelName>toysupmk4_eyelid4</modelName>
+          <modShopLabel>toysupmk4_eyelid4</modShopLabel>
            <type>VMT_GRILL</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3361,8 +3361,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_eyelid5</modelName>
-          <modShopLabel>toysup_eyelid5</modShopLabel>
+          <modelName>toysupmk4_eyelid5</modelName>
+          <modShopLabel>toysupmk4_eyelid5</modShopLabel>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3374,8 +3374,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_eyelid6</modelName>
-          <modShopLabel>toysup_eyelid6</modShopLabel>
+          <modelName>toysupmk4_eyelid6</modelName>
+          <modShopLabel>toysupmk4_eyelid6</modShopLabel>
            <type>VMT_GRILL</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3387,8 +3387,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_eyelid7</modelName>
-          <modShopLabel>toysup_eyelid7</modShopLabel>
+          <modelName>toysupmk4_eyelid7</modelName>
+          <modShopLabel>toysupmk4_eyelid7</modShopLabel>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3400,8 +3400,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_eyelid8</modelName>
-          <modShopLabel>toysup_eyelid8</modShopLabel>
+          <modelName>toysupmk4_eyelid8</modelName>
+          <modShopLabel>toysupmk4_eyelid8</modShopLabel>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3413,8 +3413,8 @@
           <allowBonnetSlide value="true" />
         </Item>
          <Item>
-          <modelName>toysup_eyelid9</modelName>
-          <modShopLabel>toysup_eyelid9</modShopLabel>
+          <modelName>toysupmk4_eyelid9</modelName>
+          <modShopLabel>toysupmk4_eyelid9</modShopLabel>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3426,8 +3426,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_remove</modelName>
-          <modShopLabel>toysup_remove</modShopLabel>
+          <modelName>toysupmk4_remove</modelName>
+          <modShopLabel>toysupmk4_remove</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3442,8 +3442,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumr1</modelName>
-          <modShopLabel>toysup_bumr1</modShopLabel>
+          <modelName>toysupmk4_bumr1</modelName>
+          <modShopLabel>toysupmk4_bumr1</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3458,8 +3458,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr2</modelName>
-          <modShopLabel>toysup_bumr2</modShopLabel>
+          <modelName>toysupmk4_bumr2</modelName>
+          <modShopLabel>toysupmk4_bumr2</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3474,8 +3474,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr3</modelName>
-          <modShopLabel>toysup_bumr3</modShopLabel>
+          <modelName>toysupmk4_bumr3</modelName>
+          <modShopLabel>toysupmk4_bumr3</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3490,8 +3490,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr4</modelName>
-          <modShopLabel>toysup_bumr4</modShopLabel>
+          <modelName>toysupmk4_bumr4</modelName>
+          <modShopLabel>toysupmk4_bumr4</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3506,8 +3506,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr5</modelName>
-          <modShopLabel>toysup_bumr5</modShopLabel>
+          <modelName>toysupmk4_bumr5</modelName>
+          <modShopLabel>toysupmk4_bumr5</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3522,8 +3522,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr6</modelName>
-          <modShopLabel>toysup_bumr6</modShopLabel>
+          <modelName>toysupmk4_bumr6</modelName>
+          <modShopLabel>toysupmk4_bumr6</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3538,8 +3538,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr7</modelName>
-          <modShopLabel>toysup_bumr7</modShopLabel>
+          <modelName>toysupmk4_bumr7</modelName>
+          <modShopLabel>toysupmk4_bumr7</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3554,8 +3554,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr8</modelName>
-          <modShopLabel>toysup_bumr8</modShopLabel>
+          <modelName>toysupmk4_bumr8</modelName>
+          <modShopLabel>toysupmk4_bumr8</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3570,8 +3570,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr9</modelName>
-          <modShopLabel>toysup_bumr9</modShopLabel>
+          <modelName>toysupmk4_bumr9</modelName>
+          <modShopLabel>toysupmk4_bumr9</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3586,8 +3586,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr10</modelName>
-          <modShopLabel>toysup_bumr10</modShopLabel>
+          <modelName>toysupmk4_bumr10</modelName>
+          <modShopLabel>toysupmk4_bumr10</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3602,8 +3602,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr11</modelName>
-          <modShopLabel>toysup_bumr11</modShopLabel>
+          <modelName>toysupmk4_bumr11</modelName>
+          <modShopLabel>toysupmk4_bumr11</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3618,8 +3618,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_bumr12</modelName>
-          <modShopLabel>toysup_bumr12</modShopLabel>
+          <modelName>toysupmk4_bumr12</modelName>
+          <modShopLabel>toysupmk4_bumr12</modShopLabel>
           <turnOffBones>
              <Item>bumper_r</Item>
          </turnOffBones>
@@ -3634,8 +3634,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_difus1</modelName>
-          <modShopLabel>toysup_difus1</modShopLabel>
+          <modelName>toysupmk4_difus1</modelName>
+          <modShopLabel>toysupmk4_difus1</modShopLabel>
           <type>VMT_CHASSIS5</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -3647,8 +3647,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_difus2</modelName>
-          <modShopLabel>toysup_difus2</modShopLabel>
+          <modelName>toysupmk4_difus2</modelName>
+          <modShopLabel>toysupmk4_difus2</modShopLabel>
           <type>VMT_CHASSIS5</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -3660,8 +3660,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_difus3</modelName>
-          <modShopLabel>toysup_difus3</modShopLabel>
+          <modelName>toysupmk4_difus3</modelName>
+          <modShopLabel>toysupmk4_difus3</modShopLabel>
            <type>VMT_CHASSIS5</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -3673,8 +3673,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_difus4</modelName>
-          <modShopLabel>toysup_difus4</modShopLabel>
+          <modelName>toysupmk4_difus4</modelName>
+          <modShopLabel>toysupmk4_difus4</modShopLabel>
            <type>VMT_CHASSIS5</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -3686,8 +3686,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_difus5</modelName>
-          <modShopLabel>toysup_difus5</modShopLabel>
+          <modelName>toysupmk4_difus5</modelName>
+          <modShopLabel>toysupmk4_difus5</modShopLabel>
           <type>VMT_CHASSIS5</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -3699,8 +3699,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_difus6</modelName>
-          <modShopLabel>toysup_difus6</modShopLabel>
+          <modelName>toysupmk4_difus6</modelName>
+          <modShopLabel>toysupmk4_difus6</modShopLabel>
           <type>VMT_CHASSIS5</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -3712,8 +3712,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_difus7</modelName>
-          <modShopLabel>toysup_difus7</modShopLabel>
+          <modelName>toysupmk4_difus7</modelName>
+          <modShopLabel>toysupmk4_difus7</modShopLabel>
           <type>VMT_CHASSIS5</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -3725,8 +3725,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_difus8</modelName>
-          <modShopLabel>toysup_difus8</modShopLabel>
+          <modelName>toysupmk4_difus8</modelName>
+          <modShopLabel>toysupmk4_difus8</modShopLabel>
           <type>VMT_CHASSIS5</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -3738,8 +3738,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_difus9</modelName>
-          <modShopLabel>toysup_difus9</modShopLabel>
+          <modelName>toysupmk4_difus9</modelName>
+          <modShopLabel>toysupmk4_difus9</modShopLabel>
           <type>VMT_CHASSIS5</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3751,8 +3751,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>toysup_difus10</modelName>
-          <modShopLabel>toysup_difus10</modShopLabel>
+          <modelName>toysupmk4_difus10</modelName>
+          <modShopLabel>toysupmk4_difus10</modShopLabel>
            <type>VMT_CHASSIS5</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -3764,8 +3764,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf1</modelName>
-          <modShopLabel>toysup_bumf1</modShopLabel>
+          <modelName>toysupmk4_bumf1</modelName>
+          <modShopLabel>toysupmk4_bumf1</modShopLabel>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -3777,8 +3777,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf2</modelName>
-          <modShopLabel>toysup_bumf2</modShopLabel>
+          <modelName>toysupmk4_bumf2</modelName>
+          <modShopLabel>toysupmk4_bumf2</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3793,8 +3793,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf3</modelName>
-          <modShopLabel>toysup_bumf3</modShopLabel>
+          <modelName>toysupmk4_bumf3</modelName>
+          <modShopLabel>toysupmk4_bumf3</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3809,8 +3809,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf4</modelName>
-          <modShopLabel>toysup_bumf4</modShopLabel>
+          <modelName>toysupmk4_bumf4</modelName>
+          <modShopLabel>toysupmk4_bumf4</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3825,8 +3825,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf5</modelName>
-          <modShopLabel>toysup_bumf5</modShopLabel>
+          <modelName>toysupmk4_bumf5</modelName>
+          <modShopLabel>toysupmk4_bumf5</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3841,8 +3841,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf6</modelName>
-          <modShopLabel>toysup_bumf6</modShopLabel>
+          <modelName>toysupmk4_bumf6</modelName>
+          <modShopLabel>toysupmk4_bumf6</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3857,8 +3857,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf7</modelName>
-          <modShopLabel>toysup_bumf7</modShopLabel>
+          <modelName>toysupmk4_bumf7</modelName>
+          <modShopLabel>toysupmk4_bumf7</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3873,8 +3873,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf8</modelName>
-          <modShopLabel>toysup_bumf8</modShopLabel>
+          <modelName>toysupmk4_bumf8</modelName>
+          <modShopLabel>toysupmk4_bumf8</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3889,8 +3889,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf9</modelName>
-          <modShopLabel>toysup_bumf9</modShopLabel>
+          <modelName>toysupmk4_bumf9</modelName>
+          <modShopLabel>toysupmk4_bumf9</modShopLabel>
           <turnOffBones>
          </turnOffBones>
           <type>VMT_BUMPER_F</type>
@@ -3904,24 +3904,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf10</modelName>
-          <modShopLabel>toysup_bumf10</modShopLabel>
-          <turnOffBones>
-             <Item>bumper_f</Item>
-         </turnOffBones>
-          <type>VMT_BUMPER_F</type>
-          <bone>bumper_f</bone>
-          <collisionBone>bumper_f</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-       <Item>
-          <modelName>toysup_bumf11</modelName>
-          <modShopLabel>toysup_bumf11</modShopLabel>
+          <modelName>toysupmk4_bumf10</modelName>
+          <modShopLabel>toysupmk4_bumf10</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3936,8 +3920,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf12</modelName>
-          <modShopLabel>toysup_bumf12</modShopLabel>
+          <modelName>toysupmk4_bumf11</modelName>
+          <modShopLabel>toysupmk4_bumf11</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3952,8 +3936,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf13</modelName>
-          <modShopLabel>toysup_bumf13</modShopLabel>
+          <modelName>toysupmk4_bumf12</modelName>
+          <modShopLabel>toysupmk4_bumf12</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3968,8 +3952,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf14</modelName>
-          <modShopLabel>toysup_bumf14</modShopLabel>
+          <modelName>toysupmk4_bumf13</modelName>
+          <modShopLabel>toysupmk4_bumf13</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -3984,8 +3968,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf15</modelName>
-          <modShopLabel>toysup_bumf15</modShopLabel>
+          <modelName>toysupmk4_bumf14</modelName>
+          <modShopLabel>toysupmk4_bumf14</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4000,8 +3984,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf16</modelName>
-          <modShopLabel>toysup_bumf16</modShopLabel>
+          <modelName>toysupmk4_bumf15</modelName>
+          <modShopLabel>toysupmk4_bumf15</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4016,8 +4000,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf17</modelName>
-          <modShopLabel>toysup_bumf17</modShopLabel>
+          <modelName>toysupmk4_bumf16</modelName>
+          <modShopLabel>toysupmk4_bumf16</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4032,8 +4016,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf18</modelName>
-          <modShopLabel>toysup_bumf18</modShopLabel>
+          <modelName>toysupmk4_bumf17</modelName>
+          <modShopLabel>toysupmk4_bumf17</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4048,8 +4032,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf19</modelName>
-          <modShopLabel>toysup_bumf19</modShopLabel>
+          <modelName>toysupmk4_bumf18</modelName>
+          <modShopLabel>toysupmk4_bumf18</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4064,8 +4048,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf20</modelName>
-          <modShopLabel>toysup_bumf20</modShopLabel>
+          <modelName>toysupmk4_bumf19</modelName>
+          <modShopLabel>toysupmk4_bumf19</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4080,8 +4064,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf21</modelName>
-          <modShopLabel>toysup_bumf21</modShopLabel>
+          <modelName>toysupmk4_bumf20</modelName>
+          <modShopLabel>toysupmk4_bumf20</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4096,8 +4080,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf22</modelName>
-          <modShopLabel>toysup_bumf22</modShopLabel>
+          <modelName>toysupmk4_bumf21</modelName>
+          <modShopLabel>toysupmk4_bumf21</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4112,8 +4096,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf23</modelName>
-          <modShopLabel>toysup_bumf23</modShopLabel>
+          <modelName>toysupmk4_bumf22</modelName>
+          <modShopLabel>toysupmk4_bumf22</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4128,8 +4112,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf24</modelName>
-          <modShopLabel>toysup_bumf24</modShopLabel>
+          <modelName>toysupmk4_bumf23</modelName>
+          <modShopLabel>toysupmk4_bumf23</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4144,8 +4128,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf25</modelName>
-          <modShopLabel>toysup_bumf25</modShopLabel>
+          <modelName>toysupmk4_bumf24</modelName>
+          <modShopLabel>toysupmk4_bumf24</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4160,8 +4144,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_bumf26</modelName>
-          <modShopLabel>toysup_bumf26</modShopLabel>
+          <modelName>toysupmk4_bumf25</modelName>
+          <modShopLabel>toysupmk4_bumf25</modShopLabel>
           <turnOffBones>
              <Item>bumper_f</Item>
          </turnOffBones>
@@ -4176,8 +4160,24 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_trunk1</modelName>
-          <modShopLabel>toysup_trunk1</modShopLabel>
+          <modelName>toysupmk4_bumf26</modelName>
+          <modShopLabel>toysupmk4_bumf26</modShopLabel>
+          <turnOffBones>
+             <Item>bumper_f</Item>
+         </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>toysupmk4_trunk1</modelName>
+          <modShopLabel>toysupmk4_trunk1</modShopLabel>
           <turnOffBones>
              <Item>misc_x</Item>
          </turnOffBones>
@@ -4192,8 +4192,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_trunk2</modelName>
-          <modShopLabel>toysup_trunk2</modShopLabel>
+          <modelName>toysupmk4_trunk2</modelName>
+          <modShopLabel>toysupmk4_trunk2</modShopLabel>
           <turnOffBones>
              <Item>misc_x</Item>
          </turnOffBones>
@@ -4208,8 +4208,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_trunk3</modelName>
-          <modShopLabel>toysup_trunk3</modShopLabel>
+          <modelName>toysupmk4_trunk3</modelName>
+          <modShopLabel>toysupmk4_trunk3</modShopLabel>
           <turnOffBones>
              <Item>misc_x</Item>
          </turnOffBones>
@@ -4224,8 +4224,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_trunkabf</modelName>
-          <modShopLabel>toysup_trunkabf</modShopLabel>
+          <modelName>toysupmk4_trunkabf</modelName>
+          <modShopLabel>toysupmk4_trunkabf</modShopLabel>
           <turnOffBones>
              <Item>misc_x</Item>
          </turnOffBones>
@@ -4240,8 +4240,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_interc1</modelName>
-          <modShopLabel>toysup_interc1</modShopLabel>
+          <modelName>toysupmk4_interc1</modelName>
+          <modShopLabel>toysupmk4_interc1</modShopLabel>
           <type>VMT_ENGINEBAY2</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -4253,8 +4253,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_interc2</modelName>
-          <modShopLabel>toysup_interc2</modShopLabel>
+          <modelName>toysupmk4_interc2</modelName>
+          <modShopLabel>toysupmk4_interc2</modShopLabel>
           <type>VMT_ENGINEBAY2</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -4266,8 +4266,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_interc3</modelName>
-          <modShopLabel>toysup_interc3</modShopLabel>
+          <modelName>toysupmk4_interc3</modelName>
+          <modShopLabel>toysupmk4_interc3</modShopLabel>
           <type>VMT_ENGINEBAY2</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -4279,8 +4279,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_interc4</modelName>
-          <modShopLabel>toysup_interc4</modShopLabel>
+          <modelName>toysupmk4_interc4</modelName>
+          <modShopLabel>toysupmk4_interc4</modShopLabel>
           <type>VMT_ENGINEBAY2</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -4292,8 +4292,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_interc5</modelName>
-          <modShopLabel>toysup_interc5</modShopLabel>
+          <modelName>toysupmk4_interc5</modelName>
+          <modShopLabel>toysupmk4_interc5</modShopLabel>
           <type>VMT_ENGINEBAY2</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -4305,8 +4305,8 @@
           <allowBonnetSlide value="true" />
         </Item>
        <Item>
-          <modelName>toysup_interc6</modelName>
-          <modShopLabel>toysup_interc6</modShopLabel>
+          <modelName>toysupmk4_interc6</modelName>
+          <modShopLabel>toysupmk4_interc6</modShopLabel>
           <type>VMT_ENGINEBAY2</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -4320,589 +4320,589 @@
 		</visibleMods>
 	      <linkMods>
         <Item>
-          <modelName>toysup_bumfcs</modelName>
+          <modelName>toysupmk4_bumfcs</modelName>
           <bone>bumper_f</bone>
           <collisionBone>mod_col_5</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_bumfvs1</modelName>
+          <modelName>toysupmk4_bumfvs1</modelName>
           <bone>bumper_f</bone>
           <collisionBone>mod_col_5</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_bumfvs2</modelName>
+          <modelName>toysupmk4_bumfvs2</modelName>
           <bone>bumper_f</bone>
           <collisionBone>mod_col_5</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_bumfaf</modelName>
+          <modelName>toysupmk4_bumfaf</modelName>
           <bone>bumper_f</bone>
           <collisionBone>mod_col_5</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_fenderfvs1</modelName>
+          <modelName>toysupmk4_fenderfvs1</modelName>
           <bone>chassis</bone>
           <collisionBone>mod_col_6</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_fenderfvs2</modelName>
+          <modelName>toysupmk4_fenderfvs2</modelName>
           <bone>chassis</bone>
           <collisionBone>mod_col_6</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_fenderfaf</modelName>
+          <modelName>toysupmk4_fenderfaf</modelName>
           <bone>chassis</bone>
           <collisionBone>mod_col_6</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_fenderfcs</modelName>
+          <modelName>toysupmk4_fenderfcs</modelName>
           <bone>chassis</bone>
           <collisionBone>mod_col_6</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_wgvs1</modelName>
+          <modelName>toysupmk4_wgvs1</modelName>
           <bone>chassis</bone>
           <collisionBone>mod_col_4</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_wgvs2</modelName>
+          <modelName>toysupmk4_wgvs2</modelName>
           <bone>chassis</bone>
           <collisionBone>mod_col_4</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_wgcs</modelName>
+          <modelName>toysupmk4_wgcs</modelName>
           <bone>chassis</bone>
           <collisionBone>mod_col_4</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_mir1r</modelName>
+          <modelName>toysupmk4_mir1r</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_mir2r</modelName>
+          <modelName>toysupmk4_mir2r</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_mir3r</modelName>
+          <modelName>toysupmk4_mir3r</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_mir4r</modelName>
+          <modelName>toysupmk4_mir4r</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_mir5r</modelName>
+          <modelName>toysupmk4_mir5r</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_mir6r</modelName>
+          <modelName>toysupmk4_mir6r</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_mir7r</modelName>
+          <modelName>toysupmk4_mir7r</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_mir8r</modelName>
+          <modelName>toysupmk4_mir8r</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_mir9r</modelName>
+          <modelName>toysupmk4_mir9r</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_doorvfr</modelName>
+          <modelName>toysupmk4_doorvfr</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_doorabfr</modelName>
+          <modelName>toysupmk4_doorabfr</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_doorvfl</modelName>
+          <modelName>toysupmk4_doorvfl</modelName>
           <bone>door_dside_f</bone>
           <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_doorabfl</modelName>
+          <modelName>toysupmk4_doorabfl</modelName>
           <bone>door_dside_f</bone>
           <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_trunkvf1</modelName>
+          <modelName>toysupmk4_trunkvf1</modelName>
           <bone>boot</bone>
           <collisionBone>mod_col_3</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_trunkvf2</modelName>
+          <modelName>toysupmk4_trunkvf2</modelName>
           <bone>boot</bone>
           <collisionBone>mod_col_3</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_doorvarl</modelName>
+          <modelName>toysupmk4_doorvarl</modelName>
           <bone>door_dside_f</bone>
           <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
          <Item>
-          <modelName>toysup_doorvarr</modelName>
+          <modelName>toysupmk4_doorvarr</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
        <Item>
-          <modelName>toysup_windows1a</modelName>
+          <modelName>toysupmk4_windows1a</modelName>
           <bone>boot</bone>
           <collisionBone>boot</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windows2a</modelName>
+          <modelName>toysupmk4_windows2a</modelName>
           <bone>boot</bone>
           <collisionBone>boot</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windshield_ug</modelName>
+          <modelName>toysupmk4_windshield_ug</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlf1a</modelName>
+          <modelName>toysupmk4_windowlf1a</modelName>
           <bone>window_lf</bone>
           <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrf1a</modelName>
+          <modelName>toysupmk4_windowrf1a</modelName>
           <bone>window_rf</bone>
           <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlf1b</modelName>
+          <modelName>toysupmk4_windowlf1b</modelName>
           <bone>window_lf</bone>
           <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrf1b</modelName>
+          <modelName>toysupmk4_windowrf1b</modelName>
           <bone>window_rf</bone>
           <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlr1</modelName>
+          <modelName>toysupmk4_windowlr1</modelName>
           <bone>window_lr</bone>
           <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrr1</modelName>
+          <modelName>toysupmk4_windowrr1</modelName>
           <bone>window_rr</bone>
           <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windshield1</modelName>
+          <modelName>toysupmk4_windshield1</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_bootglass1</modelName>
+          <modelName>toysupmk4_bootglass1</modelName>
           <bone>windscreen_r</bone>
           <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlf1</modelName>
+          <modelName>toysupmk4_windowlf1</modelName>
           <bone>window_lf</bone>
           <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrf1</modelName>
+          <modelName>toysupmk4_windowrf1</modelName>
           <bone>window_rf</bone>
           <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlr6</modelName>
+          <modelName>toysupmk4_windowlr6</modelName>
           <bone>window_lr</bone>
           <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrr6</modelName>
+          <modelName>toysupmk4_windowrr6</modelName>
           <bone>window_rr</bone>
           <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windshield6</modelName>
+          <modelName>toysupmk4_windshield6</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_bootglass6</modelName>
+          <modelName>toysupmk4_bootglass6</modelName>
           <bone>windscreen_r</bone>
           <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlf6</modelName>
+          <modelName>toysupmk4_windowlf6</modelName>
           <bone>window_lf</bone>
           <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrf6</modelName>
+          <modelName>toysupmk4_windowrf6</modelName>
           <bone>window_rf</bone>
           <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlr7</modelName>
+          <modelName>toysupmk4_windowlr7</modelName>
           <bone>window_lr</bone>
           <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrr7</modelName>
+          <modelName>toysupmk4_windowrr7</modelName>
           <bone>window_rr</bone>
           <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windshield7</modelName>
+          <modelName>toysupmk4_windshield7</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_bootglass7</modelName>
+          <modelName>toysupmk4_bootglass7</modelName>
           <bone>windscreen_r</bone>
           <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlf7</modelName>
+          <modelName>toysupmk4_windowlf7</modelName>
           <bone>window_lf</bone>
           <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrf7</modelName>
+          <modelName>toysupmk4_windowrf7</modelName>
           <bone>window_rf</bone>
           <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlr8</modelName>
+          <modelName>toysupmk4_windowlr8</modelName>
           <bone>window_lr</bone>
           <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrr8</modelName>
+          <modelName>toysupmk4_windowrr8</modelName>
           <bone>window_rr</bone>
           <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windshield8</modelName>
+          <modelName>toysupmk4_windshield8</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_bootglass8</modelName>
+          <modelName>toysupmk4_bootglass8</modelName>
           <bone>windscreen_r</bone>
           <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlf8</modelName>
+          <modelName>toysupmk4_windowlf8</modelName>
           <bone>window_lf</bone>
           <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrf8</modelName>
+          <modelName>toysupmk4_windowrf8</modelName>
           <bone>window_rf</bone>
           <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlr9</modelName>
+          <modelName>toysupmk4_windowlr9</modelName>
           <bone>window_lr</bone>
           <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrr9</modelName>
+          <modelName>toysupmk4_windowrr9</modelName>
           <bone>window_rr</bone>
           <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windshield9</modelName>
+          <modelName>toysupmk4_windshield9</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_bootglass9</modelName>
+          <modelName>toysupmk4_bootglass9</modelName>
           <bone>windscreen_r</bone>
           <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlf9</modelName>
+          <modelName>toysupmk4_windowlf9</modelName>
           <bone>window_lf</bone>
           <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrf9</modelName>
+          <modelName>toysupmk4_windowrf9</modelName>
           <bone>window_rf</bone>
           <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlr10</modelName>
+          <modelName>toysupmk4_windowlr10</modelName>
           <bone>window_lr</bone>
           <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrr10</modelName>
+          <modelName>toysupmk4_windowrr10</modelName>
           <bone>window_rr</bone>
           <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windshield10</modelName>
+          <modelName>toysupmk4_windshield10</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_bootglass10</modelName>
+          <modelName>toysupmk4_bootglass10</modelName>
           <bone>windscreen_r</bone>
           <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlf10</modelName>
+          <modelName>toysupmk4_windowlf10</modelName>
           <bone>window_lf</bone>
           <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrf10</modelName>
+          <modelName>toysupmk4_windowrf10</modelName>
           <bone>window_rf</bone>
           <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlr11</modelName>
+          <modelName>toysupmk4_windowlr11</modelName>
           <bone>window_lr</bone>
           <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrr11</modelName>
+          <modelName>toysupmk4_windowrr11</modelName>
           <bone>window_rr</bone>
           <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windshield11</modelName>
+          <modelName>toysupmk4_windshield11</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_bootglass11</modelName>
+          <modelName>toysupmk4_bootglass11</modelName>
           <bone>windscreen_r</bone>
           <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlf11</modelName>
+          <modelName>toysupmk4_windowlf11</modelName>
           <bone>window_lf</bone>
           <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrf11</modelName>
+          <modelName>toysupmk4_windowrf11</modelName>
           <bone>window_rf</bone>
           <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowlr1a</modelName>
+          <modelName>toysupmk4_windowlr1a</modelName>
           <bone>window_lr</bone>
           <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windowrr1a</modelName>
+          <modelName>toysupmk4_windowrr1a</modelName>
           <bone>window_rr</bone>
           <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_hoodvsf1</modelName>
+          <modelName>toysupmk4_hoodvsf1</modelName>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_hoodvsf2</modelName>
+          <modelName>toysupmk4_hoodvsf2</modelName>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_wideframe</modelName>
+          <modelName>toysupmk4_wideframe</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
        </Item>
         <Item>
-          <modelName>toysup_wideframe</modelName>
+          <modelName>toysupmk4_wideframe</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
        </Item>
         <Item>
-          <modelName>toysup_int4p2</modelName>
+          <modelName>toysupmk4_int4p2</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
        </Item>
         <Item>
-          <modelName>toysup_int5p2</modelName>
+          <modelName>toysupmk4_int5p2</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
        </Item>
          <Item>
-          <modelName>toysup_doorcardrsuede</modelName>
+          <modelName>toysupmk4_doorcardrsuede</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_doorcardlsuede</modelName>
+          <modelName>toysupmk4_doorcardlsuede</modelName>
           <bone>door_dside_f</bone>
           <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
          <Item>
-          <modelName>toysup_doorcardlbride</modelName>
+          <modelName>toysupmk4_doorcardlbride</modelName>
           <bone>door_dside_f</bone>
           <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_doorcardrbride</modelName>
+          <modelName>toysupmk4_doorcardrbride</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
          <Item>
-          <modelName>toysup_doorcardlcarb</modelName>
+          <modelName>toysupmk4_doorcardlcarb</modelName>
           <bone>door_dside_f</bone>
           <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_doorcardrcarb</modelName>
+          <modelName>toysupmk4_doorcardrcarb</modelName>
           <bone>door_pside_f</bone>
           <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_window_lr</modelName>
+          <modelName>toysupmk4_window_lr</modelName>
           <bone>window_lr</bone>
           <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_window_rr</modelName>
+          <modelName>toysupmk4_window_rr</modelName>
           <bone>window_rr</bone>
           <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windscreen</modelName>
+          <modelName>toysupmk4_windscreen</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_windscreen_r</modelName>
+          <modelName>toysupmk4_windscreen_r</modelName>
           <bone>windscreen_r</bone>
           <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_window_lf</modelName>
+          <modelName>toysupmk4_window_lf</modelName>
           <bone>window_lf</bone>
           <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
-          <modelName>toysup_window_rf</modelName>
+          <modelName>toysupmk4_window_rf</modelName>
           <bone>window_rf</bone>
           <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
          <Item>
-          <modelName>toysup_windshield12</modelName>
+          <modelName>toysupmk4_windshield12</modelName>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
@@ -5439,9 +5439,9 @@
     <Item/> <!-- VWT_OFFROAD -->
     <Item> <!-- VWT_TUNER -->
       <Item>
-        <wheelName>wheel_toysup</wheelName>
+        <wheelName>wheel_toysupmk4</wheelName>
         <wheelVariation />
-        <modShopLabel>wheel_toysup</modShopLabel>
+        <modShopLabel>wheel_toysupmk4</modShopLabel>
         <rimRadius value="0.398500"/>
         <rear value="false"/>
       </Item>
