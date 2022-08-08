@@ -124,9 +124,9 @@
     </Item>
     <!-- Police Vehicles Start -->
     <Item>
-      <modelName>npolblazer</modelName>
-      <txdName>npolblazer</txdName>
-      <handlingId>NPOLBLAZER</handlingId>
+      <modelName>dumbfuck</modelName>
+      <txdName>dumbfuck</txdName>
+      <handlingId>dumbfuck</handlingId>
       <gameName>BLAZER2</gameName>
       <vehicleMakeName>NAGASAKI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -233,10 +233,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>npolvic</modelName>
-      <txdName>npolvic</txdName>
-      <handlingId>NPOLVIC</handlingId>
-      <gameName>NPOLVIC</gameName>
+      <modelName>dumbfuckvic</modelName>
+      <txdName>dumbfuckvic</txdName>
+      <handlingId>dumbfuckVIC</handlingId>
+      <gameName>dumbfuckVIC</gameName>
       <vehicleMakeName>FORD</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -360,10 +360,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>npolmm</modelName>
-      <txdName>npolmm</txdName>
-      <handlingId>npolmm</handlingId>
-      <gameName>npolmm</gameName>
+      <modelName>dumbfuckmm</modelName>
+      <txdName>dumbfuckmm</txdName>
+      <handlingId>dumbfuckmm</handlingId>
+      <gameName>dumbfuckmm</gameName>
       <vehicleMakeName>NAGASAKI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -469,10 +469,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>npolvette</modelName>
-      <txdName>npolvette</txdName>
-      <handlingId>npolvette</handlingId>
-      <gameName>npolvette</gameName>
+      <modelName>dumbfuckvette</modelName>
+      <txdName>dumbfuckvette</txdName>
+      <handlingId>dumbfuckvette</handlingId>
+      <gameName>dumbfuckvette</gameName>
       <vehicleMakeName>CHV</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -579,10 +579,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>npolchal</modelName>
-      <txdName>npolchal</txdName>
-      <handlingId>npolchal</handlingId>
-      <gameName>npolchal</gameName>
+      <modelName>dumbfuckchal</modelName>
+      <txdName>dumbfuckchal</txdName>
+      <handlingId>dumbfuckchal</handlingId>
+      <gameName>dumbfuckchal</gameName>
       <vehicleMakeName>Dodge</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -689,9 +689,9 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>npolstang</modelName>
-      <txdName>npolstang</txdName>
-      <handlingId>npolstang</handlingId>
+      <modelName>dumbfuckstang</modelName>
+      <txdName>dumbfuckstang</txdName>
+      <handlingId>dumbfuckstang</handlingId>
       <gameName>MUSTANG</gameName>
       <vehicleMakeName>FORD</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -799,10 +799,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>npolcoach</modelName>
-      <txdName>npolcoach</txdName>
+      <modelName>dumbfuckcoach</modelName>
+      <txdName>dumbfuckcoach</txdName>
       <handlingId>COACH</handlingId>
-      <gameName>npolCOACH</gameName>
+      <gameName>dumbfuckCOACH</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -3888,7 +3888,7 @@
       <txdName>lfa</txdName>
       <handlingId>lfa</handlingId>
       <gameName>lfa</gameName>
-      <vehicleMakeName>Lexus</vehicleMakeName>
+      <vehicleMakeName>dumbfuck</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName />
@@ -4098,10 +4098,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>tsgr20</modelName>
-      <txdName>tsgr20</txdName>
-      <handlingId>TSGR20</handlingId>
-      <gameName>TSGR20</gameName>
+      <modelName>dumbfuck</modelName>
+      <txdName>dumbfuck</txdName>
+      <handlingId>dumbfuck</handlingId>
+      <gameName>dumbfuck</gameName>
       <vehicleMakeName>TOYOTA</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -4202,23 +4202,23 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>deluxo2</modelName>
-      <txdName>deluxo2</txdName>
-      <handlingId>DELUXO2</handlingId>
-      <gameName>DELUXO2</gameName>
+      <modelName>dumbfuck2</modelName>
+      <txdName>dumbfuck2</txdName>
+      <handlingId>dumbfuck2</handlingId>
+      <gameName>dumbfuck2</gameName>
       <vehicleMakeName>IMPONTE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
-      <ptfxAssetName>veh_deluxo</ptfxAssetName>
-      <audioNameHash>deluxo</audioNameHash>
-      <layout>LAYOUT_LOW_DELUXO</layout>
-      <coverBoundOffsets>DELUXO_COVER_OFFSET_INFO</coverBoundOffsets>
+      <ptfxAssetName>veh_dumbfuck</ptfxAssetName>
+      <audioNameHash>dumbfuck</audioNameHash>
+      <layout>LAYOUT_LOW_dumbfuck</layout>
+      <coverBoundOffsets>dumbfuck_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
-      <cameraName>FOLLOW_DELUXO_CAMERA</cameraName>
+      <cameraName>FOLLOW_dumbfuck_CAMERA</cameraName>
       <aimCameraName>DEFAULT_THIRD_PERSON_NO_LOCKON_VEHICLE_AIM_CAMERA</aimCameraName>
       <bonnetCameraName>VEHICLE_BONNET_CAMERA_STANDARD_HIGH</bonnetCameraName>
       <povCameraName>DEFAULT_POV_CAMERA</povCameraName>
@@ -4239,7 +4239,7 @@
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
       <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
       <PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vfxInfoName>VFXVEHICLEINFO_CAR_DELUXO</vfxInfoName>
+      <vfxInfoName>VFXVEHICLEINFO_CAR_dumbfuck</vfxInfoName>
       <shouldUseCinematicViewMode value="true" />
       <shouldCameraTransitionOnClimbUpDown value="false" />
       <shouldCameraIgnoreExiting value="false" />
@@ -4308,28 +4308,28 @@
       <buoyancySphereSizeScale value="1.000000" />
       <pOverrideRagdollThreshold type="NULL" />
       <firstPersonDrivebyData>
-        <Item>LOW_DELUXO_FRONT_LEFT</Item>
-        <Item>LOW_DELUXO_FRONT_RIGHT</Item>
+        <Item>LOW_dumbfuck_FRONT_LEFT</Item>
+        <Item>LOW_dumbfuck_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>deluxo6str</modelName>
-      <txdName>deluxo6str</txdName>
-      <handlingId>DELUXO6STR</handlingId>
-      <gameName>DELUXO6STR</gameName>
+      <modelName>dumbfuckdumbfuck</modelName>
+      <txdName>dumbfuckdumbfuck</txdName>
+      <handlingId>dumbfuckdumbfuck</handlingId>
+      <gameName>dumbfuckdumbfuck</gameName>
       <vehicleMakeName>IMPONTE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
-      <ptfxAssetName>veh_deluxo</ptfxAssetName>
+      <ptfxAssetName>veh_dumbfuck</ptfxAssetName>
       <audioNameHash>majimalm</audioNameHash>
-      <layout>LAYOUT_LOW_DELUXO</layout>
-      <coverBoundOffsets>DELUXO_COVER_OFFSET_INFO</coverBoundOffsets>
+      <layout>LAYOUT_LOW_dumbfuck</layout>
+      <coverBoundOffsets>dumbfuck_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
-      <cameraName>FOLLOW_DELUXO_CAMERA</cameraName>
+      <cameraName>FOLLOW_dumbfuck_CAMERA</cameraName>
       <aimCameraName>DEFAULT_THIRD_PERSON_NO_LOCKON_VEHICLE_AIM_CAMERA</aimCameraName>
       <bonnetCameraName>VEHICLE_BONNET_CAMERA_STANDARD_HIGH</bonnetCameraName>
       <povCameraName>DEFAULT_POV_CAMERA</povCameraName>
@@ -4350,7 +4350,7 @@
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
       <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
       <PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vfxInfoName>VFXVEHICLEINFO_CAR_DELUXO</vfxInfoName>
+      <vfxInfoName>VFXVEHICLEINFO_CAR_dumbfuck</vfxInfoName>
       <shouldUseCinematicViewMode value="true" />
       <shouldCameraTransitionOnClimbUpDown value="false" />
       <shouldCameraIgnoreExiting value="false" />
@@ -4419,15 +4419,15 @@
       <buoyancySphereSizeScale value="1.000000" />
       <pOverrideRagdollThreshold type="NULL" />
       <firstPersonDrivebyData>
-        <Item>LOW_DELUXO_FRONT_LEFT</Item>
-        <Item>LOW_DELUXO_FRONT_RIGHT</Item>
+        <Item>LOW_dumbfuck_FRONT_LEFT</Item>
+        <Item>LOW_dumbfuck_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>senna877</modelName>
-      <txdName>senna877</txdName>
-      <handlingId>senna877</handlingId>
-      <gameName>senna877</gameName>
+      <modelName>senna</modelName>
+      <txdName>senna</txdName>
+      <handlingId>SENNA</handlingId>
+      <gameName>SENNA</gameName>
       <vehicleMakeName>YCA</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -5316,10 +5316,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>golffix1</modelName>
-      <txdName>golffix1</txdName>
-      <handlingId>golffix1</handlingId>
-      <gameName>golffix1</gameName>
+      <modelName>golfp</modelName>
+      <txdName>golfp</txdName>
+      <handlingId>GOLFP</handlingId>
+      <gameName>GOLFP</gameName>
       <vehicleMakeName>VW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -6991,10 +6991,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>m3e7827</modelName>
-      <txdName>m3e7827</txdName>
-      <handlingId>m3e7827</handlingId>
-      <gameName>m3e7827</gameName>
+      <modelName>m3e46</modelName>
+      <txdName>m3e46</txdName>
+      <handlingId>m3e46</handlingId>
+      <gameName>m3e46</gameName>
       <vehicleMakeName>BMW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -7980,10 +7980,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>gtr</modelName>
-      <txdName>gtr</txdName>
-      <handlingId>gtr</handlingId>
-      <gameName>GTR</gameName>
+      <modelName>d</modelName>
+      <txdName>d</txdName>
+      <handlingId>d</handlingId>
+      <gameName>d</gameName>
       <vehicleMakeName>Nissan</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -10070,7 +10070,7 @@
       <txdName>rcf</txdName>
       <handlingId>RCF</handlingId>
       <gameName>RCF</gameName>
-      <vehicleMakeName>LEXUS</vehicleMakeName>
+      <vehicleMakeName>dumbfuck</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
@@ -11958,10 +11958,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>a80</modelName>
-      <txdName>a80</txdName>
-      <handlingId>a80</handlingId>
-      <gameName>a80</gameName>
+      <modelName>dumbfuck</modelName>
+      <txdName>dumbfuck</txdName>
+      <handlingId>dumbfuck</handlingId>
+      <gameName>dumbfuck</gameName>
       <vehicleMakeName>D1</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -12875,10 +12875,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>e7827</modelName>
-      <txdName>e7827</txdName>
-      <handlingId>e7827</handlingId>
-      <gameName>m3 e7827</gameName>
+      <modelName>e46</modelName>
+      <txdName>e46</txdName>
+      <handlingId>E46</handlingId>
+      <gameName>m3 e46</gameName>
       <vehicleMakeName>BMW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -14433,11 +14433,11 @@
     <!-- Heist Cars End -->
     <!--WiseGuy Vehicle Configs-->
     <Item>
-      <!-- 6STR Vapid Ellie -->
-      <modelName>ellie6str</modelName>
-      <txdName>ellie6str</txdName>
-      <handlingId>ELLIE6STR</handlingId>
-      <gameName>ELLIE6STR</gameName>
+      <!-- dumbfuck Vapid Ellie -->
+      <modelName>elliedumbfuck</modelName>
+      <txdName>elliedumbfuck</txdName>
+      <handlingId>ELLIEdumbfuck</handlingId>
+      <gameName>ELLIEdumbfuck</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -14539,7 +14539,7 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR Karin Futo -->
+      <!-- dumbfuck Karin Futo -->
       <modelName>futo3</modelName>
       <txdName>futo3</txdName>
       <handlingId>FUTO3</handlingId>
@@ -14650,11 +14650,11 @@
       <numSeatsOverride value="2" />
     </Item>
     <Item>
-      <!-- 6STR Bravado Gauntlet -->
-      <modelName>gauntlet6str</modelName>
-      <txdName>gauntlet6str</txdName>
-      <handlingId>GAUNTLET6STR</handlingId>
-      <gameName>GAUNT6STR</gameName>
+      <!-- dumbfuck Bravado Gauntlet -->
+      <modelName>gauntletdumbfuck</modelName>
+      <txdName>gauntletdumbfuck</txdName>
+      <handlingId>GAUNTLETdumbfuck</handlingId>
+      <gameName>GAUNTdumbfuck</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -14756,11 +14756,11 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR BF Ladybird -->
-      <modelName>ladybird6str</modelName>
-      <txdName>ladybird6str</txdName>
-      <handlingId>LADYBIRD6STR</handlingId>
-      <gameName>LADYBIRD</gameName>
+      <!-- dumbfuck BF dumbfuck -->
+      <modelName>dumbfuckdumbfuck</modelName>
+      <txdName>dumbfuckdumbfuck</txdName>
+      <handlingId>dumbfuckdumbfuck</handlingId>
+      <gameName>dumbfuck</gameName>
       <vehicleMakeName>BF</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -14861,11 +14861,11 @@
       <numSeatsOverride value="2" />
     </Item>
     <Item>
-      <!-- 6STR Imponte Ruiner -->
-      <modelName>ruiner6str</modelName>
-      <txdName>ruiner6str</txdName>
-      <handlingId>ruiner6str</handlingId>
-      <gameName>ruiner6str</gameName>
+      <!-- dumbfuck Imponte Ruiner -->
+      <modelName>ruinerdumbfuck</modelName>
+      <txdName>ruinerdumbfuck</txdName>
+      <handlingId>ruinerdumbfuck</handlingId>
+      <gameName>ruinerdumbfuck</gameName>
       <vehicleMakeName>IMPONTE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -14972,7 +14972,7 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR Benefactor Schwartzer -->
+      <!-- dumbfuck Benefactor Schwartzer -->
       <modelName>schwarzer2</modelName>
       <txdName>schwarzer2</txdName>
       <handlingId>SCHWARZER2</handlingId>
@@ -15082,11 +15082,11 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR Ubermacht Sentinel Classic -->
-      <modelName>sentinel6str2</modelName>
-      <txdName>sentinel6str2</txdName>
-      <handlingId>SENTINEL6STR2</handlingId>
-      <gameName>SENT6STR2</gameName>
+      <!-- dumbfuck Ubermacht Sentinel Classic -->
+      <modelName>sentineldumbfuck2</modelName>
+      <txdName>sentineldumbfuck2</txdName>
+      <handlingId>SENTINELdumbfuck2</handlingId>
+      <gameName>SENTdumbfuck2</gameName>
       <vehicleMakeName>UBERMACH</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15194,11 +15194,11 @@
       <numSeatsOverride value="2" />
     </Item>
     <Item>
-      <!-- 6STR Declasse Yosemite -->
-      <modelName>yosemite6str</modelName>
-      <txdName>yosemite6str</txdName>
-      <handlingId>YOSEMITE6STR</handlingId>
-      <gameName>YOS6STR</gameName>
+      <!-- dumbfuck Declasse Yosemite -->
+      <modelName>yosemitedumbfuck</modelName>
+      <txdName>yosemitedumbfuck</txdName>
+      <handlingId>YOSEMITEdumbfuck</handlingId>
+      <gameName>YOSdumbfuck</gameName>
       <vehicleMakeName>DECLASSE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15309,11 +15309,11 @@
       <numSeatsOverride value="2" />
     </Item>
     <Item>
-      <!-- 6STR Annis ZR380 -->
-      <modelName>zr3806str</modelName>
-      <txdName>zr3806str</txdName>
-      <handlingId>ZR3806STR</handlingId>
-      <gameName>ZR3806STR</gameName>
+      <!-- dumbfuck Annis ZR380 -->
+      <modelName>zr380dumbfuck</modelName>
+      <txdName>zr380dumbfuck</txdName>
+      <handlingId>ZR380dumbfuck</handlingId>
+      <gameName>ZR380dumbfuck</gameName>
       <vehicleMakeName>ANNIS</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15414,7 +15414,7 @@
       <numSeatsOverride value="2" />
     </Item>
     <Item>
-      <!-- 6STR Declasse Drift Tampa V3 -->
+      <!-- dumbfuck Declasse Drift Tampa V3 -->
       <modelName>tampa5</modelName>
       <txdName>tampa5</txdName>
       <handlingId>tampa5</handlingId>
@@ -15524,7 +15524,7 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR Declasse Drift Tampa V2 -->
+      <!-- dumbfuck Declasse Drift Tampa V2 -->
       <modelName>tampa4</modelName>
       <txdName>tampa4</txdName>
       <handlingId>tampa4</handlingId>
@@ -15634,11 +15634,11 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR Maibatsu Revolution -->
-      <modelName>revolution6str</modelName>
-      <txdName>revolution6str2</txdName>
-      <handlingId>REVOLUTION6STR</handlingId>
-      <gameName>REVO6STR</gameName>
+      <!-- dumbfuck Maibatsu Revolution -->
+      <modelName>revolutiondumbfuck</modelName>
+      <txdName>revolutiondumbfuck2</txdName>
+      <handlingId>REVOLUTIONdumbfuck</handlingId>
+      <gameName>REVOdumbfuck</gameName>
       <vehicleMakeName>MAIBATSU</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15750,11 +15750,11 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR Widebody Maibatsu Revolution -->
-      <modelName>revolution6str2</modelName>
-      <txdName>revolution6str2</txdName>
-      <handlingId>REVOLUTION6STR2</handlingId>
-      <gameName>REVO6STR2</gameName>
+      <!-- dumbfuck Widebody Maibatsu Revolution -->
+      <modelName>revolutiondumbfuck2</modelName>
+      <txdName>revolutiondumbfuck2</txdName>
+      <handlingId>REVOLUTIONdumbfuck2</handlingId>
+      <gameName>REVOdumbfuck2</gameName>
       <vehicleMakeName>MAIBATSU</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15866,11 +15866,11 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR Ubermacht Sentinel -->
-      <modelName>sentinel6str</modelName>
-      <txdName>sentinel6str</txdName>
-      <handlingId>SENTINEL6STR</handlingId>
-      <gameName>SENT6STR</gameName>
+      <!-- dumbfuck Ubermacht Sentinel -->
+      <modelName>sentineldumbfuck</modelName>
+      <txdName>sentineldumbfuck</txdName>
+      <handlingId>SENTINELdumbfuck</handlingId>
+      <gameName>SENTdumbfuck</gameName>
       <vehicleMakeName>UBERMACH</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15972,11 +15972,11 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR Pfister Comet -->
-      <modelName>comet6str</modelName>
-      <txdName>comet6str</txdName>
-      <handlingId>COMET6STR</handlingId>
-      <gameName>COMET6STR</gameName>
+      <!-- dumbfuck Pfister Comet -->
+      <modelName>cometdumbfuck</modelName>
+      <txdName>cometdumbfuck</txdName>
+      <handlingId>COMETdumbfuck</handlingId>
+      <gameName>COMETdumbfuck</gameName>
       <vehicleMakeName>PFISTER</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -16079,11 +16079,11 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR Lampadati Pigalle -->
-      <modelName>pigalle6str</modelName>
-      <txdName>pigalle6str</txdName>
-      <handlingId>PIGALLE6STR</handlingId>
-      <gameName>PIGALLE6STR</gameName>
+      <!-- dumbfuck Lampadati Pigalle -->
+      <modelName>pigalledumbfuck</modelName>
+      <txdName>pigalledumbfuck</txdName>
+      <handlingId>PIGALLEdumbfuck</handlingId>
+      <gameName>PIGALLEdumbfuck</gameName>
       <vehicleMakeName>LAMPADA</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -17240,11 +17240,11 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <!-- 6STR Vapid Hustler -->
-      <modelName>hustler6str</modelName>
-      <txdName>hustler6str</txdName>
-      <handlingId>HUSTLER6STR</handlingId>
-      <gameName>HUSTLER6STR</gameName>
+      <!-- dumbfuck Vapid Hustler -->
+      <modelName>hustlerdumbfuck</modelName>
+      <txdName>hustlerdumbfuck</txdName>
+      <handlingId>HUSTLERdumbfuck</handlingId>
+      <gameName>HUSTLERdumbfuck</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -18270,10 +18270,10 @@
       <LowriderLeanAccelModifier value="1.000000" />
     </Item>
     <Item>
-      <modelName>hellion6str</modelName>
-      <txdName>hellion6str</txdName>
-      <handlingId>HELLION6STR</handlingId>
-      <gameName>HELLION6STR</gameName>
+      <modelName>helliondumbfuck</modelName>
+      <txdName>helliondumbfuck</txdName>
+      <handlingId>HELLIONdumbfuck</handlingId>
+      <gameName>HELLIONdumbfuck</gameName>
       <vehicleMakeName>ANNIS</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -19047,31 +19047,31 @@
     </Item>
     <Item>
       <parent>vehicles_btype_interior</parent>
-      <child>npolvic</child>
+      <child>dumbfuckvic</child>
     </Item>
     <Item>
       <parent>vehicles_biker_shared</parent>
-      <child>npolmm</child>
+      <child>dumbfuckmm</child>
     </Item>
     <Item>
-      <parent>npolvic</parent>
-      <child>npolvette</child>
+      <parent>dumbfuckvic</parent>
+      <child>dumbfuckvette</child>
     </Item>
     <Item>
-      <parent>npolvic</parent>
-      <child>npolchal</child>
+      <parent>dumbfuckvic</parent>
+      <child>dumbfuckchal</child>
     </Item>
     <Item>
-      <parent>npolvic</parent>
-      <child>npolstang</child>
+      <parent>dumbfuckvic</parent>
+      <child>dumbfuckstang</child>
     </Item>
     <Item>
-      <parent>npolvic</parent>
-      <child>npolblazer</child>
+      <parent>dumbfuckvic</parent>
+      <child>dumbfuck</child>
     </Item>
     <Item>
       <parent>vehshare_truck</parent>
-      <child>npolcoach</child>
+      <child>dumbfuckcoach</child>
     </Item>
     <Item>
       <parent>vehicles_speedo_interior</parent>
@@ -19174,19 +19174,19 @@
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>tsgr20</child>
+      <child>dumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>deluxo2</child>
+      <child>dumbfuck2</child>
     </Item>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>deluxo6str</child>
+      <child>dumbfuckdumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>senna877</child>
+      <child>senna</child>
     </Item>
     <Item>
       <parent>vehicles_schaf_w_interior</parent>
@@ -19230,11 +19230,11 @@
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>golffix1</child>
+      <child>golfp</child>
     </Item>
     <Item>
       <parent>vehicles_race_interior</parent>
-      <child>golffix1</child>
+      <child>golfp</child>
     </Item>
     <Item>
       <parent>vehicles_poltax_interior</parent>
@@ -19278,7 +19278,7 @@
     </Item>
     <Item>
       <parent>vehicles_banshee_interior</parent>
-      <child>m3e7827</child>
+      <child>m3e46</child>
     </Item>
     <Item>
       <parent>vehicles_schaf_interior</parent>
@@ -19475,7 +19475,7 @@
     </Item>
     <Item>
       <parent>vehicles_btype_interior</parent>
-      <child>e7827</child>
+      <child>e46</child>
     </Item>
     <Item>
       <parent>vehicles_elegy_interior</parent>
@@ -19503,7 +19503,7 @@
     </Item>
     <Item>
       <parent>vehicles_btype_interior</parent>
-      <child>a80</child>
+      <child>dumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_banshee_interior</parent>
@@ -19538,15 +19538,15 @@
     <!--WiseGuy txd relationships-->
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>ellie6str</child>
+      <child>elliedumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_race_interior</parent>
-      <child>ellie6str</child>
+      <child>elliedumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>ellie6str</child>
+      <child>elliedumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_futo_interior</parent>
@@ -19554,19 +19554,19 @@
     </Item>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>gauntlet6str</child>
+      <child>gauntletdumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_peyote_w_interior</parent>
-      <child>ladybird6str</child>
+      <child>dumbfuckdumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>ladybird6str</child>
+      <child>dumbfuckdumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>ruiner6str</child>
+      <child>ruinerdumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_schaf_interior</parent>
@@ -19574,11 +19574,11 @@
     </Item>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>sentinel6str2</child>
+      <child>sentineldumbfuck2</child>
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>sentinel6str2</child>
+      <child>sentineldumbfuck2</child>
     </Item>
     <Item>
       <parent>vehicles_fmj_interior</parent>
@@ -19586,15 +19586,15 @@
     </Item>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>yosemite6str</child>
+      <child>yosemitedumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>yosemite6str</child>
+      <child>yosemitedumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>zr3806str</child>
+      <child>zr380dumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
@@ -19606,23 +19606,23 @@
     </Item>
     <Item>
       <parent>vehicles_sultan_interior</parent>
-      <child>revolution6str</child>
+      <child>revolutiondumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_sultan_interior</parent>
-      <child>revolution6str2</child>
+      <child>revolutiondumbfuck2</child>
     </Item>
     <Item>
       <parent>vehicles_sultan_interior</parent>
-      <child>sentinel6str</child>
+      <child>sentineldumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_comet_interior</parent>
-      <child>comet6str</child>
+      <child>cometdumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>pigalle6str</child>
+      <child>pigalledumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_sultan_interior</parent>
@@ -19662,7 +19662,7 @@
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>hustler6str</child>
+      <child>hustlerdumbfuck</child>
     </Item>
     <Item>
       <parent>vehicles_van_interior</parent>
@@ -19703,7 +19703,7 @@
     </Item>
     <Item>
       <parent>vehicles_cav_interior</parent>
-      <child>hellion6str</child>
+      <child>helliondumbfuck</child>
     </Item>
     <!-- Temp Start -->
     <Item>
