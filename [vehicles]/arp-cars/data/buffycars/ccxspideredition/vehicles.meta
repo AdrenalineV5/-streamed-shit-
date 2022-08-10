@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>turismor</audioNameHash>
-      <layout>LAYOUT_LOW_RESTRICTED</layout>
+      <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>NERO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
@@ -63,12 +63,12 @@
       <steerWheelMult value="1.000000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
-        15.000000
-        30.000000
-        70.000000	
-        140.000000	
-        300.000000	
-        300.000000
+        500.000000
+        500.000000
+        500.000000	
+        50.000000	
+        500.000000	
+        500.000000
       </lodDistances>
       <identicalModelSpawnDistance value="20" />
       <maxNumOfSameColor value="1" />
@@ -117,7 +117,7 @@
   <txdRelationships>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>ccxspideredition</child>
+      <child>ccxspider</child>
     </Item>
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>
