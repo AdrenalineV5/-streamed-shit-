@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>ccxspideredition</modelName>
-      <txdName>ccxspideredition</txdName>
+      <modelName>ccxspider</modelName>
+      <txdName>ccxspider</txdName>
       <handlingId>ccxspideredition</handlingId>
-      <gameName>ccxspideredition</gameName>
+      <gameName>ccxspider</gameName>
       <vehicleMakeName>koenigsegg</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
