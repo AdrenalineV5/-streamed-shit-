@@ -8,7 +8,7 @@
       <visibleMods>
         <Item>
           <modelName>maxgolfp_bumf_1</modelName>
-          <modShopLabel>maxGOLFP_BUMF_1</modShopLabel>
+          <modShopLabel>maxgolfp_BUMF_1</modShopLabel>
           <linkedModels />
           <turnOffBones />
           <type>VMT_BUMPER_F</type>
@@ -23,7 +23,7 @@
         </Item>
         <Item>
           <modelName>maxgolfp_wing_1</modelName>
-          <modShopLabel>maxGOLFP_WING_1</modShopLabel>
+          <modShopLabel>maxgolfp_WING_1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
           </turnOffBones>
@@ -39,7 +39,7 @@
         </Item>
         <Item>
           <modelName>maxgolfp_wing_2</modelName>
-          <modShopLabel>maxGOLFP_WING_2</modShopLabel>
+          <modShopLabel>maxgolfp_WING_2</modShopLabel>
           <linkedModels/>
           <turnOffBones>
           </turnOffBones>
