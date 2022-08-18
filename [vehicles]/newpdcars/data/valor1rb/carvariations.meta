@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CVehicleModelInfoVariation>
   <variationData>
     <Item>
-      <modelName>valor1rb</modelName> <!--made by TrooperCorentin-->
+      <modelName>valor1rb</modelName>
+      <!--made by TrooperCorentin-->
       <colors>
         <Item>
           <indices content="char_array">
@@ -12,26 +13,26 @@
 			156
           </indices>
           <liveries>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
           </liveries>
         </Item>
       </colors>
       <kits>
         <Item>0_default_modkit</Item>
       </kits>
-      <windowsWithExposedEdges/>
+      <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities>
           <Item>
             <Name>Police guv plate</Name>
-            <Value value="100"/>
+            <Value value="100" />
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1"/>
-      <sirenSettings value="55544433326999"/>
+      <lightSettings value="1" />
+      <sirenSettings value="158926" />
     </Item>
   </variationData>
 </CVehicleModelInfoVariation>

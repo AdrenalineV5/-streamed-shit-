@@ -1,6 +1,6 @@
-     <?xml version="1.0" encoding="UTF-8"?>
-     <CVehicleModelInfoVarGlobal>
-    <Kits>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CVehicleModelInfoVarGlobal>
+  <Kits>
     <!-- WiseGuy S Class Modkit -->
     <Item>
       <kitName>7777_sclass_modkit</kitName>
@@ -4508,7 +4508,7 @@
           <allowBonnetSlide value="true" />
         </Item>
          -->
-         <Item>
+        <Item>
           <modelName>npolchal_livery1</modelName>
           <modShopLabel>NPOL_LIV5</modShopLabel>
           <linkedModels />
@@ -4568,7 +4568,7 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-          <Item>
+        <Item>
           <modelName>npol_alpr</modelName>
           <modShopLabel>NPOL_ALPR</modShopLabel>
           <linkedModels />
@@ -5825,8 +5825,8 @@
       </liveryNames>
     </Item>
     <Item>
-      <kitName>4072_npolvette_modkit</kitName>
-      <id value="441" />
+      <kitName>2071_npolvette_modkit</kitName>
+      <id value="2071" />
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
@@ -7761,22 +7761,22 @@
       <id value="4109" />
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
-      <Item>
-        <modelName>contss18_spoiler1</modelName>
-        <modShopLabel>CONTSS18_SPOIL</modShopLabel>
-        <linkedModels />
-        <turnOffBones />
-        <type>VMT_SPOILER</type>
-        <bone>boot</bone>
-        <collisionBone>boot</collisionBone>
-        <cameraPos>VMCP_DEFAULT</cameraPos>
-        <audioApply value="1.000000" />
-        <weight value="0" />
-        <turnOffExtra value="false" />
-        <disableBonnetCamera value="false" />
-        <allowBonnetSlide value="true" />
-      </Item>
-    </visibleMods>
+        <Item>
+          <modelName>contss18_spoiler1</modelName>
+          <modShopLabel>CONTSS18_SPOIL</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
       <linkMods />
       <statMods>
         <Item>
@@ -18774,7 +18774,8 @@
           <modShopLabel>GTR</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
@@ -19228,7 +19229,8 @@
           <modShopLabel>Custom</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -20863,7 +20865,8 @@
           <modShopLabel>GTR-VT6.0</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -20880,7 +20883,8 @@
           <modShopLabel>VT</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -20897,7 +20901,8 @@
           <modShopLabel>SV-SE30-Alpine</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -20952,7 +20957,8 @@
           <modShopLabel>Affolter</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -20969,7 +20975,8 @@
           <modShopLabel>GT1-GT1-1998</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -20986,7 +20993,8 @@
           <modShopLabel>GT2</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -21784,7 +21792,6 @@
           <weight value="5" />
           <type>VMT_GEARBOX</type>
         </Item>
-
         <Item>
           <identifier />
           <modifier value="20" />
@@ -32626,7 +32633,6 @@
           <modShopLabel>MNU_LOU</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
@@ -32643,7 +32649,6 @@
           <modShopLabel>MNU_LOU</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
@@ -32660,7 +32665,6 @@
           <modShopLabel>MNU_LOU</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -32677,7 +32681,6 @@
           <modShopLabel>MNU_LOU</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -40102,7 +40105,8 @@
         <!-- roof mods -->
         <Item>
           <modelName>sav_badge_hd</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels>
             <Item>sav_badge_bt</Item>
             <Item>sav_badge_ds</Item>
@@ -40638,7 +40642,6 @@
           <allowBonnetSlide value="true" />
         </Item>
         <!-- liveries -->
-
         <!-- bumpers and bullbars -->
         <Item>
           <modelName>sav_bumf2</modelName>
@@ -51444,7 +51447,6 @@
           <allowBonnetSlide value="true" />
         </Item>
       </visibleMods>
-
       <linkMods />
       <statMods>
         <Item>
@@ -54266,10 +54268,10 @@
     </Item>
     <Item>
       <kitName>1998_a80_modkit</kitName>
-      <id value="1998" />     
+      <id value="1998" />
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
-      <Item>
+        <Item>
           <modelName>a80_zenki_b</modelName>
           <modShopLabel>a80_zenki_b</modShopLabel>
           <linkedModels />
@@ -54293,7 +54295,7 @@
           <modShopLabel>a80_zenki_s</modShopLabel>
           <linkedModels>
             <Item>a80_zenki_l</Item>
-          </linkedModels> 
+          </linkedModels>
           <turnOffBones>
             <Item>misc_l</Item>
             <Item>misc_s</Item>
@@ -54308,12 +54310,12 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-  <Item>
+        <Item>
           <modelName>momo</modelName>
           <modShopLabel>a80_int</modShopLabel>
           <linkedModels>
             <Item>a80_int</Item>
-          </linkedModels> 
+          </linkedModels>
           <turnOffBones>
             <Item>misc_i</Item>
             <Item>steeringwheel</Item>
@@ -54328,13 +54330,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-  <Item>
+        <Item>
           <modelName>a80_light</modelName>
           <modShopLabel>a80_light</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_g</Item>
-      <Item>misc_h</Item>
+            <Item>misc_h</Item>
           </turnOffBones>
           <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
@@ -54346,7 +54348,7 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-  <Item>
+        <Item>
           <modelName>a80_bumr_1</modelName>
           <modShopLabel>a80_bumr_1</modShopLabel>
           <linkedModels />
@@ -54367,10 +54369,10 @@
           <linkedModels>
             <Item>mr</Item>
             <Item>ml</Item>
-          </linkedModels> 
+          </linkedModels>
           <turnOffBones>
-            <Item>misc_e</Item> 
-            <Item>misc_d</Item> 
+            <Item>misc_e</Item>
+            <Item>misc_d</Item>
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -54382,12 +54384,12 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-         <Item>
+        <Item>
           <modelName>trd_bumper_f</modelName>
           <modShopLabel>trd_bumper_f</modShopLabel>
           <linkedModels>
             <Item>trd_logo</Item>
-          </linkedModels>  
+          </linkedModels>
           <turnOffBones>
             <Item>misc_b</Item>
             <Item>scoop</Item>
@@ -54402,7 +54404,7 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-         <Item>
+        <Item>
           <modelName>varis_bumper_f</modelName>
           <modShopLabel>varis_bumper_f</modShopLabel>
           <linkedModels />
@@ -54421,12 +54423,12 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-         <Item>
+        <Item>
           <modelName>varis_bumper_f</modelName>
           <modShopLabel>ridox_bumper_f</modShopLabel>
           <linkedModels>
             <Item>ridox_c</Item>
-          </linkedModels>  
+          </linkedModels>
           <turnOffBones>
             <Item>misc_b</Item>
             <Item>misc_c</Item>
@@ -54442,13 +54444,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-         <Item>
+        <Item>
           <modelName>varis_bumper_f</modelName>
           <modShopLabel>ridox_bumper_f_2</modShopLabel>
           <linkedModels>
             <Item>ridox_c</Item>
             <Item>line_f</Item>
-          </linkedModels>  
+          </linkedModels>
           <turnOffBones>
             <Item>misc_b</Item>
             <Item>misc_c</Item>
@@ -54464,14 +54466,14 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-         <Item>
+        <Item>
           <modelName>varis</modelName>
           <modShopLabel>varis1</modShopLabel>
           <linkedModels>
             <Item>varis_a</Item>
-          </linkedModels> 
+          </linkedModels>
           <turnOffBones>
-            <Item>misc_a</Item> 
+            <Item>misc_a</Item>
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -54483,15 +54485,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-         <Item>
+        <Item>
           <modelName>varis</modelName>
           <modShopLabel>varis2</modShopLabel>
           <linkedModels>
             <Item>varis_a</Item>
             <Item>ridox_b</Item>
-          </linkedModels> 
+          </linkedModels>
           <turnOffBones>
-            <Item>misc_a</Item> 
+            <Item>misc_a</Item>
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -54503,14 +54505,14 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-         <Item>
+        <Item>
           <modelName>varis</modelName>
           <modShopLabel>ridox1</modShopLabel>
           <linkedModels>
             <Item>ridox_a</Item>
-          </linkedModels> 
+          </linkedModels>
           <turnOffBones>
-            <Item>misc_a</Item> 
+            <Item>misc_a</Item>
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -54522,15 +54524,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-         <Item>
+        <Item>
           <modelName>varis</modelName>
           <modShopLabel>ridox2</modShopLabel>
           <linkedModels>
             <Item>ridox_a</Item>
             <Item>ridox_b</Item>
-          </linkedModels> 
+          </linkedModels>
           <turnOffBones>
-            <Item>misc_a</Item> 
+            <Item>misc_a</Item>
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -54542,16 +54544,16 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-         <Item>
+        <Item>
           <modelName>varis</modelName>
           <modShopLabel>ridox3</modShopLabel>
           <linkedModels>
             <Item>ridox_a</Item>
             <Item>ridox_b</Item>
             <Item>line_m</Item>
-          </linkedModels> 
+          </linkedModels>
           <turnOffBones>
-            <Item>misc_a</Item> 
+            <Item>misc_a</Item>
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -54614,7 +54616,7 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-  <Item>
+        <Item>
           <modelName>varis_bon_1</modelName>
           <modShopLabel>varis_bon_1</modShopLabel>
           <linkedModels />
@@ -54631,7 +54633,7 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-  <Item>
+        <Item>
           <modelName>ridox_bon_1</modelName>
           <modShopLabel>ridox_bon_1</modShopLabel>
           <linkedModels />
@@ -54677,14 +54679,14 @@
             <Item>a80_wrrp_2</Item>
           </linkedModels>
           <turnOffBones>
-            <Item>window_lf</Item> 
+            <Item>window_lf</Item>
             <Item>window_rf</Item>
             <Item>window_lr</Item>
             <Item>window_rr</Item>
             <Item>windscreen_r</Item>
             <Item>misc_j</Item>
-      <Item>a80_wfp_3</Item>
-      <Item>a80_wfp_4</Item>
+            <Item>a80_wfp_3</Item>
+            <Item>a80_wfp_4</Item>
           </turnOffBones>
           <type>VMT_WING_R</type>
           <bone>chassis</bone>
@@ -54708,14 +54710,14 @@
             <Item>a80_wrrp_3</Item>
           </linkedModels>
           <turnOffBones>
-            <Item>window_lf</Item> 
+            <Item>window_lf</Item>
             <Item>window_rf</Item>
             <Item>window_lr</Item>
             <Item>window_rr</Item>
             <Item>windscreen_r</Item>
             <Item>misc_j</Item>
-      <Item>a80_wfp_2</Item>
-      <Item>a80_wfp_4</Item>
+            <Item>a80_wfp_2</Item>
+            <Item>a80_wfp_4</Item>
           </turnOffBones>
           <type>VMT_WING_R</type>
           <bone>chassis</bone>
@@ -54739,14 +54741,14 @@
             <Item>a80_wrrp_4</Item>
           </linkedModels>
           <turnOffBones>
-            <Item>window_lf</Item> 
+            <Item>window_lf</Item>
             <Item>window_rf</Item>
             <Item>window_lr</Item>
             <Item>window_rr</Item>
             <Item>windscreen_r</Item>
             <Item>misc_j</Item>
-      <Item>a80_wfp_3</Item>
-      <Item>a80_wfp_2</Item>
+            <Item>a80_wfp_3</Item>
+            <Item>a80_wfp_2</Item>
           </turnOffBones>
           <type>VMT_WING_R</type>
           <bone>chassis</bone>
@@ -54759,53 +54761,53 @@
           <allowBonnetSlide value="true" />
         </Item>
       </visibleMods>
-  <linkMods>
-  <Item>
+      <linkMods>
+        <Item>
           <modelName>a80_int</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-  <Item>
+        <Item>
           <modelName>line_f</modelName>
           <bone>bumper_f</bone>
           <turnOffExtra value="false" />
         </Item>
-  <Item>
+        <Item>
           <modelName>line_m</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-  <Item>
+        <Item>
           <modelName>mr</modelName>
           <bone>door_pside_f</bone>
           <turnOffExtra value="false" />
         </Item>
-  <Item>
+        <Item>
           <modelName>ml</modelName>
           <bone>door_dside_f</bone>
           <turnOffExtra value="false" />
         </Item>
-  <Item>
+        <Item>
           <modelName>trd_logo</modelName>
           <bone>boot</bone>
           <turnOffExtra value="false" />
         </Item>
-  <Item>
+        <Item>
           <modelName>ridox_c</modelName>
           <bone>bumper_f</bone>
           <turnOffExtra value="false" />
         </Item>
-  <Item>
+        <Item>
           <modelName>ridox_b</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-  <Item>
+        <Item>
           <modelName>ridox_a</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-  <Item>
+        <Item>
           <modelName>varis_a</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
@@ -54905,7 +54907,7 @@
           <bone>door_dside_f</bone>
           <turnOffExtra value="false" />
         </Item>
-  </linkMods>
+      </linkMods>
       <statMods>
         <Item>
           <identifier />
@@ -55435,7 +55437,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName></modelName>
+          <modelName>
+          </modelName>
           <modShopLabel>NO_GRL</modShopLabel>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -61922,7 +61925,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName></modelName>
+          <modelName>
+          </modelName>
           <modShopLabel>NO_HTP</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -62513,7 +62517,8 @@
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
         <Item>
-          <modelName>mustang65_hood_1</modelName> <!-- Cowl Induction w/ livery -->
+          <modelName>mustang65_hood_1</modelName>
+          <!-- Cowl Induction w/ livery -->
           <modShopLabel>GT65_COWL1</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -62530,7 +62535,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>mustang65_hood_2</modelName> <!-- Cowl Induction no livery -->
+          <modelName>mustang65_hood_2</modelName>
+          <!-- Cowl Induction no livery -->
           <modShopLabel>GT65_COWL2</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -62547,7 +62553,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>mustang65_hood_3</modelName> <!-- Ram Air w/ livery -->
+          <modelName>mustang65_hood_3</modelName>
+          <!-- Ram Air w/ livery -->
           <modShopLabel>GT65_RAM1</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -62564,7 +62571,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>mustang65_hood_4</modelName> <!-- Ram Air no livery -->
+          <modelName>mustang65_hood_4</modelName>
+          <!-- Ram Air no livery -->
           <modShopLabel>GT65_RAM2</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -62581,7 +62589,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName> </modelName> <!-- disable side striping -->
+          <modelName>
+          </modelName>
+          <!-- disable side striping -->
           <modShopLabel>GT65_LIVERYDEL</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -70428,7 +70438,6 @@
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
         <!-- Exhuast -->
-
         <Item>
           <modelName>ruiner6str_exha</modelName>
           <modShopLabel>6STR_RUI_EXHA</modShopLabel>
@@ -70619,7 +70628,6 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-
         <!-- Front Bumper -->
         <Item>
           <modelName>ruiner6str_bumf1</modelName>
@@ -70825,9 +70833,7 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-
         <!-- Rear Bumpers -->
-
         <Item>
           <modelName>ruiner6str_bumr1</modelName>
           <modShopLabel>6STR_RUI_BUMR1</modShopLabel>
@@ -70937,9 +70943,7 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-
         <!-- Spoilers -->
-
         <Item>
           <modelName>ruiner6str_spoiler1</modelName>
           <modShopLabel>6STR_RUI_SPOILER1</modShopLabel>
@@ -89573,7 +89577,6 @@
           <modelName>rsv8_mir0</modelName>
           <modShopLabel>nomir</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_rm</Item>
@@ -89593,7 +89596,6 @@
           <modelName>rsv8_mir1</modelName>
           <modShopLabel>mir1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_rm</Item>
@@ -89613,7 +89615,6 @@
           <modelName>rsv8_mir2</modelName>
           <modShopLabel>mir2</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_rm</Item>
@@ -89673,7 +89674,6 @@
           <modelName>rsv8_brace1</modelName>
           <modShopLabel>brace1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_lm</Item>
@@ -89692,7 +89692,6 @@
           <modelName>rsv8_brace2</modelName>
           <modShopLabel>brace2</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_lm</Item>
@@ -89711,7 +89710,6 @@
           <modelName>rsv8_brace3</modelName>
           <modShopLabel>brace3</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_lm</Item>
@@ -89730,7 +89728,6 @@
           <modelName>rsv8_brace4</modelName>
           <modShopLabel>brace4</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_lm</Item>
@@ -89947,7 +89944,6 @@
           <modelName>rsv8_int1</modelName>
           <modShopLabel>StreetInterior</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_c</Item>
@@ -89968,7 +89964,6 @@
           <modelName>rsv8_int2</modelName>
           <modShopLabel>TrackInterior</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_c</Item>
@@ -89989,7 +89984,6 @@
           <modelName>rsv8_int3</modelName>
           <modShopLabel>FormulaDrift</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_c</Item>
@@ -90012,10 +90006,8 @@
           <modelName>rsv8_floormate1</modelName>
           <modShopLabel>WeebFloorMate</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR4</type>
           <bone>chassis</bone>
@@ -90031,10 +90023,8 @@
           <modelName>rsv8_floormate2</modelName>
           <modShopLabel>Checkerboard</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR4</type>
           <bone>chassis</bone>
@@ -90050,10 +90040,8 @@
           <modelName>rsv8_floormate3</modelName>
           <modShopLabel>RedCheckerboard</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR4</type>
           <bone>chassis</bone>
@@ -90069,10 +90057,8 @@
           <modelName>rsv8_floormate4</modelName>
           <modShopLabel>Weeb2</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR4</type>
           <bone>chassis</bone>
@@ -90088,10 +90074,8 @@
           <modelName>rsv8_floormate5</modelName>
           <modShopLabel>GTK</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR4</type>
           <bone>chassis</bone>
@@ -90107,7 +90091,6 @@
           <modelName>rsv8_wheel1</modelName>
           <modShopLabel>Cosmos</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -90126,7 +90109,6 @@
           <modelName>rsv8_wheel2</modelName>
           <modShopLabel>Kazama</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -90145,7 +90127,6 @@
           <modelName>rsv8_wheel3</modelName>
           <modShopLabel>DriftKing</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -90164,7 +90145,6 @@
           <modelName>rsv8_wheel4</modelName>
           <modShopLabel>Wood</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -90183,7 +90163,6 @@
           <modelName>rsv8_wheel5</modelName>
           <modShopLabel>Cloud</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -90202,7 +90181,6 @@
           <modelName>rsv8_wheel6</modelName>
           <modShopLabel>Classic</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -90221,7 +90199,6 @@
           <modelName>rsv8_wheel7</modelName>
           <modShopLabel>Tuner</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -90240,7 +90217,6 @@
           <modelName>rsv8_shiftknob1</modelName>
           <modShopLabel>KatanaShiftKnob</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -90259,7 +90235,6 @@
           <modelName>rsv8_shiftknob2</modelName>
           <modShopLabel>TrackShiftKnob</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -90278,7 +90253,6 @@
           <modelName>rsv8_shiftknob3</modelName>
           <modShopLabel>RaceKnob</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -90297,10 +90271,8 @@
           <modelName>rsv8_rollcage1</modelName>
           <modShopLabel>HarnessBar</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -90316,10 +90288,8 @@
           <modelName>rsv8_rollcage1b</modelName>
           <modShopLabel>HarnessBarp1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -90335,10 +90305,8 @@
           <modelName>rsv8_rollcage2</modelName>
           <modShopLabel>RearOnly</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -90354,10 +90322,8 @@
           <modelName>rsv8_rollcage2b</modelName>
           <modShopLabel>RearOnlyP1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -90373,10 +90339,8 @@
           <modelName>rsv8_rollcage3</modelName>
           <modShopLabel>full</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -90392,10 +90356,8 @@
           <modelName>rsv8_rollcage3b</modelName>
           <modShopLabel>fullP1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -90411,10 +90373,8 @@
           <modelName>rsv8_rollcage4</modelName>
           <modShopLabel>fullDrift</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -90430,10 +90390,8 @@
           <modelName>rsv8_rollcage4b</modelName>
           <modShopLabel>fullDriftP1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -90472,7 +90430,6 @@
             <Item>rsv8_wd1r</Item>
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR3</type>
           <bone>door_dside_f</bone>
@@ -90491,7 +90448,6 @@
             <Item>rsv8_wd2r</Item>
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR3</type>
           <bone>door_dside_f</bone>
@@ -90644,7 +90600,6 @@
           <modShopLabel>RallyFog</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
@@ -90661,7 +90616,6 @@
           <modShopLabel>RallyFog2</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
@@ -91611,7 +91565,6 @@
           <modShopLabel>DragonStar</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS3</type>
           <bone>bumper_r</bone>
@@ -92000,7 +91953,6 @@
           <modelName>rsv8_fender12</modelName>
           <modShopLabel>RemovedFrontWing</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_t</Item>
@@ -92087,7 +92039,8 @@
         </Item>
         <Item>
           <modelName>rsv8_sideskirt1</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
           </turnOffBones>
@@ -92103,7 +92056,8 @@
         </Item>
         <Item>
           <modelName>rsv8_sideskirt2</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_v</Item>
@@ -92120,7 +92074,8 @@
         </Item>
         <Item>
           <modelName>rsv8_sideskirt3</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_v</Item>
@@ -92137,7 +92092,8 @@
         </Item>
         <Item>
           <modelName>rsv8_sideskirt4</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_v</Item>
@@ -92171,10 +92127,10 @@
         </Item>
         <Item>
           <modelName>rsv8_sideext1</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -92188,10 +92144,10 @@
         </Item>
         <Item>
           <modelName>rsv8_sideextension2</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -92205,10 +92161,10 @@
         </Item>
         <Item>
           <modelName>rsv8_sideextension3</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -92222,10 +92178,10 @@
         </Item>
         <Item>
           <modelName>rsv8_sideextension4</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -92261,8 +92217,6 @@
             <Item>rsv8_enginelink1</Item>
           </linkedModels>
           <turnOffBones>
-
-
             <Item>misc_s</Item>
             <Item>misc_i</Item>
           </turnOffBones>
@@ -92285,7 +92239,6 @@
           </linkedModels>
           <turnOffBones>
             <Item>misc_r</Item>
-
             <Item>misc_s</Item>
             <Item>misc_i</Item>
           </turnOffBones>
@@ -92303,7 +92256,6 @@
           <modelName>rsv8_enginebay3</modelName>
           <modShopLabel>DriftChassis</modShopLabel>
           <linkedModels>
-
             <Item>rsv8_enginelink1</Item>
           </linkedModels>
           <turnOffBones>
@@ -92327,7 +92279,6 @@
           <modelName>rsv8_enginebay4</modelName>
           <modShopLabel>DriftChassisP2</modShopLabel>
           <linkedModels>
-
             <Item>rsv8_enginelink1</Item>
           </linkedModels>
           <turnOffBones>
@@ -92352,7 +92303,6 @@
           <modShopLabel>RaceRearWindow</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ICE</type>
           <bone>chassis</bone>
@@ -92369,7 +92319,6 @@
           <modShopLabel>AirVentP1</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ICE</type>
           <bone>chassis</bone>
@@ -92386,7 +92335,6 @@
           <modShopLabel>AirVentC</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ICE</type>
           <bone>chassis</bone>
@@ -92400,7 +92348,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet1</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -92417,7 +92366,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet2</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -92434,7 +92384,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet3</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -92451,7 +92402,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet4</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -92468,7 +92420,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet5</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -92485,7 +92438,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet6</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -92502,7 +92456,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet7</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -92519,10 +92474,10 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet8</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
@@ -92536,7 +92491,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet9</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -92573,7 +92529,6 @@
           <modShopLabel>BigroofSpoiler</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_TRUNK</type>
           <bone>chassis</bone>
@@ -92590,7 +92545,6 @@
           <modShopLabel>RoofSpoiler</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_TRUNK</type>
           <bone>chassis</bone>
@@ -92607,7 +92561,6 @@
           <modShopLabel>Loovers</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_TRUNK</type>
           <bone>chassis</bone>
@@ -92641,7 +92594,6 @@
           <modShopLabel>RoofBar</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -92658,7 +92610,6 @@
           <modShopLabel>RoofCase</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -92675,7 +92626,6 @@
           <modShopLabel>RoofCase</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -92692,7 +92642,6 @@
           <modShopLabel>aero</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -92743,7 +92692,6 @@
           <modShopLabel>DragonStar</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -92923,7 +92871,6 @@
           <modelName>rsv8_headlight2</modelName>
           <modShopLabel>Touring</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_o</Item>
@@ -92943,7 +92890,6 @@
           <modelName>rsv8_headlight3</modelName>
           <modShopLabel>Touring2</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_o</Item>
@@ -92963,7 +92909,6 @@
           <modelName>rsv8_headlight4</modelName>
           <modShopLabel>Touring3</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_o</Item>
@@ -92983,10 +92928,8 @@
           <modelName>rsv8_headlight5</modelName>
           <modShopLabel>eyebrow</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_PLTHOLDER</type>
           <bone>chassis</bone>
@@ -93002,10 +92945,8 @@
           <modelName>rsv8_headlight6</modelName>
           <modShopLabel>eyebrow2</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_PLTHOLDER</type>
           <bone>chassis</bone>
@@ -93021,7 +92962,6 @@
           <modelName>rsv8_headlight7</modelName>
           <modShopLabel>chrome</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>bodyshell</Item>
@@ -93193,7 +93133,6 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-
         <Item>
           <modelName>rsv8_exhaust6</modelName>
           <modShopLabel>Race</modShopLabel>
@@ -95711,7 +95650,6 @@
           <modelName>primod_wind1</modelName>
           <modShopLabel>SULTAN_WIND1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones />
           <type>VMT_DOOR_L</type>
@@ -95810,7 +95748,6 @@
           <modShopLabel>SMOD_DIAL1</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -97695,7 +97632,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -97712,7 +97648,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -97729,7 +97664,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -97746,7 +97680,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -97763,7 +97696,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -97780,7 +97712,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -98216,9 +98147,7 @@
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-
       </linkMods>
-
       <statMods>
         <Item>
           <identifier />
@@ -101323,7 +101252,7 @@
   <Sirens>
     <!-- WiseGuy Crown Vic Sirens -->
     <Item>
-      <id value="437" />
+      <id value="793766" />
       <name>npolvic</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="70.00000000" />
@@ -102094,7 +102023,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="441" />
+      <id value="793766" />
       <name>npolstang</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="70.00000000" />
@@ -102865,7 +102794,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="72" />
+      <id value="793766" />
       <name>bcat</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="70.00000000" />
@@ -103636,7 +103565,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="179" />
+      <id value="793766" />
       <name>LSPD_Unmarked_modern</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="75" />
@@ -104405,7 +104334,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="198" />
+      <id value="793766" />
       <name>Speedo Ambulance</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="90.00000000" />
@@ -105176,7 +105105,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="5401" />
+      <id value="793766" />
       <name>WiseGuyUC</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="90.00000000" />
@@ -105947,7 +105876,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="5402" />
+      <id value="793766" />
       <name>WiseGuyCoach</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="90.00000000" />
@@ -106719,7 +106648,7 @@
     </Item>
     <Item>
       <!-- EMS10 78-->
-      <id value="78" />
+      <id value="793766" />
       <name>Amber_lights</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="35.00000000" />
@@ -116383,11 +116312,16 @@
         <rear value="false" />
       </Item>
     </Item>
-    <Item /> <!-- VWT_MUSCLE -->
-    <Item /> <!-- VWT_BIKE -->
-    <Item /> <!-- VWT_HIEND -->
-    <Item /> <!-- VWT_SUPERMOD1 -->
-    <Item /> <!-- VWT_SUPERMOD2 -->
+    <Item />
+    <!-- VWT_MUSCLE -->
+    <Item />
+    <!-- VWT_BIKE -->
+    <Item />
+    <!-- VWT_HIEND -->
+    <Item />
+    <!-- VWT_SUPERMOD1 -->
+    <Item />
+    <!-- VWT_SUPERMOD2 -->
     <Item />
   </Wheels>
 </CVehicleModelInfoVarGlobal>

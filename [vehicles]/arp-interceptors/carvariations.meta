@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVariation>
   <variationData>
     <Item>
@@ -266,7 +265,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="5" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <!-- WiseGuy Police Vehicles -->
     <Item>
@@ -296,7 +295,7 @@
       <kits>
         <Item>0_default_modkit</Item>
       </kits>
-      <windowsWithExposedEdges/>
+      <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities>
           <Item>
@@ -305,8 +304,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="4"/>
-      <sirenSettings value="437"/>
+      <lightSettings value="4" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>npolvic</modelName>
@@ -423,7 +422,7 @@
         </Item>
       </plateProbabilities>
       <lightSettings value="437" />
-      <sirenSettings value="437" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>npolvette</modelName>
@@ -470,7 +469,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>4072_npolvette_modkit</Item>
+        <Item>2071_npolvette_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -480,7 +479,7 @@
         </Item>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="441" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>npolchal</modelName>
@@ -537,7 +536,7 @@
         </Item>
       </plateProbabilities>
       <lightSettings value="150" />
-      <sirenSettings value="150" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>npolstang</modelName>
@@ -594,7 +593,7 @@
         </Item>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="441" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>polas350</modelName>
@@ -629,7 +628,7 @@
         </Item>
       </plateProbabilities>
       <lightSettings value="18" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>npolcoach</modelName>
@@ -666,7 +665,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="5402" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>bcat</modelName>
@@ -694,7 +693,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="4" />
-      <sirenSettings value="72" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>polnspeedo</modelName>
@@ -735,7 +734,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="179" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>emsnspeedo</modelName>
@@ -776,7 +775,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="437" />
-      <sirenSettings value="198" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Washington -->
@@ -838,7 +837,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="5401" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Banshee -->
@@ -1572,7 +1571,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="17" />
-      <sirenSettings value="5401" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Rancher -->
@@ -2012,7 +2011,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="5401" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Primo -->
@@ -2578,7 +2577,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="40" />
-      <sirenSettings value="5401" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Coquette -->
@@ -3270,7 +3269,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="16" />
-      <sirenSettings value="5401" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Buffalo -->
@@ -3920,7 +3919,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="26" />
-      <sirenSettings value="5401" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Baller -->
@@ -3960,7 +3959,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="57" />
-      <sirenSettings value="5401" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Comet -->
@@ -4610,7 +4609,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="70" />
-      <sirenSettings value="5401" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>polfegway</modelName>
@@ -4649,7 +4648,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="13" />
-      <sirenSettings value="5401" />
+      <sirenSettings value="793766" />
     </Item>
     <!-- WiseGuy Police Vehicles End -->
     <!-- WiseGuy EMS Vehicles -->
@@ -4681,7 +4680,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="4" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!--EMSV-->
@@ -4711,7 +4710,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="78" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>emsaw139</modelName>
@@ -4748,14 +4747,14 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="18" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <!-- WiseGuy EMS Vehicles End -->
     <!-- Tuner Shop Vehicles -->
     <Item>
       <modelName>db11</modelName>
       <colors>
-	<Item>
+        <Item>
           <indices content="char_array">
             72
             36
@@ -4809,7 +4808,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="700" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>tsgr20</modelName>
@@ -4956,7 +4955,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2021" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>deluxo2</modelName>
@@ -5055,7 +5054,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>deluxo6str</modelName>
@@ -5154,7 +5153,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>SENNA</modelName>
@@ -5263,7 +5262,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="689" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>asbo2</modelName>
@@ -5382,7 +5381,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="152" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>infernus2custom</modelName>
@@ -5421,7 +5420,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="110001" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>trailersmall</modelName>
@@ -5475,7 +5474,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>monroec</modelName>
@@ -5503,7 +5502,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>z190custom</modelName>
@@ -5636,7 +5635,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>r8v10</modelName>
@@ -5925,7 +5924,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="58" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>v242</modelName>
@@ -5999,7 +5998,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>720s</modelName>
@@ -6090,7 +6089,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="93" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>golfp</modelName>
@@ -6127,7 +6126,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>c63</modelName>
@@ -6164,7 +6163,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="11255" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>m4</modelName>
@@ -6201,7 +6200,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1528" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>rudiharley</modelName>
@@ -6262,7 +6261,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="12" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>zx10</modelName>
@@ -6299,7 +6298,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>300zw</modelName>
@@ -6338,7 +6337,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="835" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>bluecunt</modelName>
@@ -6375,7 +6374,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>filthynsx</modelName>
@@ -6414,7 +6413,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="63696" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>m5e60</modelName>
@@ -6451,7 +6450,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>500gtrlam</modelName>
@@ -6488,7 +6487,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="959" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>wraith</modelName>
@@ -6525,7 +6524,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="182" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>evo9</modelName>
@@ -6562,7 +6561,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="45" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>fc3s</modelName>
@@ -6599,7 +6598,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>m235</modelName>
@@ -6636,7 +6635,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>er34</modelName>
@@ -6673,7 +6672,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>m3e46</modelName>
@@ -6710,7 +6709,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>MBW124</modelName>
@@ -6749,7 +6748,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>esv</modelName>
@@ -6781,7 +6780,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>nis13</modelName>
@@ -6820,7 +6819,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="897" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>lwlp670</modelName>
@@ -6858,7 +6857,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="953" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>DC5</modelName>
@@ -6895,7 +6894,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1239" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>granlb</modelName>
@@ -6932,7 +6931,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="998" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>eclipse</modelName>
@@ -6969,7 +6968,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>r35</modelName>
@@ -7024,7 +7023,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>gtr</modelName>
@@ -7110,7 +7109,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="656" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>tempesta2</modelName>
@@ -7327,7 +7326,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="907" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>por930</modelName>
@@ -7467,7 +7466,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>na1</modelName>
@@ -7594,7 +7593,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="667" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>gtrc</modelName>
@@ -7631,7 +7630,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="137" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>raid</modelName>
@@ -7884,7 +7883,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>cp9a</modelName>
@@ -7987,7 +7986,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1008" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>e36prb</modelName>
@@ -8024,7 +8023,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>mig</modelName>
@@ -8079,7 +8078,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>z32</modelName>
@@ -8158,7 +8157,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1115" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>gt2rwb</modelName>
@@ -8190,7 +8189,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>BC</modelName>
@@ -8311,7 +8310,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1116" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <!-- Tuner Shop Vehicles End -->
     <!-- Fast Lane Vehicles -->
@@ -8345,7 +8344,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="867" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>c7</modelName>
@@ -8382,7 +8381,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="998" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>na6</modelName>
@@ -8419,7 +8418,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1247" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>r1</modelName>
@@ -8456,7 +8455,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>audirs6tk</modelName>
@@ -8490,7 +8489,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="492" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>demon</modelName>
@@ -8635,7 +8634,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="438" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>mustang19</modelName>
@@ -8780,7 +8779,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="4" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>rcf</modelName>
@@ -8817,7 +8816,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="646" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>gt63</modelName>
@@ -8854,7 +8853,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="11233" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>s14boss</modelName>
@@ -8891,7 +8890,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>FK8</modelName>
@@ -8928,7 +8927,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1239" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>exor</modelName>
@@ -8985,7 +8984,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>focusrs</modelName>
@@ -9019,7 +9018,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="999" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>lp670</modelName>
@@ -9057,7 +9056,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="953" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>srt8b</modelName>
@@ -9094,7 +9093,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="979" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>fnfrx7</modelName>
@@ -9131,7 +9130,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1249" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>gt3rs</modelName>
@@ -9222,7 +9221,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="912" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>f150</modelName>
@@ -9259,7 +9258,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>panamera17turbo</modelName>
@@ -9302,7 +9301,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="168" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>s15rb</modelName>
@@ -9441,7 +9440,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="665" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>z2879</modelName>
@@ -9581,7 +9580,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>CONTSS18</modelName>
@@ -9739,7 +9738,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>bdragon</modelName>
@@ -9897,7 +9896,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>delsoleg</modelName>
@@ -10024,7 +10023,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>a80</modelName>
@@ -10163,7 +10162,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="657" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>subwrx</modelName>
@@ -10392,7 +10391,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="979" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>rmodmustang</modelName>
@@ -10429,7 +10428,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1524" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>rx7rb</modelName>
@@ -10478,7 +10477,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="43" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>2015polstang</modelName>
@@ -10636,7 +10635,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="1" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>lp700r</modelName>
@@ -10901,7 +10900,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="924" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>czl1</modelName>
@@ -10992,7 +10991,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>911rwb</modelName>
@@ -11024,7 +11023,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="999" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>evo10</modelName>
@@ -11289,7 +11288,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>lwgtr</modelName>
@@ -11590,7 +11589,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>lwgtr2</modelName>
@@ -11879,7 +11878,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>e46</modelName>
@@ -12042,7 +12041,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="946" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>ap2</modelName>
@@ -12271,7 +12270,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="968" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>911turbos</modelName>
@@ -12308,7 +12307,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>370z</modelName>
@@ -12561,7 +12560,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>66fastback</modelName>
@@ -12771,7 +12770,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>ACS8</modelName>
@@ -12862,7 +12861,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>510</modelName>
@@ -12900,7 +12899,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>fnf4r34</modelName>
@@ -13117,7 +13116,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="107" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>2f2fgtr34</modelName>
@@ -13154,7 +13153,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>ff4wrx</modelName>
@@ -13191,7 +13190,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <!-- Fast Lane Vehicles End -->
     <!-- Heist Cars Start -->
@@ -13320,7 +13319,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="998" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>laferrari17</modelName>
@@ -13357,7 +13356,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>918</modelName>
@@ -13416,7 +13415,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="918" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>zondar</modelName>
@@ -13453,7 +13452,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>regera</modelName>
@@ -13508,7 +13507,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="934" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <!-- Heist Cars End -->
     <!-- WiseGuy Variation Data -->
@@ -13550,7 +13549,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Karin Futo -->
@@ -13588,7 +13587,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Bravado Gauntlet -->
@@ -13627,7 +13626,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="65" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR BF Ladybird -->
@@ -13667,7 +13666,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Imponte Ruiner -->
@@ -13705,7 +13704,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="601" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Benefactor Schwartzer -->
@@ -13743,7 +13742,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Ubermacht Sentinel Classic -->
@@ -13781,7 +13780,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="9021" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Declasse Yosemite -->
@@ -13822,7 +13821,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Annis ZR380 -->
@@ -13862,7 +13861,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Declasse Drift Tampa V3 -->
@@ -13912,7 +13911,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="100" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Declasse Drift Tampa V2 -->
@@ -13962,7 +13961,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="100" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Maibatsu Revolution -->
@@ -14012,7 +14011,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Widebody Maibatsu Revolution -->
@@ -14062,7 +14061,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Pfister Comet -->
@@ -14112,7 +14111,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="212" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Ubermacht Sentinel -->
@@ -14162,7 +14161,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="213" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Deathbike -->
@@ -14202,7 +14201,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Lampadati Pigalle -->
@@ -14240,7 +14239,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="88" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- HOA Coil Brawler -->
@@ -14278,7 +14277,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="94" />
-      <sirenSettings value="10" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Tessa's Ubermacht Oracle -->
@@ -14318,7 +14317,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="35" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>dilettante3</modelName>
@@ -14379,7 +14378,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Payne Real Estate Benefactor Schafter -->
@@ -14419,7 +14418,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="45" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Dabcoin Pfister Neon -->
@@ -14459,7 +14458,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="121" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Neon Fix -->
@@ -14499,7 +14498,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="121" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Merryweather Declasse Granger -->
@@ -14561,7 +14560,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="23" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Vanilla Unicorn Dundreary Stretch Limo -->
@@ -14623,7 +14622,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Vanilla Unicorn Albany Washington -->
@@ -14685,7 +14684,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- 6STR Vapid Hustler -->
@@ -14716,7 +14715,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Taco Truck -->
@@ -14780,7 +14779,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <!-- VanillaWorks Variation Data -->
     <Item>
@@ -14816,7 +14815,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- V8 Stanley Tractor -->
@@ -14849,7 +14848,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="15" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <!-- Unicycle -->
@@ -14904,7 +14903,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="5" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>patriot2</modelName>
@@ -14942,7 +14941,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>sultanrsv8</modelName>
@@ -14981,7 +14980,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="45" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>stratumc</modelName>
@@ -15013,7 +15012,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="251" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>taxirooster</modelName>
@@ -15074,7 +15073,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>primoard</modelName>
@@ -15153,7 +15152,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="2" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>hellion6str</modelName>
@@ -15235,7 +15234,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>npwheelchair</modelName>
@@ -15275,7 +15274,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <!-- Misc Vehicles -->
     <Item>
@@ -15321,7 +15320,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>tractorc</modelName>
@@ -15333,7 +15332,7 @@
             0
             156
           </indices>
-          <liveries/>
+          <liveries />
         </Item>
         <Item>
           <indices content="char_array">
@@ -15342,7 +15341,7 @@
             0
             156
           </indices>
-          <liveries/>
+          <liveries />
         </Item>
         <Item>
           <indices content="char_array">
@@ -15351,7 +15350,7 @@
             0
             156
           </indices>
-          <liveries/>
+          <liveries />
         </Item>
         <Item>
           <indices content="char_array">
@@ -15360,7 +15359,7 @@
             0
             156
           </indices>
-          <liveries/>
+          <liveries />
         </Item>
         <Item>
           <indices content="char_array">
@@ -15369,7 +15368,7 @@
             0
             156
           </indices>
-          <liveries/>
+          <liveries />
         </Item>
         <Item>
           <indices content="char_array">
@@ -15378,7 +15377,7 @@
             0
             156
           </indices>
-          <liveries/>
+          <liveries />
         </Item>
         <Item>
           <indices content="char_array">
@@ -15387,7 +15386,7 @@
             0
             156
           </indices>
-          <liveries/>
+          <liveries />
         </Item>
         <Item>
           <indices content="char_array">
@@ -15396,7 +15395,7 @@
             0
             156
           </indices>
-          <liveries/>
+          <liveries />
         </Item>
       </colors>
       <kits>
@@ -15415,8 +15414,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="15"/>
-      <sirenSettings value="0"/>
+      <lightSettings value="15" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>newsmav</modelName>
@@ -15439,7 +15438,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="18" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>newsvan</modelName>
@@ -15471,7 +15470,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>BIMX</modelName>
@@ -15611,7 +15610,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="5" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>kart</modelName>
@@ -15661,7 +15660,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>skart</modelName>
@@ -15684,7 +15683,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>chillybin</modelName>
@@ -15711,7 +15710,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <Item>
       <modelName>savanna</modelName>
@@ -16078,7 +16077,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="793766" />
     </Item>
     <!-- Temp Start -->
     <Item>
@@ -16094,48 +16093,48 @@
             0
           </indices>
           <liveries>
-            <Item value="true"/>
-            <Item value="true"/>
-            <Item value="true"/>
-            <Item value="true"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
-            <Item value="false"/>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
           </liveries>
         </Item>
       </colors>
       <kits>
         <Item>0_default_modkit</Item>
       </kits>
-      <windowsWithExposedEdges/>
+      <windowsWithExposedEdges />
       <plateProbabilities>
-        <Probabilities/>
+        <Probabilities />
       </plateProbabilities>
-      <lightSettings value="18"/>
-      <sirenSettings value="0"/>
+      <lightSettings value="18" />
+      <sirenSettings value="793766" />
     </Item>
     <!-- Temp End -->
   </variationData>

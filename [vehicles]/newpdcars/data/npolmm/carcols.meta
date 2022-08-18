@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal>
   <Kits>
     <!-- WiseGuy S Class Modkit -->
@@ -21752,7 +21752,8 @@
           <modShopLabel>GTR</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
@@ -22206,7 +22207,8 @@
           <modShopLabel>Custom</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -23841,7 +23843,8 @@
           <modShopLabel>GTR-VT6.0</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -23858,7 +23861,8 @@
           <modShopLabel>VT</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -23875,7 +23879,8 @@
           <modShopLabel>SV-SE30-Alpine</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -23930,7 +23935,8 @@
           <modShopLabel>Affolter</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -23947,7 +23953,8 @@
           <modShopLabel>GT1-GT1-1998</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -23964,7 +23971,8 @@
           <modShopLabel>GT2</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item></Item>
+            <Item>
+            </Item>
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -24762,7 +24770,6 @@
           <weight value="5" />
           <type>VMT_GEARBOX</type>
         </Item>
-
         <Item>
           <identifier />
           <modifier value="20" />
@@ -35604,7 +35611,6 @@
           <modShopLabel>MNU_LOU</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
@@ -35621,7 +35627,6 @@
           <modShopLabel>MNU_LOU</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
@@ -35638,7 +35643,6 @@
           <modShopLabel>MNU_LOU</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -35655,7 +35659,6 @@
           <modShopLabel>MNU_LOU</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -43080,7 +43083,8 @@
         <!-- roof mods -->
         <Item>
           <modelName>sav_badge_hd</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels>
             <Item>sav_badge_bt</Item>
             <Item>sav_badge_ds</Item>
@@ -43616,7 +43620,6 @@
           <allowBonnetSlide value="true" />
         </Item>
         <!-- liveries -->
-
         <!-- bumpers and bullbars -->
         <Item>
           <modelName>sav_bumf2</modelName>
@@ -54422,7 +54425,6 @@
           <allowBonnetSlide value="true" />
         </Item>
       </visibleMods>
-
       <linkMods />
       <statMods>
         <Item>
@@ -58230,7 +58232,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName></modelName>
+          <modelName>
+          </modelName>
           <modShopLabel>NO_GRL</modShopLabel>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -64717,7 +64720,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName></modelName>
+          <modelName>
+          </modelName>
           <modShopLabel>NO_HTP</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -65308,7 +65312,8 @@
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
         <Item>
-          <modelName>mustang65_hood_1</modelName> <!-- Cowl Induction w/ livery -->
+          <modelName>mustang65_hood_1</modelName>
+          <!-- Cowl Induction w/ livery -->
           <modShopLabel>GT65_COWL1</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -65325,7 +65330,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>mustang65_hood_2</modelName> <!-- Cowl Induction no livery -->
+          <modelName>mustang65_hood_2</modelName>
+          <!-- Cowl Induction no livery -->
           <modShopLabel>GT65_COWL2</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -65342,7 +65348,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>mustang65_hood_3</modelName> <!-- Ram Air w/ livery -->
+          <modelName>mustang65_hood_3</modelName>
+          <!-- Ram Air w/ livery -->
           <modShopLabel>GT65_RAM1</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -65359,7 +65366,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>mustang65_hood_4</modelName> <!-- Ram Air no livery -->
+          <modelName>mustang65_hood_4</modelName>
+          <!-- Ram Air no livery -->
           <modShopLabel>GT65_RAM2</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -65376,7 +65384,9 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName> </modelName> <!-- disable side striping -->
+          <modelName>
+          </modelName>
+          <!-- disable side striping -->
           <modShopLabel>GT65_LIVERYDEL</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -73479,7 +73489,6 @@
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
         <!-- Exhuast -->
-
         <Item>
           <modelName>ruiner6str_exha</modelName>
           <modShopLabel>6STR_RUI_EXHA</modShopLabel>
@@ -73670,7 +73679,6 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-
         <!-- Front Bumper -->
         <Item>
           <modelName>ruiner6str_bumf1</modelName>
@@ -73876,9 +73884,7 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-
         <!-- Rear Bumpers -->
-
         <Item>
           <modelName>ruiner6str_bumr1</modelName>
           <modShopLabel>6STR_RUI_BUMR1</modShopLabel>
@@ -73988,9 +73994,7 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-
         <!-- Spoilers -->
-
         <Item>
           <modelName>ruiner6str_spoiler1</modelName>
           <modShopLabel>6STR_RUI_SPOILER1</modShopLabel>
@@ -92624,7 +92628,6 @@
           <modelName>rsv8_mir0</modelName>
           <modShopLabel>nomir</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_rm</Item>
@@ -92644,7 +92647,6 @@
           <modelName>rsv8_mir1</modelName>
           <modShopLabel>mir1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_rm</Item>
@@ -92664,7 +92666,6 @@
           <modelName>rsv8_mir2</modelName>
           <modShopLabel>mir2</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_rm</Item>
@@ -92724,7 +92725,6 @@
           <modelName>rsv8_brace1</modelName>
           <modShopLabel>brace1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_lm</Item>
@@ -92743,7 +92743,6 @@
           <modelName>rsv8_brace2</modelName>
           <modShopLabel>brace2</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_lm</Item>
@@ -92762,7 +92761,6 @@
           <modelName>rsv8_brace3</modelName>
           <modShopLabel>brace3</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_lm</Item>
@@ -92781,7 +92779,6 @@
           <modelName>rsv8_brace4</modelName>
           <modShopLabel>brace4</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>window_lm</Item>
@@ -92998,7 +92995,6 @@
           <modelName>rsv8_int1</modelName>
           <modShopLabel>StreetInterior</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_c</Item>
@@ -93019,7 +93015,6 @@
           <modelName>rsv8_int2</modelName>
           <modShopLabel>TrackInterior</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_c</Item>
@@ -93040,7 +93035,6 @@
           <modelName>rsv8_int3</modelName>
           <modShopLabel>FormulaDrift</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_c</Item>
@@ -93063,10 +93057,8 @@
           <modelName>rsv8_floormate1</modelName>
           <modShopLabel>WeebFloorMate</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR4</type>
           <bone>chassis</bone>
@@ -93082,10 +93074,8 @@
           <modelName>rsv8_floormate2</modelName>
           <modShopLabel>Checkerboard</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR4</type>
           <bone>chassis</bone>
@@ -93101,10 +93091,8 @@
           <modelName>rsv8_floormate3</modelName>
           <modShopLabel>RedCheckerboard</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR4</type>
           <bone>chassis</bone>
@@ -93120,10 +93108,8 @@
           <modelName>rsv8_floormate4</modelName>
           <modShopLabel>Weeb2</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR4</type>
           <bone>chassis</bone>
@@ -93139,10 +93125,8 @@
           <modelName>rsv8_floormate5</modelName>
           <modShopLabel>GTK</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR4</type>
           <bone>chassis</bone>
@@ -93158,7 +93142,6 @@
           <modelName>rsv8_wheel1</modelName>
           <modShopLabel>Cosmos</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -93177,7 +93160,6 @@
           <modelName>rsv8_wheel2</modelName>
           <modShopLabel>Kazama</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -93196,7 +93178,6 @@
           <modelName>rsv8_wheel3</modelName>
           <modShopLabel>DriftKing</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -93215,7 +93196,6 @@
           <modelName>rsv8_wheel4</modelName>
           <modShopLabel>Wood</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -93234,7 +93214,6 @@
           <modelName>rsv8_wheel5</modelName>
           <modShopLabel>Cloud</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -93253,7 +93232,6 @@
           <modelName>rsv8_wheel6</modelName>
           <modShopLabel>Classic</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -93272,7 +93250,6 @@
           <modelName>rsv8_wheel7</modelName>
           <modShopLabel>Tuner</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>steeringwheel</Item>
@@ -93291,7 +93268,6 @@
           <modelName>rsv8_shiftknob1</modelName>
           <modShopLabel>KatanaShiftKnob</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -93310,7 +93286,6 @@
           <modelName>rsv8_shiftknob2</modelName>
           <modShopLabel>TrackShiftKnob</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -93329,7 +93304,6 @@
           <modelName>rsv8_shiftknob3</modelName>
           <modShopLabel>RaceKnob</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -93348,10 +93322,8 @@
           <modelName>rsv8_rollcage1</modelName>
           <modShopLabel>HarnessBar</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -93367,10 +93339,8 @@
           <modelName>rsv8_rollcage1b</modelName>
           <modShopLabel>HarnessBarp1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -93386,10 +93356,8 @@
           <modelName>rsv8_rollcage2</modelName>
           <modShopLabel>RearOnly</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -93405,10 +93373,8 @@
           <modelName>rsv8_rollcage2b</modelName>
           <modShopLabel>RearOnlyP1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -93424,10 +93390,8 @@
           <modelName>rsv8_rollcage3</modelName>
           <modShopLabel>full</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -93443,10 +93407,8 @@
           <modelName>rsv8_rollcage3b</modelName>
           <modShopLabel>fullP1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -93462,10 +93424,8 @@
           <modelName>rsv8_rollcage4</modelName>
           <modShopLabel>fullDrift</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -93481,10 +93441,8 @@
           <modelName>rsv8_rollcage4b</modelName>
           <modShopLabel>fullDriftP1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
@@ -93523,7 +93481,6 @@
             <Item>rsv8_wd1r</Item>
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR3</type>
           <bone>door_dside_f</bone>
@@ -93542,7 +93499,6 @@
             <Item>rsv8_wd2r</Item>
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_INTERIOR3</type>
           <bone>door_dside_f</bone>
@@ -93695,7 +93651,6 @@
           <modShopLabel>RallyFog</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
@@ -93712,7 +93667,6 @@
           <modShopLabel>RallyFog2</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>chassis</bone>
@@ -94662,7 +94616,6 @@
           <modShopLabel>DragonStar</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_CHASSIS3</type>
           <bone>bumper_r</bone>
@@ -95051,7 +95004,6 @@
           <modelName>rsv8_fender12</modelName>
           <modShopLabel>RemovedFrontWing</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_t</Item>
@@ -95138,7 +95090,8 @@
         </Item>
         <Item>
           <modelName>rsv8_sideskirt1</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
           </turnOffBones>
@@ -95154,7 +95107,8 @@
         </Item>
         <Item>
           <modelName>rsv8_sideskirt2</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_v</Item>
@@ -95171,7 +95125,8 @@
         </Item>
         <Item>
           <modelName>rsv8_sideskirt3</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_v</Item>
@@ -95188,7 +95143,8 @@
         </Item>
         <Item>
           <modelName>rsv8_sideskirt4</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_v</Item>
@@ -95222,10 +95178,10 @@
         </Item>
         <Item>
           <modelName>rsv8_sideext1</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -95239,10 +95195,10 @@
         </Item>
         <Item>
           <modelName>rsv8_sideextension2</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -95256,10 +95212,10 @@
         </Item>
         <Item>
           <modelName>rsv8_sideextension3</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -95273,10 +95229,10 @@
         </Item>
         <Item>
           <modelName>rsv8_sideextension4</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -95312,8 +95268,6 @@
             <Item>rsv8_enginelink1</Item>
           </linkedModels>
           <turnOffBones>
-
-
             <Item>misc_s</Item>
             <Item>misc_i</Item>
           </turnOffBones>
@@ -95336,7 +95290,6 @@
           </linkedModels>
           <turnOffBones>
             <Item>misc_r</Item>
-
             <Item>misc_s</Item>
             <Item>misc_i</Item>
           </turnOffBones>
@@ -95354,7 +95307,6 @@
           <modelName>rsv8_enginebay3</modelName>
           <modShopLabel>DriftChassis</modShopLabel>
           <linkedModels>
-
             <Item>rsv8_enginelink1</Item>
           </linkedModels>
           <turnOffBones>
@@ -95378,7 +95330,6 @@
           <modelName>rsv8_enginebay4</modelName>
           <modShopLabel>DriftChassisP2</modShopLabel>
           <linkedModels>
-
             <Item>rsv8_enginelink1</Item>
           </linkedModels>
           <turnOffBones>
@@ -95403,7 +95354,6 @@
           <modShopLabel>RaceRearWindow</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ICE</type>
           <bone>chassis</bone>
@@ -95420,7 +95370,6 @@
           <modShopLabel>AirVentP1</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ICE</type>
           <bone>chassis</bone>
@@ -95437,7 +95386,6 @@
           <modShopLabel>AirVentC</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ICE</type>
           <bone>chassis</bone>
@@ -95451,7 +95399,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet1</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -95468,7 +95417,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet2</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -95485,7 +95435,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet3</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -95502,7 +95453,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet4</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -95519,7 +95471,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet5</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -95536,7 +95489,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet6</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -95553,7 +95507,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet7</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -95570,10 +95525,10 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet8</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
@@ -95587,7 +95542,8 @@
         </Item>
         <Item>
           <modelName>rsv8_bonnet9</modelName>
-          <modShopLabel></modShopLabel>
+          <modShopLabel>
+          </modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -95624,7 +95580,6 @@
           <modShopLabel>BigroofSpoiler</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_TRUNK</type>
           <bone>chassis</bone>
@@ -95641,7 +95596,6 @@
           <modShopLabel>RoofSpoiler</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_TRUNK</type>
           <bone>chassis</bone>
@@ -95658,7 +95612,6 @@
           <modShopLabel>Loovers</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_TRUNK</type>
           <bone>chassis</bone>
@@ -95692,7 +95645,6 @@
           <modShopLabel>RoofBar</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -95709,7 +95661,6 @@
           <modShopLabel>RoofCase</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -95726,7 +95677,6 @@
           <modShopLabel>RoofCase</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -95743,7 +95693,6 @@
           <modShopLabel>aero</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -95794,7 +95743,6 @@
           <modShopLabel>DragonStar</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
@@ -95974,7 +95922,6 @@
           <modelName>rsv8_headlight2</modelName>
           <modShopLabel>Touring</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_o</Item>
@@ -95994,7 +95941,6 @@
           <modelName>rsv8_headlight3</modelName>
           <modShopLabel>Touring2</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_o</Item>
@@ -96014,7 +95960,6 @@
           <modelName>rsv8_headlight4</modelName>
           <modShopLabel>Touring3</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>misc_o</Item>
@@ -96034,10 +95979,8 @@
           <modelName>rsv8_headlight5</modelName>
           <modShopLabel>eyebrow</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_PLTHOLDER</type>
           <bone>chassis</bone>
@@ -96053,10 +95996,8 @@
           <modelName>rsv8_headlight6</modelName>
           <modShopLabel>eyebrow2</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_PLTHOLDER</type>
           <bone>chassis</bone>
@@ -96072,7 +96013,6 @@
           <modelName>rsv8_headlight7</modelName>
           <modShopLabel>chrome</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones>
             <Item>bodyshell</Item>
@@ -96244,7 +96184,6 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-
         <Item>
           <modelName>rsv8_exhaust6</modelName>
           <modShopLabel>Race</modShopLabel>
@@ -98762,7 +98701,6 @@
           <modelName>primod_wind1</modelName>
           <modShopLabel>SULTAN_WIND1</modShopLabel>
           <linkedModels>
-
           </linkedModels>
           <turnOffBones />
           <type>VMT_DOOR_L</type>
@@ -98861,7 +98799,6 @@
           <modShopLabel>SMOD_DIAL1</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
@@ -100746,7 +100683,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -100763,7 +100699,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -100780,7 +100715,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -100797,7 +100731,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -100814,7 +100747,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -100831,7 +100763,6 @@
           <modShopLabel>PMO_DBG</modShopLabel>
           <linkedModels />
           <turnOffBones>
-
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
@@ -101267,9 +101198,7 @@
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-
       </linkMods>
-
       <statMods>
         <Item>
           <identifier />
@@ -103804,7 +103733,7 @@
       <id value="9445" />
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
-	  	<Item>
+        <Item>
           <modelName>penum2_liv1</modelName>
           <modShopLabel>PEN2_LIV1</modShopLabel>
           <linkedModels />
@@ -103818,8 +103747,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item>
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv2</modelName>
           <modShopLabel>PEN2_LIV2</modShopLabel>
           <linkedModels />
@@ -103833,8 +103762,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item>
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv3</modelName>
           <modShopLabel>PEN2_LIV3</modShopLabel>
           <linkedModels />
@@ -103848,8 +103777,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item> 		
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv4</modelName>
           <modShopLabel>PEN2_LIV4</modShopLabel>
           <linkedModels />
@@ -103863,8 +103792,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item> 		
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv5</modelName>
           <modShopLabel>PEN2_LIV5</modShopLabel>
           <linkedModels />
@@ -103878,8 +103807,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item> 		
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv6</modelName>
           <modShopLabel>PEN2_LIV6</modShopLabel>
           <linkedModels />
@@ -103893,8 +103822,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item> 		
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv7</modelName>
           <modShopLabel>PEN2_LIV7</modShopLabel>
           <linkedModels />
@@ -103908,8 +103837,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item> 		
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv8</modelName>
           <modShopLabel>PEN2_LIV8</modShopLabel>
           <linkedModels />
@@ -103923,8 +103852,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item> 		
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv9</modelName>
           <modShopLabel>PEN2_LIV9</modShopLabel>
           <linkedModels />
@@ -103938,8 +103867,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item> 		
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv10</modelName>
           <modShopLabel>PEN2_LIV10</modShopLabel>
           <linkedModels />
@@ -103953,8 +103882,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item> 		
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv11</modelName>
           <modShopLabel>PEN2_LIV11</modShopLabel>
           <linkedModels />
@@ -103968,8 +103897,8 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item> 		
-	  	<Item>
+        </Item>
+        <Item>
           <modelName>penum2_liv12</modelName>
           <modShopLabel>PEN2_LIV12</modShopLabel>
           <linkedModels />
@@ -103983,14 +103912,14 @@
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
-         </Item> 		
-       <Item>
+        </Item>
+        <Item>
           <modelName>penum2_hood2</modelName>
           <modShopLabel>PEN2_HOOD1</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104001,13 +103930,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood2a</modelName>
           <modShopLabel>PEN2_HOOD2</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104018,13 +103947,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood2b</modelName>
           <modShopLabel>PEN2_HOOD3</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104035,13 +103964,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood3</modelName>
           <modShopLabel>PEN2_HOOD4</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104052,13 +103981,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood3a</modelName>
           <modShopLabel>PEN2_HOOD5</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104069,13 +103998,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood4</modelName>
           <modShopLabel>PEN2_HOOD6</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104086,13 +104015,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood4a</modelName>
           <modShopLabel>PEN2_HOOD7</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104103,13 +104032,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood5</modelName>
           <modShopLabel>PEN2_HOOD8</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104120,13 +104049,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood5a</modelName>
           <modShopLabel>PEN2_HOOD9</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104137,13 +104066,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood6</modelName>
           <modShopLabel>PEN2_HOOD10</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104154,13 +104083,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood6a</modelName>
           <modShopLabel>PEN2_HOOD11</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104171,13 +104100,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood7</modelName>
           <modShopLabel>PEN2_HOOD12</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104188,13 +104117,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_hood7a</modelName>
           <modShopLabel>PEN2_HOOD13</modShopLabel>
           <linkedModels />
-		  <turnOffBones>
-         	<Item>misc_c</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
           <collisionBone>bonnet</collisionBone>
@@ -104205,13 +104134,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_ex1</modelName>
           <modShopLabel>PEN2_EXIT1</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_a</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
           <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104222,15 +104151,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_ex2</modelName>
           <modShopLabel>PEN2_EXIT2</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_a</Item>
-         	<Item>exhaust</Item>
-         	<Item>exhaust_2</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
           <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104241,15 +104170,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_ex3</modelName>
           <modShopLabel>PEN2_EXIT3</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_a</Item>
-         	<Item>exhaust</Item>
-         	<Item>exhaust_2</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
           <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104260,15 +104189,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_ex4</modelName>
           <modShopLabel>PEN2_EXIT4</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_a</Item>
-         	<Item>exhaust</Item>
-         	<Item>exhaust_2</Item>
-		  </turnOffBones>  
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
           <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104279,15 +104208,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_ex5</modelName>
           <modShopLabel>PEN2_EXIT5</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_a</Item>
-         	<Item>exhaust</Item>
-         	<Item>exhaust_2</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
           <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104298,13 +104227,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_ex6</modelName>
           <modShopLabel>PEN2_EXIT6</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_a</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
           <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104315,13 +104244,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_ex7</modelName>
           <modShopLabel>PEN2_EXIT7</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_a</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
           <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104332,13 +104261,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_ex8</modelName>
           <modShopLabel>PEN2_EXIT8</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_a</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
           <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104349,13 +104278,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_ex9</modelName>
           <modShopLabel>PEN2_EXIT9</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_a</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
           <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104366,13 +104295,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_bumf1</modelName>
           <modShopLabel>PEN2_BUMF1</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>bumper_f</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -104383,13 +104312,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_bumf1b</modelName>
           <modShopLabel>PEN2_BUMF2</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>bumper_f</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -104400,13 +104329,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_bumf2</modelName>
           <modShopLabel>PEN2_BUMF3</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>bumper_f</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -104417,13 +104346,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_bumf4</modelName>
           <modShopLabel>PEN2_BUMF4</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>bumper_f</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -104434,13 +104363,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_bumf5</modelName>
           <modShopLabel>PEN2_BUMF5</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>bumper_f</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -104451,13 +104380,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_bumf6</modelName>
           <modShopLabel>PEN2_BUMF6</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>bumper_f</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -104468,13 +104397,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_bumf7</modelName>
           <modShopLabel>PEN2_BUMF7</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>bumper_f</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -104485,13 +104414,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_bumf8</modelName>
           <modShopLabel>PEN2_BUMF8</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>bumper_f</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -104502,13 +104431,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_bumf9</modelName>
           <modShopLabel>PEN2_BUMF9</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>bumper_f</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -104519,13 +104448,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_bumf10</modelName>
           <modShopLabel>PEN2_BUMF10</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>bumper_f</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -104536,11 +104465,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing10</modelName>
           <modShopLabel>PEN2_WING19</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_3</collisionBone>
@@ -104551,11 +104480,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing10a</modelName>
           <modShopLabel>PEN2_WING20</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_3</collisionBone>
@@ -104566,11 +104495,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing11</modelName>
           <modShopLabel>PEN2_WING21</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_3</collisionBone>
@@ -104581,11 +104510,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing11a</modelName>
           <modShopLabel>PEN2_WING22</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_3</collisionBone>
@@ -104596,11 +104525,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing1</modelName>
           <modShopLabel>PEN2_WING1</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_6</collisionBone>
@@ -104611,11 +104540,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing1a</modelName>
           <modShopLabel>PEN2_WING2</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_6</collisionBone>
@@ -104626,11 +104555,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing2</modelName>
           <modShopLabel>PEN2_WING3</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_5</collisionBone>
@@ -104641,11 +104570,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing2a</modelName>
           <modShopLabel>PEN2_WING4</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_5</collisionBone>
@@ -104656,11 +104585,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing3</modelName>
           <modShopLabel>PEN2_WING5</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_1</collisionBone>
@@ -104671,11 +104600,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing3a</modelName>
           <modShopLabel>PEN2_WING6</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_1</collisionBone>
@@ -104686,11 +104615,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing4</modelName>
           <modShopLabel>PEN2_WING7</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_4</collisionBone>
@@ -104701,11 +104630,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing4a</modelName>
           <modShopLabel>PEN2_WING8</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_4</collisionBone>
@@ -104716,11 +104645,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing5</modelName>
           <modShopLabel>PEN2_WING9</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_1</collisionBone>
@@ -104731,11 +104660,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing5a</modelName>
           <modShopLabel>PEN2_WING10</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_1</collisionBone>
@@ -104746,11 +104675,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing6</modelName>
           <modShopLabel>PEN2_WING11</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_7</collisionBone>
@@ -104761,11 +104690,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing6a</modelName>
           <modShopLabel>PEN2_WING12</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_7</collisionBone>
@@ -104776,11 +104705,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing7</modelName>
           <modShopLabel>PEN2_WING13</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_2</collisionBone>
@@ -104791,11 +104720,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing7a</modelName>
           <modShopLabel>PEN2_WING14</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>boot</bone>
           <collisionBone>mod_col_2</collisionBone>
@@ -104806,11 +104735,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing8</modelName>
           <modShopLabel>PEN2_WING15</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>chassis</bone>
           <collisionBone>mod_col_8</collisionBone>
@@ -104821,11 +104750,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing8a</modelName>
           <modShopLabel>PEN2_WING16</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>chassis</bone>
           <collisionBone>mod_col_8</collisionBone>
@@ -104836,11 +104765,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing9</modelName>
           <modShopLabel>PEN2_WING17</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>chassis</bone>
           <collisionBone>mod_col_8</collisionBone>
@@ -104851,10 +104780,10 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_wing9a</modelName>
           <modShopLabel>PEN2_WING18</modShopLabel>
-		  <turnOffBones/>
+          <turnOffBones />
           <type>VMT_SPOILER</type>
           <bone>chassis</bone>
           <collisionBone>mod_col_8</collisionBone>
@@ -104865,11 +104794,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_sust1</modelName>
           <modShopLabel>PEN2_SUST1</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104880,11 +104809,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_sust2</modelName>
           <modShopLabel>PEN2_SUST2</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104895,11 +104824,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_sust3</modelName>
           <modShopLabel>PEN2_SUST3</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104910,11 +104839,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_sust4</modelName>
           <modShopLabel>PEN2_SUST4</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_WING_L</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104925,11 +104854,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_roof1</modelName>
           <modShopLabel>PEN2_ROOF1</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104940,11 +104869,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_roof1a</modelName>
           <modShopLabel>PEN2_ROOF2</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104955,11 +104884,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_roof2</modelName>
           <modShopLabel>PEN2_ROOF3</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104970,11 +104899,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_roof2a</modelName>
           <modShopLabel>PEN2_ROOF4</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -104985,13 +104914,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_roof3</modelName>
           <modShopLabel>PEN2_ROOF5</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_l</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_l</Item>
+          </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105002,13 +104931,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_roof4</modelName>
           <modShopLabel>PEN2_ROOF6</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_l</Item>
-		  </turnOffBones>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_l</Item>
+          </turnOffBones>
           <type>VMT_ROOF</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105019,18 +104948,18 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt1</modelName>
-          <modShopLabel>PEN2_SKRT1</modShopLabel> 
+          <modShopLabel>PEN2_SKRT1</modShopLabel>
           <linkedModels>
-         	<Item>penum2_skrt1exd</Item>
-         	<Item>penum2_skrt1exp</Item>
+            <Item>penum2_skrt1exd</Item>
+            <Item>penum2_skrt1exp</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-         	<Item>misc_f</Item>
-         	<Item>misc_g</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_f</Item>
+            <Item>misc_g</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105041,13 +104970,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt2</modelName>
           <modShopLabel>PEN2_SKRT2</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105058,18 +104987,18 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt2a</modelName>
           <modShopLabel>PEN2_SKRT3</modShopLabel>
           <linkedModels>
-         	<Item>penum2_skrt1exd</Item>
-         	<Item>penum2_skrt1exp</Item>
+            <Item>penum2_skrt1exd</Item>
+            <Item>penum2_skrt1exp</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-         	<Item>misc_f</Item>
-         	<Item>misc_g</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_f</Item>
+            <Item>misc_g</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105080,13 +105009,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt3</modelName>
           <modShopLabel>PEN2_SKRT4</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105097,18 +105026,18 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt3a</modelName>
           <modShopLabel>PEN2_SKRT5</modShopLabel>
           <linkedModels>
-         	<Item>penum2_skrt1exd</Item>
-         	<Item>penum2_skrt1exp</Item>
+            <Item>penum2_skrt1exd</Item>
+            <Item>penum2_skrt1exp</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-         	<Item>misc_f</Item>
-         	<Item>misc_g</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_f</Item>
+            <Item>misc_g</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105119,13 +105048,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt4</modelName>
           <modShopLabel>PEN2_SKRT6</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105136,18 +105065,18 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt4a</modelName>
           <modShopLabel>PEN2_SKRT7</modShopLabel>
           <linkedModels>
-         	<Item>penum2_skrt1exd</Item>
-         	<Item>penum2_skrt1exp</Item>
+            <Item>penum2_skrt1exd</Item>
+            <Item>penum2_skrt1exp</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-         	<Item>misc_f</Item>
-         	<Item>misc_g</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_f</Item>
+            <Item>misc_g</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105158,13 +105087,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt5</modelName>
           <modShopLabel>PEN2_SKRT8</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105175,18 +105104,18 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt5a</modelName>
           <modShopLabel>PEN2_SKRT9</modShopLabel>
           <linkedModels>
-         	<Item>penum2_skrt1exd</Item>
-         	<Item>penum2_skrt1exp</Item>
+            <Item>penum2_skrt1exd</Item>
+            <Item>penum2_skrt1exp</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-         	<Item>misc_f</Item>
-         	<Item>misc_g</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_f</Item>
+            <Item>misc_g</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105197,13 +105126,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt6</modelName>
           <modShopLabel>PEN2_SKRT10</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105214,18 +105143,18 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt6a</modelName>
           <modShopLabel>PEN2_SKRT11</modShopLabel>
           <linkedModels>
-         	<Item>penum2_skrt1exd</Item>
-         	<Item>penum2_skrt1exp</Item>
+            <Item>penum2_skrt1exd</Item>
+            <Item>penum2_skrt1exp</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-         	<Item>misc_f</Item>
-         	<Item>misc_g</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_f</Item>
+            <Item>misc_g</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105236,13 +105165,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt7</modelName>
           <modShopLabel>PEN2_SKRT12</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105253,18 +105182,18 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt7a</modelName>
           <modShopLabel>PEN2_SKRT13</modShopLabel>
           <linkedModels>
-         	<Item>penum2_skrt1exd</Item>
-         	<Item>penum2_skrt1exp</Item>
+            <Item>penum2_skrt1exd</Item>
+            <Item>penum2_skrt1exp</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-         	<Item>misc_f</Item>
-         	<Item>misc_g</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_f</Item>
+            <Item>misc_g</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105275,13 +105204,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt8</modelName>
           <modShopLabel>PEN2_SKRT14</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105292,18 +105221,18 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_skrt8a</modelName>
           <modShopLabel>PEN2_SKRT15</modShopLabel>
           <linkedModels>
-         	<Item>penum2_skrt1exd</Item>
-         	<Item>penum2_skrt1exp</Item>
+            <Item>penum2_skrt1exd</Item>
+            <Item>penum2_skrt1exp</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_h</Item>
-         	<Item>misc_f</Item>
-         	<Item>misc_g</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_f</Item>
+            <Item>misc_g</Item>
+          </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105314,13 +105243,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss1</modelName>
           <modShopLabel>PEN2_CHSS1</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105331,13 +105260,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss2</modelName>
           <modShopLabel>PEN2_CHSS2</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105348,13 +105277,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss3</modelName>
           <modShopLabel>PEN2_CHSS3</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105365,13 +105294,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss4</modelName>
           <modShopLabel>PEN2_CHSS4</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105382,15 +105311,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss1</modelName>
           <modShopLabel>PEN2_CHSS5</modShopLabel>
           <linkedModels>
-         	<Item>penum2_cage1</Item>
+            <Item>penum2_cage1</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105401,15 +105330,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss2</modelName>
           <modShopLabel>PEN2_CHSS6</modShopLabel>
           <linkedModels>
-         	<Item>penum2_cage1</Item>
+            <Item>penum2_cage1</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105420,15 +105349,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss3</modelName>
           <modShopLabel>PEN2_CHSS7</modShopLabel>
           <linkedModels>
-         	<Item>penum2_cage1</Item>
+            <Item>penum2_cage1</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105439,15 +105368,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss4</modelName>
           <modShopLabel>PEN2_CHSS8</modShopLabel>
           <linkedModels>
-         	<Item>penum2_cage1</Item>
+            <Item>penum2_cage1</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105458,15 +105387,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-      <Item>
+        <Item>
           <modelName>penum2_chss1</modelName>
           <modShopLabel>PEN2_CHSS9</modShopLabel>
           <linkedModels>
-         	<Item>penum2_cage2</Item>
+            <Item>penum2_cage2</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105477,15 +105406,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss2</modelName>
           <modShopLabel>PEN2_CHSS10</modShopLabel>
           <linkedModels>
-         	<Item>penum2_cage2</Item>
+            <Item>penum2_cage2</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105496,15 +105425,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss3</modelName>
           <modShopLabel>PEN2_CHSS11</modShopLabel>
           <linkedModels>
-         	<Item>penum2_cage2</Item>
+            <Item>penum2_cage2</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105515,15 +105444,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_chss4</modelName>
           <modShopLabel>PEN2_CHSS12</modShopLabel>
           <linkedModels>
-         	<Item>penum2_cage2</Item>
+            <Item>penum2_cage2</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_j</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
           <type>VMT_CHASSIS</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
@@ -105534,11 +105463,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_diff1</modelName>
           <modShopLabel>PEN2_DIIF1</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/>
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -105549,13 +105478,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_diff2</modelName>
           <modShopLabel>PEN2_DIIF2</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_i</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_i</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -105566,13 +105495,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_diff5</modelName>
           <modShopLabel>PEN2_DIIF3</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_i</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_i</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -105583,13 +105512,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_diff7</modelName>
           <modShopLabel>PEN2_DIIF4</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_i</Item>
-		  </turnOffBones> 
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_i</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -105600,15 +105529,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_diff7</modelName>
           <modShopLabel>PEN2_DIIF5</modShopLabel>
           <linkedModels>
-         	<Item>penum2_diff1</Item>
+            <Item>penum2_diff1</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_i</Item>
-		  </turnOffBones>  
+          <turnOffBones>
+            <Item>misc_i</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -105619,13 +105548,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_diff4</modelName>
           <modShopLabel>PEN2_DIIF6</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_i</Item>
-		  </turnOffBones>  
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_i</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -105636,13 +105565,13 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_diff8</modelName>
           <modShopLabel>PEN2_DIIF7</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones>
-         	<Item>misc_i</Item>
-		  </turnOffBones>  
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_i</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -105653,15 +105582,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_diff8</modelName>
           <modShopLabel>PEN2_DIIF8</modShopLabel>
           <linkedModels>
-         	<Item>penum2_diff1</Item>
+            <Item>penum2_diff1</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_i</Item>
-		  </turnOffBones>  
+          <turnOffBones>
+            <Item>misc_i</Item>
+          </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
           <collisionBone>bumper_r</collisionBone>
@@ -105672,16 +105601,16 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_mirr1d</modelName>
           <modShopLabel>PEN2_MIRR1</modShopLabel>
           <linkedModels>
-         	<Item>penum2_mirr1p</Item>
+            <Item>penum2_mirr1p</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_e</Item>
-         	<Item>misc_d</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>misc_d</Item>
+          </turnOffBones>
           <type>VMT_WING_R</type>
           <bone>door_dside_f</bone>
           <collisionBone>door_dside_f</collisionBone>
@@ -105692,16 +105621,16 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_mirr2d</modelName>
           <modShopLabel>PEN2_MIRR2</modShopLabel>
           <linkedModels>
-         	<Item>penum2_mirr2p</Item>
+            <Item>penum2_mirr2p</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_e</Item>
-         	<Item>misc_d</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>misc_d</Item>
+          </turnOffBones>
           <type>VMT_WING_R</type>
           <bone>door_dside_f</bone>
           <collisionBone>door_dside_f</collisionBone>
@@ -105712,11 +105641,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split1</modelName>
           <modShopLabel>PEN2_SPLT1</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/> 
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105727,11 +105656,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split1a</modelName>
           <modShopLabel>PEN2_SPLT2</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/> 
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105742,11 +105671,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split2</modelName>
           <modShopLabel>PEN2_SPLT3</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/> 
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105757,11 +105686,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split2a</modelName>
           <modShopLabel>PEN2_SPLT4</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/> 
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105772,11 +105701,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split3</modelName>
           <modShopLabel>PEN2_SPLT5</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/> 
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105787,11 +105716,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split3a</modelName>
           <modShopLabel>PEN2_SPLT6</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/> 
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105802,11 +105731,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split4</modelName>
           <modShopLabel>PEN2_SPLT7</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/> 
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105817,11 +105746,11 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split4a</modelName>
           <modShopLabel>PEN2_SPLT8</modShopLabel>
-          <linkedModels/>
-		  <turnOffBones/> 
+          <linkedModels />
+          <turnOffBones />
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105832,15 +105761,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split1</modelName>
           <modShopLabel>PEN2_SPLT9</modShopLabel>
           <linkedModels>
-         	<Item>penum2_grll1</Item>
+            <Item>penum2_grll1</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_k</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105851,15 +105780,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split1a</modelName>
           <modShopLabel>PEN2_SPLT10</modShopLabel>
           <linkedModels>
-         	<Item>penum2_grll1</Item>
+            <Item>penum2_grll1</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_k</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105870,15 +105799,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split2</modelName>
           <modShopLabel>PEN2_SPLT11</modShopLabel>
           <linkedModels>
-         	<Item>penum2_grll1</Item>
+            <Item>penum2_grll1</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_k</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105889,15 +105818,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split2a</modelName>
           <modShopLabel>PEN2_SPLT12</modShopLabel>
           <linkedModels>
-         	<Item>penum2_grll1</Item>
+            <Item>penum2_grll1</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_k</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105908,15 +105837,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split3</modelName>
           <modShopLabel>PEN2_SPLT13</modShopLabel>
           <linkedModels>
-         	<Item>penum2_grll2</Item>
+            <Item>penum2_grll2</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_k</Item>
-		  </turnOffBones>  
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105927,15 +105856,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split3a</modelName>
           <modShopLabel>PEN2_SPLT14</modShopLabel>
           <linkedModels>
-         	<Item>penum2_grll2</Item>
+            <Item>penum2_grll2</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_k</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105946,15 +105875,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split4</modelName>
           <modShopLabel>PEN2_SPLT15</modShopLabel>
           <linkedModels>
-         	<Item>penum2_grll2</Item>
+            <Item>penum2_grll2</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_k</Item>
-		  </turnOffBones> 
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105965,15 +105894,15 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-       <Item>
+        <Item>
           <modelName>penum2_split4a</modelName>
           <modShopLabel>PEN2_SPLT16</modShopLabel>
           <linkedModels>
-         	<Item>penum2_grll2</Item>
+            <Item>penum2_grll2</Item>
           </linkedModels>
-		  <turnOffBones>
-         	<Item>misc_k</Item>
-		  </turnOffBones>  
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
           <type>VMT_GRILL</type>
           <bone>bumper_f</bone>
           <collisionBone>bumper_f</collisionBone>
@@ -105985,58 +105914,58 @@
           <allowBonnetSlide value="true" />
         </Item>
       </visibleMods>
-	  <linkMods>
-		<Item>
+      <linkMods>
+        <Item>
           <modelName>penum2_skrt1exd</modelName>
           <bone>door_dside_f</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
+        <Item>
           <modelName>penum2_skrt1exp</modelName>
           <bone>door_pside_f</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
+        <Item>
           <modelName>penum2_cage1</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
+        <Item>
           <modelName>penum2_cage2</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
+        <Item>
           <modelName>penum2_diff1</modelName>
           <bone>bumper_r</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
+        <Item>
           <modelName>penum2_mirr1p</modelName>
           <bone>door_pside_f</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
+        <Item>
           <modelName>penum2_mirr2p</modelName>
           <bone>door_pside_f</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
+        <Item>
           <modelName>penum2_grll1</modelName>
           <bone>bumper_f</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
+        <Item>
           <modelName>penum2_grll2</modelName>
           <bone>bumper_f</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
+        <Item>
           <modelName>penum2_grll3</modelName>
           <bone>bumper_f</bone>
           <turnOffExtra value="false" />
         </Item>
-	  </linkMods>
+      </linkMods>
       <statMods>
         <Item>
           <identifier />
@@ -106227,7 +106156,7 @@
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+        <Item>
           <identifier>HORN_SAD_TROMBONE</identifier>
           <modifier value="632950117" />
           <audioApply value="1.000000" />
@@ -106275,70 +106204,70 @@
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+        </Item>
+        <Item>
           <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
           <modifier value="3203290992" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+        </Item>
+        <Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
           <modifier value="771284519" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+        </Item>
+        <Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
           <modifier value="2586621229" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+        </Item>
+        <Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
           <modifier value="283386134" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+        </Item>
+        <Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
           <modifier value="3884502400" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+        </Item>
+        <Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
           <modifier value="265723083" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+        </Item>
+        <Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
           <modifier value="1746883687" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+        </Item>
+        <Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
           <modifier value="1919870950" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+        </Item>
+        <Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
           <modifier value="1085277077" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
+        </Item>
         <Item>
           <identifier>HIPSTER_HORN_1</identifier>
           <modifier value="444549672" />
@@ -106402,188 +106331,188 @@
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-    <Item>
+        <Item>
           <identifier>LUXE_HORN_2</identifier>
           <modifier value="2900378064" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-    <Item>
+        <Item>
           <identifier>LUXE_HORN_3</identifier>
           <modifier value="3956195248" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>LUXORY_HORN_1</identifier>
           <modifier value="676333254" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>LUXURY_HORN_2</identifier>
           <modifier value="2099578296" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>LUXURY_HORN_3</identifier>
           <modifier value="1373384483" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+        <Item>
           <identifier>ORGAN_HORN_LOOP_01</identifier>
           <modifier value="2916775806" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
           <modifier value="3714706952" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+        <Item>
           <identifier>ORGAN_HORN_LOOP_02</identifier>
           <modifier value="2611860261" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
           <modifier value="3206770359" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+        <Item>
           <identifier>LOWRIDER_HORN_1</identifier>
           <modifier value="310529291" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
           <modifier value="2965568987" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+        <Item>
           <identifier>LOWRIDER_HORN_2</identifier>
           <modifier value="55291550" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
           <modifier value="965054819" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+        <Item>
           <identifier>XM15_HORN_01</identifier>
           <modifier value="55862314" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>XM15_HORN_01_PREVIEW</identifier>
           <modifier value="2156743178" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+        <Item>
           <identifier>XM15_HORN_02</identifier>
           <modifier value="400002352" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>XM15_HORN_02_PREVIEW</identifier>
           <modifier value="897484282" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+        <Item>
           <identifier>XM15_HORN_03</identifier>
           <modifier value="560832604" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>XM15_HORN_03_PREVIEW</identifier>
           <modifier value="314232747" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-   		<Item>
+        <Item>
           <identifier>DLC_AW_Airhorn_01</identifier>
           <modifier value="3851180092" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>DLC_AW_Airhorn_01_Preview</identifier>
           <modifier value="246182814" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+        <Item>
           <identifier>DLC_AW_Airhorn_02</identifier>
           <modifier value="3412861948" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>DLC_AW_Airhorn_02_Preview</identifier>
           <modifier value="1804608241" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+        <Item>
           <identifier>DLC_AW_Airhorn_03</identifier>
           <modifier value="3374260066" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-		<Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
           <identifier>DLC_AW_Airhorn_03_Preview</identifier>
           <modifier value="2798044638" />
           <audioApply value="1.000000" />
@@ -106591,20 +106520,20 @@
           <type>VMT_HORN</type>
         </Item>
       </statMods>
-	  <slotNames>
-		<Item>
+      <slotNames>
+        <Item>
           <slot>VMT_WING_R</slot>
           <name>TOP_MIR</name>
         </Item>
-		<Item>
+        <Item>
           <slot>VMT_WING_L</slot>
           <name>TOP_SUNST</name>
         </Item>
-		<Item>
+        <Item>
           <slot>VMT_CHASSIS</slot>
           <name>TOP_SEATF</name>
         </Item>
-		<Item>
+        <Item>
           <slot>VMT_GRILL</slot>
           <name>TOP_SPLIT</name>
         </Item>
@@ -107692,7 +107621,7 @@
   <Sirens>
     <!-- WiseGuy Crown Vic Sirens -->
     <Item>
-      <id value="437" />
+      <id value="302294" />
       <name>npolvic</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="70.00000000" />
@@ -108463,7 +108392,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="451" />
+      <id value="302294" />
       <name>npolmm</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="70.00000000" />
@@ -109234,7 +109163,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="441" />
+      <id value="302294" />
       <name>npolstang</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="70.00000000" />
@@ -110005,7 +109934,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="72" />
+      <id value="302294" />
       <name>bcat</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="70.00000000" />
@@ -110776,7 +110705,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="179" />
+      <id value="302294" />
       <name>LSPD_Unmarked_modern</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="75" />
@@ -111545,7 +111474,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="198" />
+      <id value="302294" />
       <name>Speedo Ambulance</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="90.00000000" />
@@ -112316,7 +112245,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="5401" />
+      <id value="302294" />
       <name>WiseGuyUC</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="90.00000000" />
@@ -113087,7 +113016,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="5402" />
+      <id value="302294" />
       <name>WiseGuyCoach</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="90.00000000" />
@@ -113859,7 +113788,7 @@
     </Item>
     <Item>
       <!-- EMS10 78-->
-      <id value="78" />
+      <id value="302294" />
       <name>Amber_lights</name>
       <timeMultiplier value="1.00000000" />
       <lightFalloffMax value="35.00000000" />
@@ -123655,11 +123584,16 @@
         <rear value="false" />
       </Item>
     </Item>
-    <Item /> <!-- VWT_MUSCLE -->
-    <Item /> <!-- VWT_BIKE -->
-    <Item /> <!-- VWT_HIEND -->
-    <Item /> <!-- VWT_SUPERMOD1 -->
-    <Item /> <!-- VWT_SUPERMOD2 -->
+    <Item />
+    <!-- VWT_MUSCLE -->
+    <Item />
+    <!-- VWT_BIKE -->
+    <Item />
+    <!-- VWT_HIEND -->
+    <Item />
+    <!-- VWT_SUPERMOD1 -->
+    <Item />
+    <!-- VWT_SUPERMOD2 -->
     <Item />
   </Wheels>
 </CVehicleModelInfoVarGlobal>

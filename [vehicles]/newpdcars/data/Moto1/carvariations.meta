@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Carvariations.meta Template - McGinlay Customs -->
 <CVehicleModelInfoVariation>
   <variationData>
-	<Item>
+    <Item>
       <modelName>moto</modelName>
       <colors>
         <Item>
@@ -16,17 +16,17 @@
           </indices>
         </Item>
       </colors>
-      <windowsWithExposedEdges/>
+      <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities>
           <Item>
             <Name>Police guv plate</Name>
-            <Value value="100"/>
+            <Value value="100" />
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1"/>
-      <sirenSettings value="90909"/>
+      <lightSettings value="1" />
+      <sirenSettings value="836533" />
     </Item>
   </variationData>
 </CVehicleModelInfoVariation>

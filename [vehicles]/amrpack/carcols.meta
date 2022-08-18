@@ -694,7 +694,7 @@
   </Lights>
   <Sirens>
     <Item>
-      <id value="795814" />
+      <id value="537978" />
       <name>amrf250cr</name>
       <timeMultiplier value="1" />
       <lightFalloffMax value="100" />
@@ -1465,7 +1465,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="795814" />
+      <id value="537978" />
       <name>amrf150cr</name>
       <timeMultiplier value="1" />
       <lightFalloffMax value="100" />
@@ -2236,7 +2236,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="795814" />
+      <id value="537978" />
       <name>amrf250</name>
       <timeMultiplier value="1" />
       <lightFalloffMax value="100" />
@@ -3007,7 +3007,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="795814" />
+      <id value="537978" />
       <name>amr18tahoe</name>
       <timeMultiplier value="1" />
       <lightFalloffMax value="100" />
@@ -3778,7 +3778,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="795814" />
+      <id value="537978" />
       <name>amrf150</name>
       <timeMultiplier value="1" />
       <lightFalloffMax value="100" />
@@ -4549,7 +4549,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="795814" />
+      <id value="537978" />
       <name>amr13fpiu</name>
       <timeMultiplier value="1" />
       <lightFalloffMax value="100" />
@@ -5320,7 +5320,7 @@
       </sirens>
     </Item>
     <Item>
-      <id value="795814" />
+      <id value="537978" />
       <name>amr16fpiu</name>
       <timeMultiplier value="1" />
       <lightFalloffMax value="100" />

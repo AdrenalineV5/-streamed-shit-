@@ -98,7 +98,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="18" />
-      <sirenSettings value="795814" />
+      <sirenSettings value="537978" />
     </Item>
     <Item>
       <modelName>amrf250cr</modelName>
@@ -155,7 +155,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="657" />
-      <sirenSettings value="795814" />
+      <sirenSettings value="537978" />
     </Item>
     <Item>
       <modelName>amrf150cr</modelName>
@@ -212,7 +212,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="657" />
-      <sirenSettings value="795814" />
+      <sirenSettings value="537978" />
     </Item>
     <Item>
       <modelName>amrf150</modelName>
@@ -269,7 +269,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="656" />
-      <sirenSettings value="795814" />
+      <sirenSettings value="537978" />
     </Item>
     <Item>
       <modelName>amrf250</modelName>
@@ -326,7 +326,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="657" />
-      <sirenSettings value="795814" />
+      <sirenSettings value="537978" />
     </Item>
     <Item>
       <modelName>amr18tahoe</modelName>
@@ -334,12 +334,9 @@
         <Item>
           <indices content="char_array">
             0
-            1
             0
-            1
-            64
-            64
-	    64
+            6
+            156 
           </indices>
           <liveries>
             <Item value="false" />
@@ -383,7 +380,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="689" />
-      <sirenSettings value="795814" />
+      <sirenSettings value="537978" />
     </Item>
     <Item>
       <modelName>amr13fpiu</modelName>
@@ -440,7 +437,7 @@
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="703" />
-      <sirenSettings value="795814" />
+      <sirenSettings value="537978" />
     </Item>
     <Item>
       <modelName>amr16fpiu</modelName>
@@ -497,7 +494,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="689" />
-      <sirenSettings value="795814" />
+      <sirenSettings value="537978" />
     </Item>
   </variationData>
 </CVehicleModelInfoVariation>
