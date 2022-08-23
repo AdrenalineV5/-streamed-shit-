@@ -11,7 +11,7 @@
 
   <Kits>
     <Item>
-      <kitName>7325_gcmx3m2022_modkit</kitName>
+      <kitName>7325_JX3M_modkit</kitName>
       <id value="7325" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
@@ -617,7 +617,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>gcmx3m2022</name>
+      <name>JX3M</name>
     </Item>
     </Lights>
 

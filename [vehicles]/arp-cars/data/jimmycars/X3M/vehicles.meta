@@ -5,9 +5,9 @@
 
   <InitDatas>
     <Item>
-      <modelName>gcmx3m2022</modelName>
-      <txdName>gcmx3m2022</txdName>
-      <handlingId>gcmx3m2022</handlingId>
+      <modelName>JX3M</modelName>
+      <txdName>JX3M</txdName>
+      <handlingId>JX3M</handlingId>
       <gameName>BMW X3 M</gameName>
       <vehicleMakeName>BMW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -130,7 +130,7 @@
   <txdRelationships>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>gcmx3m2022</child>
+      <child>JX3M</child>
     </Item>
   </txdRelationships>
 
