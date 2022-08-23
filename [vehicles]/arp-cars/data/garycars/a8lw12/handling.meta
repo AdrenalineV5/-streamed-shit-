@@ -8,9 +8,9 @@
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.080000" z="-0.010000" />
       <vecInertiaMultiplier x="1.200000" y="1.400000" z="1.60000" />
-      <fDriveBiasFront value="0.000000" />
+      <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
-      <fInitialDriveForce value="0.240000" />
+      <fInitialDriveForce value="0.260000" />
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="4.500000" />
       <fClutchChangeRateScaleDownShift value="2.500000" />
@@ -23,7 +23,7 @@
       <fTractionCurveMin value="2.700000" />
       <fTractionCurveLateral value="22.500000" />
       <fTractionSpringDeltaMax value="0.190000" />
-      <fLowSpeedTractionLossMult value="1.20000" />
+      <fLowSpeedTractionLossMult value="1.80000" />
       <fCamberStiffnesss value="0.000000" />
       <fTractionBiasFront value="0.50000" />
       <fTractionLossMult value="0.800000" />
