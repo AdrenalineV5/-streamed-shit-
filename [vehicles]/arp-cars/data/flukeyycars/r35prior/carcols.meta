@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
 	    <Item>
-      <kitName>967_r35prior_modkit</kitName>
-      <id value="967"/>
+      <kitName>5967_r35prior_modkit</kitName>
+      <id value="5967"/>
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
         <Item>
