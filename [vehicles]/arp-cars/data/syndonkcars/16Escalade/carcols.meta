@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>3685_18Escalade28s_modkit</kitName>
-      <id value="3685" />
+      <kitName>0_default_modkit</kitName>
+      <id value="0" />
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods />
       <linkMods />
