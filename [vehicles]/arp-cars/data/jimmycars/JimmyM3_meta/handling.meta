@@ -5,7 +5,7 @@
      <Item type="CHandlingData">
       <handlingName>M3F80</handlingName>
       <fMass value="2200.000000" />
-      <fInitialDragCoeff value="6.200000" />
+      <fInitialDragCoeff value="5.200000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.000000" />
       <vecInertiaMultiplier x="1.300000" y="1.600000" z="2.000000" />
