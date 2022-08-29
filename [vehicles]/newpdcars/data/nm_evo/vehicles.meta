@@ -6,7 +6,7 @@
     <Item>
       <modelName>nm_evo</modelName>
       <txdName>nm_evo</txdName>
-      <handlingId>EVO10</handlingId>
+      <handlingId>nm_evo</handlingId>
       <gameName>nm_evo</gameName>
       <vehicleMakeName>MITSUBISHI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
