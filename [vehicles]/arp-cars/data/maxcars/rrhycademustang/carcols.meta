@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>5043_rrhycademustang_modkit</kitName>
-      <id value="5043" />	 	  
+      <kitName>3872_rrhycademustang_modkit</kitName>
+      <id value="3872" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods />
       <linkMods />
