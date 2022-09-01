@@ -7,7 +7,7 @@
       <modelName>lbwk35</modelName>
       <txdName>lbwk35</txdName>
       <handlingId>lbwk35</handlingId>
-      <gameName>GTR</gameName>
+      <gameName>lbwk35</gameName>
       <vehicleMakeName>Nissan</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-     <audioNameHash>WINDSOR</audioNameHash>
+     <audioNameHash>specter2</audioNameHash>
       <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>ELEGY_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
