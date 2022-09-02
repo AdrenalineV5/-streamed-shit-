@@ -2,7 +2,7 @@
 <CHandlingDataMgr>
   <HandlingData>
   <Item type="CHandlingData">
-      <handlingName>GOLFP</handlingName>
+      <handlingName>GOLFPMAX</handlingName>
       <fMass value="1800.000000" />
       <fInitialDragCoeff value="5.600000" />
       <fPercentSubmerged value="85.000000" />
