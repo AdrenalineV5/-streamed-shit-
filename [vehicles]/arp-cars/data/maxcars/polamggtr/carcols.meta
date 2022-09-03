@@ -11,8 +11,8 @@
 
   <Kits>
     <Item>
-      <kitName>0_polamggtr_modkit</kitName>
-      <id value="0" />	 	  
+      <kitName>2381_polamggtr_modkit</kitName>
+      <id value="2381" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       </visibleMods>

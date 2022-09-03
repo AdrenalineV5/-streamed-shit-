@@ -35,13 +35,13 @@
         </Item>
       </colors>
       <kits>
-        <Item>0_default_modkit</Item>
+        <Item>2381_polamggtr_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities />
       </plateProbabilities>
-      <lightSettings value="999" />
+      <lightSettings value="1" />
       <sirenSettings value="1" />
     </Item>
 
