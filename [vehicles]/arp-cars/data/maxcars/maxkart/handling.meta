@@ -11,7 +11,7 @@
       <vecCentreOfMassOffset x="0.000000" y="-0.150000" z="0.000000" />
       <vecInertiaMultiplier x="1.00000" y="1.00000" z="1.300000" />
       <fDriveBiasFront value="0.500000" />
-      <nInitialDriveGears value="4" />
+      <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.253000" />
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="4.700000" />
@@ -27,7 +27,7 @@
       <fTractionSpringDeltaMax value="0.150000" />
       <fLowSpeedTractionLossMult value="0.600000" />
       <fCamberStiffnesss value="0.000000" />
-      <fTractionBiasFront value="0.472000" />
+      <fTractionBiasFront value="0.475000" />
       <fTractionLossMult value="1.4000000" />
       <fSuspensionForce value="6.00000" />
       <fSuspensionCompDamp value="2.400000" />

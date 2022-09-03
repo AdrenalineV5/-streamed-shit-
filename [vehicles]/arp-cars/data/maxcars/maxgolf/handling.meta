@@ -2,7 +2,7 @@
 <CHandlingDataMgr>
   <HandlingData>
   <Item type="CHandlingData">
-      <handlingName>GOLFPMAX</handlingName>
+      <handlingName>GOLFP</handlingName>
       <fMass value="1800.000000" />
       <fInitialDragCoeff value="5.600000" />
       <fPercentSubmerged value="85.000000" />
@@ -36,8 +36,8 @@
       <fSuspensionBiasFront value="0.501000" />
       <fAntiRollBarForce value="0.000000" />
       <fAntiRollBarBiasFront value="0.600000" />
-      <fRollCentreHeightFront value="0.384000" />
-      <fRollCentreHeightRear value="0.384000" />
+      <fRollCentreHeightFront value="0.274000" />
+      <fRollCentreHeightRear value="0.274000" />
       <fCollisionDamageMult value="0.700000" />
       <fWeaponDamageMult value="0.700000" />
       <fDeformationDamageMult value="0.700000" />
