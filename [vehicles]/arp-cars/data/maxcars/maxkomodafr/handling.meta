@@ -6,7 +6,7 @@
 	  <Item type="CHandlingData">
       <handlingName>KOMODAFR</handlingName>
       <fMass value="1600.000000" />
-      <fInitialDragCoeff value="6.000000" />
+      <fInitialDragCoeff value="6.500000" />
       <fDownforceModifier value="1.050" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.30000" />
