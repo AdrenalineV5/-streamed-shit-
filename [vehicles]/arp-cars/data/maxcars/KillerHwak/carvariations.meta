@@ -25,13 +25,13 @@
         </Item>
       </colors>
       <kits>
-        <Item>32483249238_KillerHwak_modkit</Item>
+        <Item>0_default_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities />
       </plateProbabilities>
-      <lightSettings value="0" />
+      <lightSettings value="4" />
       <sirenSettings value="0" />
     </Item>
 
