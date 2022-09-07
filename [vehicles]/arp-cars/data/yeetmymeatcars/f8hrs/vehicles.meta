@@ -7,7 +7,7 @@
       <modelName>f8hrs</modelName>
       <txdName>f8hrs</txdName>
       <handlingId>f8hrs</handlingId>
-      <gameName>F8 HR</gameName>
+      <gameName>f8hrs</gameName>
       <vehicleMakeName>f8hrs</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -59,10 +59,10 @@
       <steerWheelMult value="1.000000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
-        10.000000	
-        25.000000	
-        60.000000	
-        120.000000	
+        500.000000	
+        500.000000	
+        500.000000	
+        500.000000	
         500.000000	
         500.000000
       </lodDistances>
