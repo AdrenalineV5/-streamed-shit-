@@ -6,7 +6,7 @@
     <Item>
       <modelName>golfp</modelName>
       <txdName>golfp</txdName>
-      <handlingId>GOLFPMAX</handlingId>
+      <handlingId>GOLFP</handlingId>
       <gameName>GOLFP</gameName>
       <vehicleMakeName>VW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
