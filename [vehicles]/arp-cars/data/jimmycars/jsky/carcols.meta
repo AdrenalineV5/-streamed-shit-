@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>998_jsky_modkit</kitName>
-      <id value="998" />	 	  
+      <kitName>1284_jsky_modkit</kitName>
+      <id value="1284" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
