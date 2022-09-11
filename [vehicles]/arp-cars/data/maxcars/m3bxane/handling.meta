@@ -5,6 +5,7 @@
     <Item type="CHandlingData">
       <handlingName>M3BXANE</handlingName>
       <fMass value="1750.000000" />
+      <fDownforceModifier value="9.000000" />
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
