@@ -77,7 +77,7 @@
       <frequency value="10" />
       <swankness>SWANKNESS_5</swankness>
       <maxNum value="10" />
-      <flags>FLAG_SPORTS FLAG_DROP_SUSPENSION_WHEN_STOPPED FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD FLAG_AVERAGE_CAR FLAG_HAS_LIVERY</flags>
+      <flags>FLAG_SPORTS FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD FLAG_AVERAGE_CAR FLAG_HAS_LIVERY</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_DUKES</dashboardType>

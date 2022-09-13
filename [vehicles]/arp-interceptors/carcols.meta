@@ -5825,8 +5825,8 @@
       </liveryNames>
     </Item>
     <Item>
-      <kitName>2071_npolvette_modkit</kitName>
-      <id value="2071" />
+      <kitName>4071_npolvette_modkit</kitName>
+      <id value="4071" />
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>

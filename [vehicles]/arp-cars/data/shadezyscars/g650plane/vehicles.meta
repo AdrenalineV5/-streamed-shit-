@@ -5,10 +5,10 @@
 
   <InitDatas>
     <Item>
-      <modelName>g650</modelName>
-      <txdName>g650</txdName>
-      <handlingId>g650</handlingId>
-      <gameName>g650</gameName>
+      <modelName>g650plane</modelName>
+      <txdName>g650plane</txdName>
+      <handlingId>g650plane</handlingId>
+      <gameName>g650plane</gameName>
       <vehicleMakeName>gulfstream</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -17,7 +17,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>miljet</audioNameHash>
-      <layout>LAYOUT_PLANE_G650</layout>
+      <layout>LAYOUT_PLANE_g650plane</layout>
       <coverBoundOffsets>STANDARD_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_MILJET</explosionInfo>
       <scenarioLayout />

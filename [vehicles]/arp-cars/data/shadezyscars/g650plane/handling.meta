@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>g650</handlingName>
+      <handlingName>g650plane</handlingName>
       <fMass value="33838" />
       <fInitialDragCoeff value="3.5" />
       <fPercentSubmerged value="20" />

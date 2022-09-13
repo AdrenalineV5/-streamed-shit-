@@ -3,7 +3,7 @@
 <CVehicleModelInfoVariation>
   <variationData>
     <Item>
-      <modelName>g650</modelName>
+      <modelName>g650plane</modelName>
       <colors>
         <Item>
           <indices content="char_array">

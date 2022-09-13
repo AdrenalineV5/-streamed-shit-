@@ -47,7 +47,7 @@
   
   <VehicleEntryPointInfos>
     <Item type="CVehicleEntryPointInfo">
-      <Name>ENTRY_POINT_PLANE_G650_FRONT_LEFT</Name>
+      <Name>ENTRY_POINT_PLANE_g650plane_FRONT_LEFT</Name>
       <DoorBoneName>door_dside_f</DoorBoneName>
       <SecondDoorBoneName>door_dside_r</SecondDoorBoneName>
       <DoorHandleBoneName>handle_dside_f</DoorHandleBoneName>
@@ -62,7 +62,7 @@
 	  <BreakoutTestPoint>GET_IN</BreakoutTestPoint>
     </Item>
     <Item type="CVehicleEntryPointInfo">
-      <Name>ENTRY_POINT_PLANE_G650_FRONT_RIGHT</Name>
+      <Name>ENTRY_POINT_PLANE_g650plane_FRONT_RIGHT</Name>
       <DoorBoneName>door_dside_f</DoorBoneName>
       <SecondDoorBoneName>door_dside_r</SecondDoorBoneName>
       <DoorHandleBoneName>handle_dside_f</DoorHandleBoneName>
@@ -77,7 +77,7 @@
 	  <BreakoutTestPoint>GET_IN</BreakoutTestPoint>
     </Item>
 	<Item type="CVehicleEntryPointInfo">
-      <Name>ENTRY_POINT_PLANE_G650_REAR_LEFT</Name>
+      <Name>ENTRY_POINT_PLANE_g650plane_REAR_LEFT</Name>
       <DoorBoneName>door_dside_f</DoorBoneName>
       <SecondDoorBoneName>door_dside_r</SecondDoorBoneName>
       <DoorHandleBoneName />
@@ -92,7 +92,7 @@
       <BreakoutTestPoint>POINT_TYPE_MAX</BreakoutTestPoint>
     </Item>
     <Item type="CVehicleEntryPointInfo">
-      <Name>ENTRY_POINT_PLANE_G650_REAR_RIGHT</Name>
+      <Name>ENTRY_POINT_PLANE_g650plane_REAR_RIGHT</Name>
       <DoorBoneName>door_dside_f</DoorBoneName>
       <SecondDoorBoneName>door_dside_r</SecondDoorBoneName>
       <DoorHandleBoneName />
@@ -107,7 +107,7 @@
       <BreakoutTestPoint>POINT_TYPE_MAX</BreakoutTestPoint>
     </Item>
     <Item type="CVehicleEntryPointInfo">
-      <Name>ENTRY_POINT_PLANE_G650_EXTRA_LEFT_1</Name>
+      <Name>ENTRY_POINT_PLANE_g650plane_EXTRA_LEFT_1</Name>
       <DoorBoneName>door_dside_f</DoorBoneName>
       <SecondDoorBoneName>door_dside_r</SecondDoorBoneName>
       <DoorHandleBoneName />
@@ -122,7 +122,7 @@
       <BreakoutTestPoint>POINT_TYPE_MAX</BreakoutTestPoint>
     </Item>
     <Item type="CVehicleEntryPointInfo">
-      <Name>ENTRY_POINT_PLANE_G650_EXTRA_RIGHT_1</Name>
+      <Name>ENTRY_POINT_PLANE_g650plane_EXTRA_RIGHT_1</Name>
       <DoorBoneName>door_dside_f</DoorBoneName>
       <SecondDoorBoneName>door_dside_r</SecondDoorBoneName>
       <DoorHandleBoneName />
@@ -137,7 +137,7 @@
       <BreakoutTestPoint>POINT_TYPE_MAX</BreakoutTestPoint>
     </Item>
     <Item type="CVehicleEntryPointInfo">
-      <Name>ENTRY_POINT_PLANE_G650_EXTRA_RIGHT_2</Name>
+      <Name>ENTRY_POINT_PLANE_g650plane_EXTRA_RIGHT_2</Name>
       <DoorBoneName>door_dside_f</DoorBoneName>
       <SecondDoorBoneName>door_dside_r</SecondDoorBoneName>
       <DoorHandleBoneName />
@@ -152,7 +152,7 @@
       <BreakoutTestPoint>POINT_TYPE_MAX</BreakoutTestPoint>
     </Item>
     <Item type="CVehicleEntryPointInfo">
-      <Name>ENTRY_POINT_PLANE_G650_EXTRA_RIGHT_3</Name>
+      <Name>ENTRY_POINT_PLANE_g650plane_EXTRA_RIGHT_3</Name>
       <DoorBoneName>door_dside_f</DoorBoneName>
       <SecondDoorBoneName>door_dside_r</SecondDoorBoneName>
       <DoorHandleBoneName />
@@ -174,7 +174,7 @@
   
   <VehicleEntryPointAnimInfos>
     <Item type="CVehicleEntryPointAnimInfo">
-      <Name>ENTRY_POINT_ANIM_PLANE_G650_REAR_LEFT</Name>
+      <Name>ENTRY_POINT_ANIM_PLANE_g650plane_REAR_LEFT</Name>
       <CommonClipSetMap ref="COMMON_CLIPSET_MAP_PLANE_JET" />
       <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_PLANE_NIMBUS_REAR_LEFT" />
       <ExitClipSetMap ref="EXIT_CLIPSET_MAP_PLANE_NIMBUS_REAR_LEFT" />
@@ -194,7 +194,7 @@
       <NMJumpFromVehicleTuningSet />
     </Item>
     <Item type="CVehicleEntryPointAnimInfo">
-      <Name>ENTRY_POINT_ANIM_PLANE_G650_REAR_RIGHT</Name>
+      <Name>ENTRY_POINT_ANIM_PLANE_g650plane_REAR_RIGHT</Name>
       <CommonClipSetMap ref="COMMON_CLIPSET_MAP_PLANE_JET" />
       <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_PLANE_NIMBUS_REAR_RIGHT" />
       <ExitClipSetMap ref="EXIT_CLIPSET_MAP_PLANE_NIMBUS_REAR_RIGHT" />
@@ -214,7 +214,7 @@
       <NMJumpFromVehicleTuningSet />
     </Item>
     <Item type="CVehicleEntryPointAnimInfo">
-      <Name>ENTRY_POINT_ANIM_PLANE_G650_EXTRA_LEFT_1</Name>
+      <Name>ENTRY_POINT_ANIM_PLANE_g650plane_EXTRA_LEFT_1</Name>
       <CommonClipSetMap ref="COMMON_CLIPSET_MAP_PLANE_JET" />
       <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_PLANE_NIMBUS_EXTRA_LEFT_1" />
       <ExitClipSetMap ref="EXIT_CLIPSET_MAP_PLANE_NIMBUS_EXTRA_LEFT_1" />
@@ -234,7 +234,7 @@
       <NMJumpFromVehicleTuningSet />
     </Item>
     <Item type="CVehicleEntryPointAnimInfo">
-      <Name>ENTRY_POINT_ANIM_PLANE_G650_EXTRA_RIGHT_1</Name>
+      <Name>ENTRY_POINT_ANIM_PLANE_g650plane_EXTRA_RIGHT_1</Name>
       <CommonClipSetMap ref="COMMON_CLIPSET_MAP_PLANE_JET" />
       <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_PLANE_NIMBUS_EXTRA_RIGHT_1" />
       <ExitClipSetMap ref="EXIT_CLIPSET_MAP_PLANE_NIMBUS_EXTRA_RIGHT_1" />
@@ -254,7 +254,7 @@
       <NMJumpFromVehicleTuningSet />
     </Item>
     <Item type="CVehicleEntryPointAnimInfo">
-      <Name>ENTRY_POINT_ANIM_PLANE_G650_EXTRA_RIGHT_2</Name>
+      <Name>ENTRY_POINT_ANIM_PLANE_g650plane_EXTRA_RIGHT_2</Name>
       <CommonClipSetMap ref="COMMON_CLIPSET_MAP_PLANE_JET" />
       <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_PLANE_NIMBUS_EXTRA_RIGHT_2" />
       <ExitClipSetMap ref="EXIT_CLIPSET_MAP_PLANE_NIMBUS_EXTRA_RIGHT_2" />
@@ -274,7 +274,7 @@
       <NMJumpFromVehicleTuningSet />
     </Item>
     <Item type="CVehicleEntryPointAnimInfo">
-      <Name>ENTRY_POINT_ANIM_PLANE_G650_EXTRA_RIGHT_3</Name>
+      <Name>ENTRY_POINT_ANIM_PLANE_g650plane_EXTRA_RIGHT_3</Name>
       <CommonClipSetMap ref="COMMON_CLIPSET_MAP_PLANE_JET" />
       <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_PLANE_NIMBUS_EXTRA_RIGHT_3" />
       <ExitClipSetMap ref="EXIT_CLIPSET_MAP_PLANE_NIMBUS_EXTRA_RIGHT_3" />
@@ -301,7 +301,7 @@
   
   <VehicleLayoutInfos>
     <Item type="CVehicleLayoutInfo">
-      <Name>LAYOUT_PLANE_G650</Name>
+      <Name>LAYOUT_PLANE_g650plane</Name>
       <Seats>
         <Item>
           <SeatInfo ref="SEAT_STANDARD_FRONT_LEFT" />
@@ -338,36 +338,36 @@
       </Seats>
       <EntryPoints>
         <Item>
-          <EntryPointInfo ref="ENTRY_POINT_PLANE_G650_FRONT_LEFT" />
+          <EntryPointInfo ref="ENTRY_POINT_PLANE_g650plane_FRONT_LEFT" />
           <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_MILJET_FRONT_LEFT" />
         </Item>
         <Item>
-          <EntryPointInfo ref="ENTRY_POINT_PLANE_G650_FRONT_RIGHT" />
+          <EntryPointInfo ref="ENTRY_POINT_PLANE_g650plane_FRONT_RIGHT" />
           <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_MILJET_FRONT_RIGHT" />
         </Item>
         <Item>
-          <EntryPointInfo ref="ENTRY_POINT_PLANE_G650_REAR_LEFT" />
-          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_G650_REAR_LEFT" />
+          <EntryPointInfo ref="ENTRY_POINT_PLANE_g650plane_REAR_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_g650plane_REAR_LEFT" />
         </Item>
         <Item>
-          <EntryPointInfo ref="ENTRY_POINT_PLANE_G650_REAR_RIGHT" />
-          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_G650_REAR_RIGHT" />
+          <EntryPointInfo ref="ENTRY_POINT_PLANE_g650plane_REAR_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_g650plane_REAR_RIGHT" />
         </Item>
         <Item>
-          <EntryPointInfo ref="ENTRY_POINT_PLANE_G650_EXTRA_LEFT_1" />
-          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_G650_EXTRA_LEFT_1" />
+          <EntryPointInfo ref="ENTRY_POINT_PLANE_g650plane_EXTRA_LEFT_1" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_g650plane_EXTRA_LEFT_1" />
         </Item>
         <Item>
-          <EntryPointInfo ref="ENTRY_POINT_PLANE_G650_EXTRA_RIGHT_1" />
-          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_G650_EXTRA_RIGHT_1" />
+          <EntryPointInfo ref="ENTRY_POINT_PLANE_g650plane_EXTRA_RIGHT_1" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_g650plane_EXTRA_RIGHT_1" />
         </Item>
         <Item>
-          <EntryPointInfo ref="ENTRY_POINT_PLANE_G650_EXTRA_RIGHT_2" />
-          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_G650_EXTRA_RIGHT_2" />
+          <EntryPointInfo ref="ENTRY_POINT_PLANE_g650plane_EXTRA_RIGHT_2" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_g650plane_EXTRA_RIGHT_2" />
         </Item>
         <Item>
-          <EntryPointInfo ref="ENTRY_POINT_PLANE_G650_EXTRA_RIGHT_3" />
-          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_G650_EXTRA_RIGHT_3" />
+          <EntryPointInfo ref="ENTRY_POINT_PLANE_g650plane_EXTRA_RIGHT_3" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_g650plane_EXTRA_RIGHT_3" />
         </Item>
       </EntryPoints>
       <LayoutFlags>StreamAnims DisableJackingAndBusting ClimbUpAfterOpenDoor UseFinerAlignTolerance AllowEarlyDoorAndSeatUnreservation</LayoutFlags>
