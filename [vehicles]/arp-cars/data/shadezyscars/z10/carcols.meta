@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>
   <Kits>
     <Item>
-      <kitName>1285_z10_modkit</kitName>
-      <id value="1285" />
+      <kitName>1962_z10_modkit</kitName>
+      <id value="1962" />
       <kitType>MKT_STANDARD</kitType>
       <visibleMods> 
         <Item>
