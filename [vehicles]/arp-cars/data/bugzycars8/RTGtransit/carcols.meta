@@ -4,7 +4,7 @@
    
       <Sirens>
 		<Item>
-     <id value="1110"/>
+     <id value="4210_RTGtransit_modkit"/>
       <name>RTGtransit</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="15.00000000"/>

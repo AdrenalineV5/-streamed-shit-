@@ -4,7 +4,7 @@
    
       <Sirens>
 		<Item>
-     <id value="1110"/>
+     <id value="4510_RTGtransit_modkit"/>
       <name>RTGTransitv2</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="15.00000000"/>
@@ -12,7 +12,7 @@
       <lightInnerConeAngle value="10.00000000"/>
       <lightOuterConeAngle value="70.00000000"/>
       <lightOffset value="0.00000000"/>
-      <textureName>VehicleLight_sirenlight</textureName>
+      <textureName></textureName>
       <sequencerBpm value="200"/>
       <leftHeadLight>
         <sequencer value="0"/>

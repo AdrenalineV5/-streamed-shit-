@@ -42,7 +42,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>1110_RTGTransitv2_modkit</Item>
+        <Item>4510_RTGtransit_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -53,7 +53,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1" />
+      <lightSettings value="4" />
       <sirenSettings value="4" />
     </Item>
   </variationData>
