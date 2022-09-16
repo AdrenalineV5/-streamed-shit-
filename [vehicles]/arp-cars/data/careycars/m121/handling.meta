@@ -4,7 +4,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>m121</handlingName>
-      <fMass value="750.500000" />
+      <fMass value="1250.500000" />
       <fInitialDragCoeff value="2.000000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.000000" />
@@ -59,16 +59,16 @@
           <fLeanFwdForceMult value="13.250000" />
           <fLeanBakCOMMult value="0.000000" />
           <fLeanBakForceMult value="25.500000" />
-          <fMaxBankAngle value="85.000000" />
-          <fFullAnimAngle value="60.000000" />
+          <fMaxBankAngle value="100.000000" />
+          <fFullAnimAngle value="80.000000" />
           <fDesLeanReturnFrac value="0.300000" />
           <fStickLeanMult value="1.000000" />
           <fBrakingStabilityMult value="-8.000000" />
-          <fInAirSteerMult value="16.500000" />
+          <fInAirSteerMult value="-18.500000" />
           <fWheelieBalancePoint value="12.000000" />
           <fStoppieBalancePoint value="-13.000000" />
           <fWheelieSteerMult value="-27.000000" />
-          <fRearBalanceMult value="80.000000" />
+          <fRearBalanceMult value="100.000000" />
           <fFrontBalanceMult value="85.000000" />
           <fBikeGroundSideFrictionMult value="1.400000" />
           <fBikeWheelGroundSideFrictionMult value="1.100000" />
