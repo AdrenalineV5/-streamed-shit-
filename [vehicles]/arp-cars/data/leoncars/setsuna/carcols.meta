@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CVehicleModelInfoVarGlobal>    
+    
+<CVehicleModelInfoVarGlobal>
   <Kits>
     <Item>
-      <kitName>2846_setsuna_modkit</kitName>
-      <id value="2846" />	 	  
-      <kitType>MKT_SPECIAL</kitType>
+      <kitName>1076_setsuna_modkit</kitName>
+      <id value="1076" />	 	  
+      <kitType>MKT_STANDARD</kitType>
       <visibleMods>
+	  <!-- bonnet/bumper -->
 	  <Item>
           <modelName>setsuna_2jz</modelName>
           <modShopLabel>setsuna_2jz</modShopLabel>
@@ -1486,7 +1488,7 @@
         </Item>
         <Item>
           <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
-          <modifier value="38284654122" />
+          <modifier value="3892554122" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
@@ -1644,19 +1646,21 @@
     </Item>
   </Kits>   
     <Lights>
-  <Item>
-      <id value="665" />	
+<Item>
+      <id value="1076" />
       <indicator>
         <intensity value="0.375000" />
         <falloffMax value="2.500000" />
         <falloffExponent value="8.000000" />
-        <innerConeAngle value="30.000000" />
-        <outerConeAngle value="80.000000" />
+        <innerConeAngle value="20.000000" />
+        <outerConeAngle value="50.000000" />
         <emmissiveBoost value="false" />
-        <color value="0xFFFF8000" />
+        <color value="0xFFFF7300" />
+        <textureName />
+        <mirrorTexture value="true" />
       </indicator>
       <rearIndicatorCorona>
-        <size value="0.200000" />
+        <size value="0.000000" />
         <size_far value="0.000000" />
         <intensity value="0.000000" />
         <intensity_far value="0.000000" />
@@ -1693,20 +1697,22 @@
         <outerConeAngle value="90.000000" />
         <emmissiveBoost value="false" />
         <color value="0xFFFF0000" />
+        <textureName />
+        <mirrorTexture value="true" />
       </tailLight>
       <tailLightCorona>
-        <size value="0.900000" />
-        <size_far value="5.300000" />
-        <intensity value="4.000000" />
-        <intensity_far value="1.000000" />
-        <color value="0xFFFF1E05" />
-        <numCoronas value="0" />
-        <distBetweenCoronas value="0.1" />
-        <distBetweenCoronas_far value="20.5" />
+        <size value="0.00000" />
+        <size_far value="0.00000" />
+        <intensity value="0.00000" />
+        <intensity_far value="0.000000" />
+        <color value="0xFFFF0F05" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="1" />
+        <distBetweenCoronas_far value="111" />
         <xRotation value="0.000000" />
         <yRotation value="0.000000" />
-        <zRotation value="5.667000" />
-        <zBias value="0.000000" />
+        <zRotation value="6.189000" />
+        <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </tailLightCorona>
       <tailLightMiddleCorona>
@@ -1715,32 +1721,6 @@
         <intensity value="0.000000" />
         <intensity_far value="0.000000" />
         <color value="0x00000000" />
-        <numCoronas value="0" />
-        <distBetweenCoronas value="25" />
-        <distBetweenCoronas_far value="25" />
-        <xRotation value="0.000000" />
-        <yRotation value="0.000000" />
-        <zRotation value="0.000000" />
-        <zBias value="0.000000" />
-        <pullCoronaIn value="false" />
-      </tailLightMiddleCorona>
-      <headLight>
-        <intensity value="1.000000" />
-        <falloffMax value="35.000000" />
-        <falloffExponent value="16.000000" />
-        <innerConeAngle value="0.000000" />
-        <outerConeAngle value="60.209999" />
-        <emmissiveBoost value="false" />
-        <color value="0xFFFFFFCC" />
-        <textureName>VehicleLight_car_oldsquare</textureName>
-        <mirrorTexture value="true" />
-      </headLight>
-      <headLightCorona>
-        <size value="0.100000" />
-        <size_far value="10.000000" />
-        <intensity value="5.000000" />
-        <intensity_far value="1.000000" />
-        <color value="0xFFFFFFFF" />
         <numCoronas value="1" />
         <distBetweenCoronas value="128" />
         <distBetweenCoronas_far value="255" />
@@ -1749,21 +1729,49 @@
         <zRotation value="0.000000" />
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.500000" />
+        <falloffMax value="35.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFF7FA7E3" />
+        <textureName>VehicleLight_car_LED1</textureName>
+        <mirrorTexture value="false" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.00000" />
+        <size_far value="0" />
+        <intensity value="0" />
+        <intensity_far value="0" />
+        <color value="0xFF61A5FF" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="1" />
+        <distBetweenCoronas_far value="147" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.094000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
       </headLightCorona>
       <reversingLight>
         <intensity value="0.500000" />
-        <falloffMax value="4.000000" />
+        <falloffMax value="7.200000" />
         <falloffExponent value="32.000000" />
-        <innerConeAngle value="45.000000" />
-        <outerConeAngle value="90.000000" />
+        <innerConeAngle value="20.000000" />
+        <outerConeAngle value="78.000000" />
         <emmissiveBoost value="false" />
         <color value="0xFFFFFFFF" />
+        <textureName />
+        <mirrorTexture value="true" />
       </reversingLight>
       <reversingLightCorona>
-        <size value="0.800000" />
-        <size_far value="2.000000" />
-        <intensity value="1.500000" />
-        <intensity_far value="1.000000" />
+        <size value="0.00000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
         <color value="0x00F7F7F7" />
         <numCoronas value="1" />
         <distBetweenCoronas value="128" />
