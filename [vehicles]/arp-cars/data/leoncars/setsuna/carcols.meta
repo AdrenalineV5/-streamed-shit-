@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>
   <Kits>
     <Item>
-      <kitName>1076_setsuna_modkit</kitName>
-      <id value="1076" />	 	  
+      <kitName>1856_setsuna_modkit</kitName>
+      <id value="1856" />	 	  
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
 	  <!-- bonnet/bumper -->
