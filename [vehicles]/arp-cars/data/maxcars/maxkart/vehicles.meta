@@ -5,11 +5,11 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>maxkart</modelName>
-      <txdName>maxkart</txdName>
-      <handlingId>maxkart</handlingId>
-      <gameName>maxkart</gameName>
-      <vehicleMakeName>YAMAHA</vehicleMakeName>
+      <modelName>superkart</modelName>
+      <txdName>superkart</txdName>
+      <handlingId>SUPERKART</handlingId>
+      <gameName>SUPERKART</gameName>
+      <vehicleMakeName>NAGASAKI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
