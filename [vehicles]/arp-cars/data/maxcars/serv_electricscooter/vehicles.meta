@@ -82,7 +82,7 @@
       <frequency value="20" />
       <swankness>SWANKNESS_3</swankness>
       <maxNum value="4" />
-      <flags>FLAG_HAS_LIVERY FLAG_NO_BOOT FLAG_IGNORE_ON_SIDE_CHECK FLAG_AVERAGE_CAR FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS</flags>
+      <flags>FLAG_HAS_LIVERY FLAG_AVERAGE_CAR FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS</flags>
       <type>VEHICLE_TYPE_BIKE</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_RACE</dashboardType>

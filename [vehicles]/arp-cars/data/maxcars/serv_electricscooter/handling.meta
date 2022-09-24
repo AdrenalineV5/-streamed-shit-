@@ -15,7 +15,7 @@
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="4.300000" />
       <fClutchChangeRateScaleDownShift value="2.300000" />
-      <fInitialDriveMaxFlatVel value="180.000000" />
+      <fInitialDriveMaxFlatVel value="200.000000" />
       <fBrakeForce value="0.400000" />
       <fBrakeBiasFront value="0.700000" />
       <fHandBrakeForce value="1.000000" />
@@ -58,9 +58,9 @@
           <fLeanFwdCOMMult value="0.000000" />
           <fLeanFwdForceMult value="11.750000" />
           <fLeanBakCOMMult value="0.000000" />
-          <fLeanBakForceMult value="15.150000" />
-          <fMaxBankAngle value="60.000000" />
-          <fFullAnimAngle value="50.000000" />
+          <fLeanBakForceMult value="18.150000" />
+          <fMaxBankAngle value="80.000000" />
+          <fFullAnimAngle value="70.000000" />
           <fDesLeanReturnFrac value="0.140000" />
           <fStickLeanMult value="1.000000" />
           <fBrakingStabilityMult value="-1.000000" />
@@ -74,7 +74,7 @@
           <fBikeWheelGroundSideFrictionMult value="1.100000" />
           <fBikeOnStandLeanAngle value="-15.000000" />
           <fBikeOnStandSteerAngle value="0.300000" />
-          <fJumpForce value="0.000000" />
+          <fJumpForce value="8.000000" />
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
