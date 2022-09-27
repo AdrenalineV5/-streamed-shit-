@@ -60,7 +60,7 @@
           <fLeanBakCOMMult value="0.000000" />
           <fLeanBakForceMult value="50.000000" />
           <fMaxBankAngle value="100.000000" />
-          <fFullAnimAngle value="95.000000" />
+          <fFullAnimAngle value="75.000000" />
           <fDesLeanReturnFrac value="0.140000" />
           <fStickLeanMult value="1.000000" />
           <fBrakingStabilityMult value="-8.000000" />
@@ -68,8 +68,8 @@
           <fWheelieBalancePoint value="16.000000" />
           <fStoppieBalancePoint value="-10.000000" />
           <fWheelieSteerMult value="-0.800000" />
-          <fRearBalanceMult value="450.000000" />
-          <fFrontBalanceMult value="355.000000" />
+          <fRearBalanceMult value="270.000000" />
+          <fFrontBalanceMult value="275.000000" />
           <fBikeGroundSideFrictionMult value="1.400000" />
           <fBikeWheelGroundSideFrictionMult value="1.100000" />
           <fBikeOnStandLeanAngle value="6.300000" />
