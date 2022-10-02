@@ -82,7 +82,11 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
 	  <dashboardType>VDT_ZTYPE</dashboardType>
+<<<<<<< Updated upstream
       <vehicleClass>VC_VAN</vehicleClass>
+=======
+      <vehicleClass>VC_OFFROAD</vehicleClass>
+>>>>>>> Stashed changes
       <wheelType>VWT_SPORT</wheelType>
       <trailers />
       <additionalTrailers />
