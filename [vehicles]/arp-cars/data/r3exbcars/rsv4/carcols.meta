@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>2297_rsv1100_kit</kitName>
+      <kitName>2297_rsv4_kit</kitName>
       <id value="2297" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
