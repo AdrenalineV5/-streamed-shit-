@@ -3,8 +3,8 @@
   <Kits>
 
     <Item>
-      <kitName>1467_smc690_modkit</kitName>
-      <id value="1467" />	 	  
+      <kitName>0_default_modkit</kitName>
+      <id value="0" />	 	  
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
 
