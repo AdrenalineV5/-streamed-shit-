@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>zephyr41c</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Capri Blue Metallic -->
+            230
+            99
+            4
+			0
+			31
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Plympton Gray Metallic -->
+            6
+            1
+            4
+			0
+			31
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Spode Green -->
+            50
+            106
+            0
+			0
+			191
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Darian Blue Metallic -->
+            74
+            1
+            4
+			0
+			191
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Rockingham Tan -->
+            106
+            106
+            0
+			0
+			31
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Volanta Coach Maroon -->
+            33
+            99
+            0
+			0
+			31
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Paradise Green -->
+            177
+            106
+            0
+			0
+			191
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Zephyr Blue -->
+            235
+            106
+            0
+			0
+			31
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            99
+            0
+			0
+			31
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
