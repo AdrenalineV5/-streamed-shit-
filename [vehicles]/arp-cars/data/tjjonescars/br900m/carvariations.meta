@@ -267,7 +267,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>900261613_br900m_modkit</Item>
+        <Item>2385_br900m_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -278,7 +278,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="900261613" />
+      <lightSettings value="4" />
       <sirenSettings value="0" />
     </Item>
   </variationData>

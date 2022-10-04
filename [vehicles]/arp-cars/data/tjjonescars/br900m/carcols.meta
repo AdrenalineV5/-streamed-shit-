@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>900261613_br900m_modkit</kitName>
-      <id value="900261613" />	 	  
+      <kitName>2385_br900m_modkit</kitName>
+      <id value="2385" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 			  <Item>
