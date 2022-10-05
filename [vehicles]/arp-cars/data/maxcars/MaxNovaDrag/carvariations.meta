@@ -25,7 +25,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>2373_cn69_modkit</Item>
+        <Item>0_default_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -62,7 +62,7 @@
         </Item>
       </colors>
       <kits>
-        <Item2373_cn69_modkit</Item>
+        <Item0_default_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -99,7 +99,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>2955_cn69_modkit</Item>
+        <Item>0_default_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
