@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>4000_lhuracant_modkit</kitName>
-      <id value="3400" />	 	  
+      <kitName>2675_lhuracant_modkit</kitName>
+      <id value="2675" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 	  	  <Item>
