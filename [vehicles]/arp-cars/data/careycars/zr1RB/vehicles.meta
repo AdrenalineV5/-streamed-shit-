@@ -4,10 +4,10 @@
 	<residentAnims />
 	<InitDatas>
   <Item>
-      <modelName>zr1RB</modelName>
-      <txdName>zr1RB</txdName>
-      <handlingId>zr1RB</handlingId>
-      <gameName>corvette</gameName>
+      <modelName>zr1rb</modelName>
+      <txdName>zr1rb</txdName>
+      <handlingId>zr1rb</handlingId>
+      <gameName>zr1rb</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>btype2</audioNameHash>
+      <audioNameHash>xa21</audioNameHash>
       <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>COQUETTE_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
