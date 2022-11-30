@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- Digital Deluxo -->
+		<Item>
+			<modelName>W_Boats_DeluxoNULL</modelName>
+			<txdName>W_Boats_DeluxoNULL</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+		
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

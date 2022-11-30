@@ -92,8 +92,8 @@
         </Item>
         <Item type="CVehicleWeaponHandlingData">
           <uWeaponHash>
-            <Item>VEHICLE_WEAPON_TAMPA_DUALMINIGUN</Item>
-            <Item>VEHICLE_WEAPON_TAMPA_DUALMINIGUN</Item>
+            <Item>VEHICLE_WEAPON_TMPA_DUALMINIGUN</Item>
+            <Item>VEHICLE_WEAPON_TMPA_DUALMINIGUN</Item>
 			<Item />
           </uWeaponHash>
           <WeaponSeats content="int_array">

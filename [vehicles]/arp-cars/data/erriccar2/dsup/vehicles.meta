@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>banshee</audioNameHash>
-      <layout>LAYOUT_STANDARD</layout>
+      <layout>LAYOUT_LOW_RHD</layout>
       <coverBoundOffsets>dsup_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />

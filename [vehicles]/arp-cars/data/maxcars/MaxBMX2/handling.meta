@@ -58,9 +58,9 @@
          <fLeanFwdCOMMult value="0.000000" />
           <fLeanFwdForceMult value="13.250000" />
           <fLeanBakCOMMult value="0.000000" />
-          <fLeanBakForceMult value="25.500000" />
+          <fLeanBakForceMult value="3.500000" />
           <fMaxBankAngle value="100.000000" />
-          <fFullAnimAngle value="80.000000" />
+          <fFullAnimAngle value="40.000000" />
           <fDesLeanReturnFrac value="0.300000" />
           <fStickLeanMult value="1.000000" />
           <fBrakingStabilityMult value="-8.000000" />
