@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
    <Item>
-      <kitName>2989_rmodramtrx_modkit</kitName>
-      <id value="2989" />	 	  
+      <kitName>3745_rmodramtrx_modkit</kitName>
+      <id value="3745" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       </visibleMods>
@@ -479,7 +479,7 @@
   </Kits>
       <Lights>
       <Item>
-      <id value="2989" />
+      <id value="3745" />
       <indicator>
         <intensity value="0.375000" />
         <falloffMax value="2.500000" />

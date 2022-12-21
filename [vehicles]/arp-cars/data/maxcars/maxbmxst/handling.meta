@@ -56,11 +56,11 @@
       <SubHandlingData>
         <Item type="CBikeHandlingData">
           <fLeanFwdCOMMult value="0.000000" />
-          <fLeanFwdForceMult value="28.500000" />
+          <fLeanFwdForceMult value="3.500000" />
           <fLeanBakCOMMult value="0.000000" />
-          <fLeanBakForceMult value="30.000000" />
+          <fLeanBakForceMult value="10.000000" />
           <fMaxBankAngle value="30.000000" />
-          <fFullAnimAngle value="38.000000" />
+          <fFullAnimAngle value="8.000000" />
           <fDesLeanReturnFrac value="0.140000" />
           <fStickLeanMult value="1.000000" />
           <fBrakingStabilityMult value="-8.000000" />

@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>7418_evo9_modkit</kitName>
-      <id value="7418" />	 	  
+      <kitName>5149_evo9_modkit</kitName>
+      <id value="5149" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>

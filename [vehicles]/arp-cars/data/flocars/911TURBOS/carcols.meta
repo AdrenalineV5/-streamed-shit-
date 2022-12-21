@@ -775,8 +775,8 @@
   </Sirens>
   <Kits>
 	  <Item>
-      <kitName>690_911turbo_modkit</kitName>
-      <id value="690" />	 	  
+      <kitName>6666_911turbo_modkit</kitName>
+      <id value="6666" />	 	  
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
         <Item>

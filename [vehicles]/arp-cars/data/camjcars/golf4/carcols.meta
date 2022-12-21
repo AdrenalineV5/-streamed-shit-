@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>1523_golf4_modkit</kitName>
-      <id value="1523" />	 	  
+      <kitName>1169_golf4_modkit</kitName>
+      <id value="1169" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 			 
@@ -1975,7 +1975,7 @@
   </Kits>
     <Lights>
     <Item>
-      <id value="1523" />	
+      <id value="1169" />	
       <tailLight>
         <intensity value="0.250000" />
         <falloffMax value="4.000000" />

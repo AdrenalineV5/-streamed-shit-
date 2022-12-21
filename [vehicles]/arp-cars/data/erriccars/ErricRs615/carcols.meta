@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>8954_drillazdrillazrs615_modkit</kitName>
-      <id value="8954" />	 	  
+      <kitName>1853_drillazrs615_modkit</kitName>
+      <id value="1853" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       </visibleMods>
@@ -649,7 +649,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>drillazdrillazrs615</name>
+      <name>drillazrs615</name>
     </Item>		
 
     </Lights>

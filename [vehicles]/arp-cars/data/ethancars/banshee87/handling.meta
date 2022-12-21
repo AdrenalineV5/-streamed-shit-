@@ -3,7 +3,7 @@
   <HandlingData>
       <Item type="CHandlingData">
       <handlingName>banshee87</handlingName>
-      <fMass value="100.000000" />
+      <fMass value="1300.000000" />
       <fInitialDragCoeff value="5.000000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.080000" z="-0.150000" />

@@ -85,7 +85,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
 	  <dashboardType>VDT_ZTYPE</dashboardType>
-      <vehicleClass>VC_BOAT</vehicleClass>
+      <vehicleClass>VC_COUPE</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers />
       <additionalTrailers />
